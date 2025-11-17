@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\My Project\\Booking\\CarBooking\\Model\\Model.csproj": {}
+    "E:\\ModeTour\\DemoCICD\\Booking\\CarBooking\\Model\\Model.csproj": {}
   },
   "projects": {
-    "E:\\My Project\\Booking\\CarBooking\\Model\\Model.csproj": {
+    "E:\\ModeTour\\DemoCICD\\Booking\\CarBooking\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My Project\\Booking\\CarBooking\\Model\\Model.csproj",
+        "projectUniqueName": "E:\\ModeTour\\DemoCICD\\Booking\\CarBooking\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "E:\\My Project\\Booking\\CarBooking\\Model\\Model.csproj",
+        "projectPath": "E:\\ModeTour\\DemoCICD\\Booking\\CarBooking\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\Dang\\.nuget\\packages\\",
-        "outputPath": "E:\\My Project\\Booking\\CarBooking\\Model\\obj\\",
+        "outputPath": "E:\\ModeTour\\DemoCICD\\Booking\\CarBooking\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dang\\AppData\\Roaming\\NuGet\\NuGet.Config",

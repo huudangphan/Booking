@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Project\\Booking\\CarBooking\\Common\\Common.csproj",
+      "projectUniqueName": "E:\\ModeTour\\DemoCICD\\Booking\\CarBooking\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "E:\\My Project\\Booking\\CarBooking\\Common\\Common.csproj",
+      "projectPath": "E:\\ModeTour\\DemoCICD\\Booking\\CarBooking\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\Dang\\.nuget\\packages\\",
-      "outputPath": "E:\\My Project\\Booking\\CarBooking\\Common\\obj\\",
+      "outputPath": "E:\\ModeTour\\DemoCICD\\Booking\\CarBooking\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dang\\AppData\\Roaming\\NuGet\\NuGet.Config",
