@@ -6,9 +6,9 @@ EXPOSE 80
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 COPY ["CarBooking/CarBooking/CarBooking.csproj", "CarBooking/"]
-COPY ["CarBooking/Common/Common.csproj", "Common/"]
-COPY ["CarBooking/DatabaseService/DatabaseService.csproj","DatabaseService/"]
-COPY ["CarBooking/Model/Model.csproj","Model/"]
+COPY ["../Common/Common.csproj", "Common/"]
+COPY ["../DatabaseService/DatabaseService.csproj","DatabaseService/"]
+COPY ["../Model/Model.csproj","Model/"]
 RUN dotnet restore "CarBooking/CarBooking/CarBooking.csproj"
 COPY . .
 WORKDIR "/src/CarBooking/CarBooking"
