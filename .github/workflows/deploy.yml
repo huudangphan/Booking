@@ -1,0 +1,41 @@
+name: CI/CD Docker Deploy
+
+on:
+  push:
+    branches:
+      - dev
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Build Docker image
+        run: docker build -t myapp:latest .
+
+      - name: Save Docker image
+        run: docker save myapp:latest | gzip > myapp.tar.gz
+
+      - name: Copy image to server
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          source: "myapp.tar.gz"
+          target: "~/"
+
+      - name: Deploy on server
+        uses: appleboy/ssh-action@v0.1.7
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          script: |
+            docker load < ~/myapp.tar.gz
+            docker stop myapp || true
+            docker rm myapp || true
+            docker run -d --name myapp -p 80:80 myapp:latest
