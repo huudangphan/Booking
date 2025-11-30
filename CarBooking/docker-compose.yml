@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:   
+  
+
+  carbooking.openapi:
+        container_name: carbooking.openapi
+        image: carbooking.openapi:latest
+        restart: on-failure
+        hostname: carbooking.openapi
+        build:
+            context: .
+            dockerfile: CarBooking/CarBooking/Dockerfile
+        networks:
+            - common_network
+ 
+        
+
+networks:
+    common_network:
+        driver: bridge
+  

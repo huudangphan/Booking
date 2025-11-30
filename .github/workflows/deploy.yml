@@ -1,4 +1,4 @@
-name: CI/CD Docker Deploy
+name: CI/CD Docker Compose Deploy
 
 on:
   push:
@@ -13,29 +13,22 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Build Docker image
-        run: docker build -t myapp:latest ./CarBooking/CarBooking
-
-      - name: Save Docker image
-        run: docker save myapp:latest | gzip > myapp.tar.gz
-
-      - name: Copy image to server
+      - name: Copy files to server
         uses: appleboy/scp-action@v0.1.7
         with:
           host: ${{ secrets.SSH_HOST }}
           username: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_KEY }}
-          source: "myapp.tar.gz"
-          target: "/home/daniel/deploy"
+          source: "."
+          target: "~/BookingApp"
 
-      - name: Deploy on server
+      - name: Deploy with Docker Compose
         uses: appleboy/ssh-action@v0.1.7
         with:
           host: ${{ secrets.SSH_HOST }}
           username: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_KEY }}
           script: |
-            docker load < ~/myapp.tar.gz
-            docker stop myapp || true
-            docker rm myapp || true
-            docker run -d --name myapp -p 80:80 myapp:latest
+            cd ~/BookingApp
+            docker-compose -f docker-compose.yml -f docker-compose.override.yml down
+            docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d --build

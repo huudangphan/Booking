@@ -1,0 +1,20 @@
+version: '3.4'
+
+services:
+    
+   
+    carbooking.openapi:
+        environment:
+            - ASPNETCORE_ENVIRONMENT=Development
+            - ServiceConfigId=carbooking.OpenApi-9100
+            - ServiceConfigName=carbooking 
+            - ServiceConfigAddress=carbooking.openapi
+            - ServiceConfigPort=80
+            - ServiceConfigHealthCheckEndPoint=healthcheck
+        ports:
+            - 4202:80      
+   
+        depends_on:          
+            - carbooking.openapi
+           
+           
