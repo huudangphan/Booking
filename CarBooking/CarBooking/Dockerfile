@@ -8,7 +8,7 @@ WORKDIR /src
 COPY ["CarBooking/CarBooking/CarBooking.csproj", "CarBooking/"]
 COPY ["CarBooking/Common/Common.csproj", "Common/"]
 COPY ["CarBooking/DatabaseService/DatabaseService.csproj","DatabaseService/"]
-COPY ["CarBooking/Model/Model.csproj","MModel.Hotel/"]
+COPY ["CarBooking/Model/Model.csproj","Model/"]
 RUN dotnet restore "CarBooking/CarBooking/CarBooking.csproj"
 COPY . .
 WORKDIR "/src/CarBooking/CarBooking"
