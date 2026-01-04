@@ -12,13 +12,25 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
-
-    # Map branch name to environment
+    # Map branch name to environment (must match your GitHub Environments)
     environment: ${{ github.ref_name }}
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+
+      - name: Debug SSH key presence
+        run: |
+          echo "${{ secrets.SSH_KEY }}" > id_rsa
+          chmod 600 id_rsa
+          echo "SSH key written to id_rsa file."
+          ls -l id_rsa
+          file id_rsa
+          ssh-keygen -lf id_rsa || echo "Invalid key format"
+
+      - name: Test SSH connection
+        run: |
+          ssh -i id_rsa -o StrictHostKeyChecking=no ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "echo 'SSH connection successful.'"
 
       - name: Copy files to server
         uses: appleboy/scp-action@v0.1.7
