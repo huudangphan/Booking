@@ -13,11 +13,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Log secrets presence
-        run: |
-          echo "SSH_HOST is set to: ${{ secrets.SSH_HOST }}"
-          echo "SSH_USER is set to: ${{ secrets.SSH_USER }}"
-          echo "SSH_KEY is set (value hidden for security)."
+      - name: Write SSH key to file
+  		run: |
+    			echo "${{ secrets.SSH_KEY }}" > id_rsa
+    			chmod 600 id_rsa
+    			echo "SSH key written to file successfully."
+
 
       - name: Copy files to server
         uses: appleboy/scp-action@v0.1.7
