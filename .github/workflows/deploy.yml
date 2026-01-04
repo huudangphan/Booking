@@ -16,9 +16,9 @@ jobs:
       - name: Copy files to server
         uses: appleboy/scp-action@v0.1.7
         with:
-          host: 192.168.1.8
-          username: daniel
-          key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDj2UnK4gyRUnCZ/HO/iRoGUYTA3ZZxljZG+Ja1Lh1LHEQjHy8Rf1njRYeKs7qq3Hvxduibo+qIzwsCnM2Ot73pCuYUpdV+MbpwP/yMTZw9u2zQq3oL1skr+SMnNZ1851fbFxOrdXPIqt55iBI6RuwAuigciAObijWOhNnhZ/7WAcShj8J5qeW5WqhD9g0hN/CfKqYHyxdX+hyWR8IcMZBHwchVV/g2qQkQHWYvRNHvw3qGYCboYTRnlQWRFTyyJBZKXp0eHBdBdVFikwfO8t+JHbcj/bqvpMIF1CE9i4gtwY/8MnVjiWpqSbC0Z2I5VKkkX/URFo8DA+WXCXaqTf6HlQU4daEkFlzxiI9oEBIsExebHNUaRaOdaR4WJxbi6YH59YeIuieA9TjtwD4YREDaKw02bap764hL36tclaqLSE4jdRSqlu8seDbS+xoGKlbvR34hkmxtKsTrbXJE40W9hiak/zH30Pzy4HXRK+EzS9c2+CRqm4Z+kUIBxFCDEDrpRlwnpO/z8vn/L4sDqaOE5DBzivZZ9a0vhQicx4FmkLD4F5rZPqeVkckGB0x73HAo9LfEDnxZpyka0zvMxn2d33RjGNJCH0rgXkD9i4dUUdZ2FCxDbKLQr7UcdgIJd74zfnPzkmAnZBxxeB67T831chdooL4sk9EWIV2x/gGi5w== your_email@example.com
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
           source: "."
           target: "~/BookingApp"
 
