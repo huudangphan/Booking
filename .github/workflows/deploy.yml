@@ -12,6 +12,7 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
+
     # Map branch name to environment
     environment: ${{ github.ref_name }}
 
