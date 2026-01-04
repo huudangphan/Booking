@@ -1,0 +1,114 @@
+﻿namespace ModetourB2C.Dac.Model.INTRANET3;
+
+/// <summary>
+/// UP_업무인수인계_리스트
+/// </summary>
+public class UP_DutyHandover_List
+{
+	public const string SP_NAME = "UP_업무인수인계_리스트";
+
+	public class Parameters : BaseDbParameters
+	{
+		/// <summary>
+		/// 부서번호
+		/// </summary>
+		[Description("부서번호")]
+		public int DepartmentNumber { get; set; }
+		/// <summary>
+		/// 현재페이지
+		/// </summary>
+		[Description("현재페이지")]
+		public int CurrentPage { get; set; }
+		/// <summary>
+		/// 페이지당글개수
+		/// </summary>
+		[Description("페이지당글개수")]
+		public int EachPageCharactersNumber { get; set; }
+		/// <summary>
+		/// 전체게시글수
+		/// </summary>
+		[DapperParameter(DbType.Int32, ParameterDirection.InputOutput, 4)]
+		[Description("전체게시글수")]
+		public int EntirePostCharactersNumber { get; set; }
+		/// <summary>
+		/// 전체페이지수
+		/// </summary>
+		[DapperParameter(DbType.Int32, ParameterDirection.InputOutput, 4)]
+		[Description("전체페이지수")]
+		public int EntirePageNumber { get; set; }
+	}
+
+	public class Result : IDbResult
+	{
+		/// <summary>
+		/// 일련번호
+		/// </summary>
+		[Column("일련번호")]
+		public int SerialNumber { get; set; }
+		/// <summary>
+		/// 직위코드
+		/// </summary>
+		[Column("직위코드")]
+		public string PositionCode { get; set; }
+		/// <summary>
+		/// 부서구분
+		/// </summary>
+		[Column("부서구분")]
+		public string DepartmentClassification { get; set; }
+		/// <summary>
+		/// 이름
+		/// </summary>
+		[Column("이름")]
+		public string Name { get; set; }
+		/// <summary>
+		/// 인수자
+		/// </summary>
+		[Column("인수자")]
+		public string Receiver { get; set; }
+		/// <summary>
+		/// 출장일1
+		/// </summary>
+		[Column("출장일1")]
+		public string BusinessTripDate1 { get; set; }
+		/// <summary>
+		/// 출장일2
+		/// </summary>
+		[Column("출장일2")]
+		public string BusinessTripDate2 { get; set; }
+		/// <summary>
+		/// 사유
+		/// </summary>
+		[Column("사유")]
+		public string Reason { get; set; }
+		/// <summary>
+		/// 내용
+		/// </summary>
+		[Column("내용")]
+		public string Content { get; set; }
+		/// <summary>
+		/// 집전화
+		/// </summary>
+		[Column("집전화")]
+		public string HomePhone { get; set; }
+		/// <summary>
+		/// 핸펀
+		/// </summary>
+		[Column("핸펀")]
+		public string Cellphone { get; set; }
+		/// <summary>
+		/// 비밀번호
+		/// </summary>
+		[Column("비밀번호")]
+		public string Password { get; set; }
+		/// <summary>
+		/// 작성일
+		/// </summary>
+		[Column("작성일")]
+		public DateTime WrittingDate { get; set; }
+		/// <summary>
+		/// 직위명
+		/// </summary>
+		[Column("직위명")]
+		public string PositionName { get; set; }
+	}
+}

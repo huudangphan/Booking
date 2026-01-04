@@ -1,0 +1,144 @@
+{
+  "modetour": {
+    "promotion": [
+      {
+        "gubun": "Rolling",
+        "item": [
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/promotion20/11959/930_11959.jpg"
+            },
+            "linkurl": {
+              "target": "N",
+              "value": "https://bit.ly/3gIjCK9"
+            },
+            "title": {
+              "value": "□ 실시간 가격비교 랜트카 오픈 특가"
+            },
+            "subject": {
+              "value": "렌트카 할인, 실시간 가격비교, 추가 할인, 아메리카노  쿠폰 2매 제공 "
+            }
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/promotion20/11665/930_11665.jpg"
+            },
+            "linkurl": {
+              "target": "N",
+              "value": "http://www.modetour.com/LiveBooking/AirDomestic/FareAvailTicket.aspx?MLoc=0302&ROT=RT&CCD=&SAC=7C&ADC=1&CHC=0&IFC=0&DLC=GMP&DTD=2023-05-16&ALC=CJU&ARDT=2023-05-18"
+            },
+            "title": {
+              "value": "□ 국내선 제주항공 할인 프로모션"
+            },
+            "subject": {
+              "value": "LCC항공은 제주항공 할인에 할인을 더하다."
+            }
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/ModeLiveBooking/domestic_air/ad_930_ke.jpg"
+            },
+            "linkurl": {
+              "target": "N",
+              "value": "http://www.modetour.com/LiveBooking/AirDomestic/FareAvailTicket.aspx?MLoc=0302&ROT=RT&CCD=&SAC=KE&ADC=1&CHC=0&IFC=0&DLC=GMP&DTD=2023-05-16&ALC=CJU&ARDT=2023-05-18"
+            },
+            "title": {
+              "value": "□ 대한항공 특가석 판매"
+            },
+            "subject": {
+              "value": "　시간대, 요일, 목적지에 따라 다양하고 합리적인 특가 운임을 제공"
+            }
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.co.kr/ModeLiveBooking/air/main/210913_930_asiana.jpg"
+            },
+            "linkurl": {
+              "target": "N",
+              "value": "http://www.modetour.com/LiveBooking/AirDomestic/FareAvailTicket.aspx?MLoc=0302&ROT=RT&CCD=&SAC=OZ&ADC=1&CHC=0&IFC=0&DLC=GMP&DTD=2023-05-16&ALC=CJU&ARDT=2023-05-18"
+            },
+            "title": {
+              "value": "□ 아시아나항공 특가석"
+            },
+            "subject": {
+              "value": "아시아나만의 합리적 특가석 제공 ~"
+            }
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "http://img.modetour.co.kr/ModeLiveBooking/air/main/ad_930_tway.jpg"
+            },
+            "linkurl": {
+              "target": "N",
+              "value": "http://www.modetour.com/LiveBooking/AirDomestic/FareAvailTicket.aspx?MLoc=0302&ROT=RT&CCD=&SAC=TW&ADC=1&CHC=0&IFC=0&DLC=GMP&DTD=2023-05-16&ALC=CJU&ARDT=2023-05-18"
+            },
+            "title": {
+              "value": "□ 티웨이항공 최저가 판매"
+            },
+            "subject": {
+              "value": "　안전하고 합리적인 대한민국 LCC 티웨이항공"
+            }
+          }
+        ]
+      },
+      {
+        "gubun": "Array_3",
+        "item": [
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/promotion20/11957/286_11957.jpg"
+            },
+            "linkurl": {
+              "target": "N",
+              "value": "https://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=11957"
+            },
+            "title": {
+              "value": "중문면세점 모두투어 추가할인"
+            },
+            "subject": {
+              "value": "　"
+            }
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.co.kr/ModeLiveBooking/domestic_air/mainBanner02_221104.jpg"
+            },
+            "linkurl": {
+              "target": "N",
+              "value": "https://bit.ly/3rvumNs"
+            },
+            "title": {
+              "value": "★숙박 5% 추가할인 받기(결제시 할인적용)"
+            },
+            "subject": {
+              "value": "★숙박 5% 추가할인 받기(결제시 할인적용)"
+            }
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "//img.modetour.com/ModeLiveBooking/domestic_air/mainBanner01_170123.jpg"
+            },
+            "linkurl": {
+              "target": "N",
+              "value": "https://www.modetour.com/MyPage/Myque_Wirte2.aspx?mloc=1503&RqGbn=D"
+            },
+            "title": {
+              "value": "단체항공 견적 문의"
+            },
+            "subject": {
+              "value": "단체항공 견적 문의 관련"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

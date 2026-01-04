@@ -1,0 +1,45 @@
+{
+  "Routes": [
+    {
+      "ServiceName": "PackageService",
+      "UpstreamPathTemplate": "/Package/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamPathTemplate": "/Package/{everything}",
+      "DownstreamScheme": "http",
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      }
+
+    },
+    {
+      "ServiceName": "PackageService",
+      "UpstreamPathTemplate": "/",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamPathTemplate": "/",
+      "DownstreamScheme": "http",
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      }
+
+    }
+    
+  ],
+  "SwaggerEndPoints": [
+    {
+      "Key": "package",
+      "TakeServersFromDownstreamService": true,
+      "Config": [
+        {
+          "Name": "Package",
+          "Version": "v1",
+          "Service": {
+            "Name": "PackageService",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    }
+  ],
+  "GlobalConfiguration": {
+  }
+}

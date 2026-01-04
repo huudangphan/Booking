@@ -1,0 +1,18 @@
+{
+  "Root": {
+    "VideoUpload": {
+      "Item": [
+        {
+          "Type": "Image",
+          "imageURL1": "/modetour/2021/main/full/03_230215.jpg",
+          "imageURL2": "/modetour/2021/main/full/02_230215.jpg",
+          "imageURL3": "/modetour/2021/main/full/01_230215.jpg",
+          "MainDescription": "행복이 가득한 곳,\n싱가포르",
+          "SubDescription": "무성하게 우거진 수풀 한가운데 아늑하게 자리잡은 리조트부터\n세련미 넘치는 도심 한가운데 위치한 월드클래스 호텔,\n\n미슐랭 스타를 받은 요리와 시대를 초월해 사랑받는 호커 요리 등\n미식가들이 모이는 다이닝 천국의 도시,\n\n한낮의 여유로운 휴양과, 화려한 야경속 낭만까지 모두 놓칠 수 없지!\n언제나 새롭고 다시 가도 좋은, 매력적인 싱가포르!",
+          "URL": "/event/plan/detail.aspx?mloc=07&eidx=11796",
+          "NewOpen": "N"
+        }
+      ]
+    }
+  }
+}

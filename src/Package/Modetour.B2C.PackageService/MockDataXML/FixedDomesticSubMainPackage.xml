@@ -1,0 +1,1238 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <logo>
+    <id>1</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <exposurePosition>main</exposurePosition>
+    <exposurePosition>package</exposurePosition>
+    <image>/mocks/logo/logo.png</image>
+    <linkedBannerId>alo</linkedBannerId>
+    <logoName>ModeTour</logoName>
+    <manager>hai</manager>
+    <progress>all</progress>
+    <type>linkedBanner</type>
+    <registrationDate>12/04/2023</registrationDate>
+  </logo>
+  <topBanners>
+    <id>1</id>
+    <bannerTitle> ⏰타임세일! 모두투어 인기여행지 BEST! 지금 바로 보러가기!</bannerTitle>
+    <exposureLocation>global</exposureLocation>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <image>/mocks/topBanner/topBaner.png</image>
+    <manager>hai</manager>
+    <progress>waitingForApproval</progress>
+    <url>/package/66368362</url>
+    <registrationDate>12/04/2023</registrationDate>
+  </topBanners>
+  <marketingPopUp>
+    <id>1</id>
+    <content>
+      <image>/mocks/maketing/marketingPopUp.png</image>
+    </content>
+    <device>pc</device>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <order>1</order>
+    <progress>all</progress>
+    <title></title>
+    <registrationDate>12/04/2023</registrationDate>
+    <department></department>
+  </marketingPopUp>
+  <mainBanners>
+    <id>1</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#266059</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368597</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner.png</image>
+      <promotionalText>
+        <size>42px</size>
+        <text>
+          <span style="color: #ffffff">
+            이상한ensp;여행지
+            <br />
+            <span style=" color: #7EE6DA">세부</span>
+          </span>
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span>
+            #해외여행 #고래상어
+            <br/> #무조건두줄까지
+          </span>
+        </text>
+      </promotionalText>
+      <url>/package/66368362</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>2</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#977D51</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner1.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368789</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner1.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color: #FFB331">
+            튀르키예
+
+            <span style="color: #ffffff">
+              로
+              <br /> 가장 완벽하게
+
+              <br /> 떠나는 방법
+
+            </span>
+          </span>
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 15일간의 스페셜 축제!
+        </text>
+      </promotionalText>
+      <url>/package/66368557</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>3</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#13427F</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner2.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368805</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner2.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          설레는 겨울여행
+          <br/> in
+          <span style="color:#92C2FF"> 정선 </span>
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          #국내여행 #걍원도
+          <br/>#무조건두줄까지
+        </text>
+      </promotionalText>
+      <url>/package/66368694</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>4</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#323070</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner3.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368578</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner3.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          설레는 겨울여행
+          <br/> in
+          <span style="color:#BEBCFF"> 정선</span>
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          #국내여행 #걍원도
+          <br/> #무조건두줄까지
+        </text>
+      </promotionalText>
+      <url>/package/66368591</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>5</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#0A1931</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner4.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368744</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner4.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#7BADFF">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368993</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>6</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#331600</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner5.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368330</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner5.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#FF9544">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368432</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>7</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#0A1931</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner6.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368582</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner6.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          럭셔리 호텔 특가,
+          <br/>
+          <span style="color:#39D8EB">M 컬렉션</span>
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368830</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>8</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#8C1932</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner7.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368519</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner7.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#FF6082">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368711</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>9</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#008A9A</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner8.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368170</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner8.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#AEFFF1">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368561</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>10</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#232A31</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner9.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368571</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner9.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#2A95FF">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368746</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>11</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#3C571F</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner10.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368275</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner10.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#CDFF98">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368203</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>12</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#064467</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner11.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368902</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner11.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#3BB8FF">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368135</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>13</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#3C3432</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner12.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368221</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner12.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#FF613A">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368639</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>14</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#71503A</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner13.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368701</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner13.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#FF8330">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368115</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>15</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#1E3264</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner14.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368227</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner14.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#94B2FF">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368191</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>16</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#C75829</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner15.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368679</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner15.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#FFDC50">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368279</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>17</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#8B504D</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner16.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368451</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner16.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#FF918B">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368149</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>18</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#613D7D</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner17.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368174</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner17.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#DE9CFF">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368751</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>19</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#192320</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner18.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368277</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner18.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#00C187">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368188</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>20</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#32392E</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner19.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368810</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner19.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#97FF5B">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368801</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>21</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#777777</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner20.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368628</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner20.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#5BD3FF">모두투어</span>와 함께
+          <br/> 떠나요!
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          모두투어에서 준비한
+          <br/> 두줄까지 노출 가능!
+        </text>
+      </promotionalText>
+      <url>/package/66368234</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mainBanners>
+    <id>22</id>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <manager>hai</manager>
+    <backgroundColor>#FEF7FE</backgroundColor>
+    <mobile>
+      <image>/mocks/mainbanner/mainBanner21.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>이상한 여행지 세부,</text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>보홀 두 줄 까지</text>
+      </promotionalText>
+      <promotionalText>
+        <size>14px</size>
+        <text>#해외여행 #고래상어 #무조건한줄까지</text>
+      </promotionalText>
+      <url>/package/66368272</url>
+    </mobile>
+    <pc>
+      <image>/mocks/mainbanner/mainBanner21.png</image>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#111111">
+            일본
+            <br/> 벚꽃여행의 진수
+          </span>
+          <span style="color:#F172BD">
+            <br/>우에노 공원
+          </span>
+        </text>
+      </promotionalText>
+      <promotionalText>
+        <size>24px</size>
+        <text>
+          <span style="color:#111111">
+            모두투어에서 준비한
+            <br/>
+            <span style="color:#F172BD"> 15일간의</span> 스페셜 축제!
+          </span>
+        </text>
+      </promotionalText>
+      <url>/package/66368372</url>
+    </pc>
+    <name>이상한 여행지 세부</name>
+    <progress>all</progress>
+    <ranking>1</ranking>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mainBanners>
+  <mediumBanner>
+    <id>1</id>
+    <area>1</area>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <image>/mocks/mediumBanner/mediumBanner.png</image>
+    <manager>hai</manager>
+    <name>국가별 입국 규정 안내</name>
+    <progress>all</progress>
+    <url>/maketing/123</url>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+    <promotionalText>
+      <text>출국 전 꼭 참고해야할 </text>
+      <size>12px</size>
+    </promotionalText>
+    <promotionalText>
+      <text>입국 규정 및 격리 조건을 확인하세요! </text>
+      <size>12px</size>
+    </promotionalText>
+  </mediumBanner>
+  <mediumBanner>
+    <id>2</id>
+    <area>1</area>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <image>/mocks/mediumBanner/mediumBanner.png</image>
+    <manager>hai</manager>
+    <name>국가별 입국 규정 안내</name>
+    <progress>all</progress>
+    <url>/maketing/123</url>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+    <promotionalText>
+      <text>출국 전 꼭 참고해야할 </text>
+      <size>12px</size>
+    </promotionalText>
+    <promotionalText>
+      <text>입국 규정 및 격리 조건을 확인하세요! </text>
+      <size>12px</size>
+    </promotionalText>
+  </mediumBanner>
+  <mediumBanner>
+    <id>3</id>
+    <area>1</area>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <image>/mocks/mediumBanner/mediumBanner.png</image>
+    <manager>hai</manager>
+    <name>국가별 입국 규정 안내</name>
+    <progress>all</progress>
+    <url>/maketing/123</url>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+    <promotionalText>
+      <text>출국 전 꼭 참고해야할 </text>
+      <size>12px</size>
+    </promotionalText>
+    <promotionalText>
+      <text>입국 규정 및 격리 조건을 확인하세요! </text>
+      <size>12px</size>
+    </promotionalText>
+  </mediumBanner>
+  <mediumBanner>
+    <id>4</id>
+    <area>1</area>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <image>/mocks/mediumBanner/mediumBanner.png</image>
+    <manager>hai</manager>
+    <name>국가별 입국 규정 안내</name>
+    <progress>all</progress>
+    <url>/maketing/123</url>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+    <promotionalText>
+      <text>출국 전 꼭 참고해야할 </text>
+      <size>12px</size>
+    </promotionalText>
+    <promotionalText>
+      <text>입국 규정 및 격리 조건을 확인하세요! </text>
+      <size>12px</size>
+    </promotionalText>
+  </mediumBanner>
+  <mediumBanner>
+    <id>5</id>
+    <area>2</area>
+    <exposurePeriod>
+      <startDate>12/04/2023</startDate>
+      <endDate>30/04/2023</endDate>
+    </exposurePeriod>
+    <image>/mocks/mediumBanner/mediumBanner1.png</image>
+    <manager>hai</manager>
+    <name>국가별 입국 규정 안내</name>
+    <progress>inProgress</progress>
+    <url>/maketing/123</url>
+    <department></department>
+    <registrationDate>12/04/2023</registrationDate>
+  </mediumBanner>
+</root>

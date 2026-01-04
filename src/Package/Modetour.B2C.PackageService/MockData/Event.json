@@ -1,0 +1,53 @@
+{
+  "Root": {
+    "RollingBanner": {
+      "Item": [
+        {
+          "Description": "아시아나항공",
+          "URL": "/event/plan/detail.aspx?mloc=07&eidx=10018&eidx2=2871&gubun=I",
+          "Image": "/banner/main/m538_10018.jpg",
+          "NewOpen": "N",
+          "Sort": "1"
+        },
+        {
+          "Description": "카카오톡 플러스친구",
+          "URL": "/event/event_17/0201_kakao/mode.aspx?mloc=110101&eidx2=1607",
+          "Image": "/banner/main/m538_170201_kakao.jpg",
+          "NewOpen": "N",
+          "Sort": "2"
+        }
+      ]
+    },
+    "FixedBanner": {
+      "Item": [
+        {
+          "Description": "닷컴 띠배너_PC",
+          "URL": "/event/plan/detail.aspx?mloc=07&eidx=12157",
+          "Image": "/modetour/2021/main/bg_top_banner.jpg",
+          "BImage": "/modetour/2021/main/img_top_banner_230112.jpg",
+          "NewOpen": "N",
+          "Sort": "1"
+        },
+        {
+          "Description": "닷컴 띠배너_,MO",
+          "URL": "/event/plan/detail.aspx?mloc=07&eidx=12157",
+          "Image": "/modemobile/2021/main/img/img_appdown_new_230112.gif",
+          "BImage": "",
+          "NewOpen": "N",
+          "Sort": "2"
+        }
+      ]
+    },
+    "Guerrilla": null,
+    "BigSale": {
+      "Item": {
+        "NO": "11493",
+        "NAME": "고객 안심 더 좋은 패키지",
+        "URL": "/event/plan/detail.aspx?mloc=07&eidx=11493",
+        "Image": "/banner/main/m279_11493.jpg",
+        "NewOpen": "N",
+        "Sort": "1"
+      }
+    }
+  }
+}

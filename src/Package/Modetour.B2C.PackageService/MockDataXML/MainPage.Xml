@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <Main_bg_Image>
+    <Item>
+      <Description>사이판</Description>
+      <Image>/banner/main/top_bg_saipan.jpg</Image>
+    </Item>
+    <Item>
+      <Description>큐슈 벳부</Description>
+      <Image>/banner/main/top_bg_kyushu.jpg</Image>
+    </Item>
+    <Item>
+      <Description>크로아티아 두브로브니크</Description>
+      <Image>/banner/main/top_bg_dubrovnik.jpg</Image>
+    </Item>
+    <Item>
+      <Description>캐나다 퀘백</Description>
+      <Image>/banner/main/top_bg_quebec.jpg</Image>
+    </Item>
+    <Item>
+      <Description>호주 시드니</Description>
+      <Image>/banner/main/top_bg_sydney.jpg</Image>
+    </Item>
+    <Item>
+      <Description>코타키나발루</Description>
+      <Image>/modetour/2016/main/bg_search_wrap_06.jpg</Image>
+    </Item>
+    <Item>
+      <Description>몰디브 센타라라스푸쉬</Description>
+      <Image>/modetour/2016/main/bg_search_wrap_07.jpg</Image>
+    </Item>
+    <Item>
+      <Description>베트남 하롱베이</Description>
+      <Image>/modetour/2016/main/bg_search_wrap_08.jpg</Image>
+    </Item>
+    <Item>
+      <Description>파리 루브르</Description>
+      <Image>/modetour/2016/main/bg_search_wrap_09.jpg</Image>
+    </Item>
+    <Item>
+      <Description>피피섬</Description>
+      <Image>/modetour/2016/main/bg_search_wrap_10.jpg</Image>
+    </Item>
+  </Main_bg_Image>
+  <Main_Side_Banner>
+    <Item>
+      <Description>신한카드 청구할인</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12183</URL>
+      <Image>/modetour/2021/main/banner/sky140x170_12183.png</Image>
+      <NewOpen>N</NewOpen>
+    </Item>
+    <Item>
+      <Description>국민카드 청구할인</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12184</URL>
+      <Image>/modetour/2021/main/banner/sky140x170_12184.png</Image>
+      <NewOpen>N</NewOpen>
+    </Item>
+    <Item>
+      <Description>신규회원 가입</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12004</URL>
+      <Image>/modetour/2021/main/banner/sky140_01_221124.png</Image>
+      <NewOpen>N</NewOpen>
+    </Item>
+  </Main_Side_Banner>
+  <Main_Loading_Image>
+    <Item>
+      <Description>신한카드 청구할인</Description>
+      <Image>/modetour/2021/main/banner/sky140x170_12183.png</Image>
+    </Item>
+    <Item>
+      <Description>국민카드 청구할인</Description>
+      <Image>/modetour/2021/main/banner/sky140x170_12184.png</Image>
+    </Item>
+    <Item>
+      <Description>신규회원 가입</Description>
+      <Image>/modetour/2021/main/banner/sky140_01_221124.png</Image>
+    </Item>
+  </Main_Loading_Image>
+</Root>

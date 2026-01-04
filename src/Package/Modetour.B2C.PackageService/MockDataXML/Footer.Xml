@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <Footer>
+    <Item>
+      <Description>모두투어 투어마일리지 카드</Description>
+      <URL>/TourMileage/partner_kb.aspx?Mloc=20&amp;page=partner</URL>
+      <FrontBanner>/banner/main/footer_170613_mileage_.png</FrontBanner>
+      <BgBanner>/banner/main/footer_170613_mileage_bg.gif</BgBanner>
+      <NewOpen>N</NewOpen>
+      <Sort>1</Sort>
+    </Item>
+    <Item>
+      <Description>싱가포르 기획전</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11796</URL>
+      <FrontBanner>/banner/main/footer_11796.png</FrontBanner>
+      <BgBanner>/banner/main/footer_11796_bg.gif</BgBanner>
+      <NewOpen>N</NewOpen>
+      <Sort>2</Sort>
+    </Item>
+    <Item>
+      <Description>와이파이도시락 20% 할인</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11945</URL>
+      <FrontBanner>/banner/main/footer_11945.png</FrontBanner>
+      <BgBanner>/banner/main/footer_11945_bg.jpg</BgBanner>
+      <NewOpen>N</NewOpen>
+      <Sort>3</Sort>
+    </Item>
+  </Footer>
+</Root>

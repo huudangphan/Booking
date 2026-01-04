@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <SubPage THEMA_NO="3" AREA_NO="NULL">
+    <Item NO="12056" NAME="2023_허니문박람회">
+      <Image>/promotion20/12056/1100_12056.jpg</Image>
+      <Sort>2</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12056</URL>
+		<BackColor>#13427f</BackColor>
+    </Item>
+  </SubPage>
+  <SubPage THEMA_NO="4" AREA_NO="NULL">
+    <Item NO="11753" NAME="22_인천출발 코타키나발루">
+      <Image>/promotion20/11753/1100_11753.jpg</Image>
+      <Sort>0</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11753</URL>
+		<BackColor>#323070</BackColor>
+    </Item>
+    <Item NO="10448" NAME="필리핀  자유여행">
+      <Image>/promotion/10448/1100_10448.jpg</Image>
+      <Sort>1</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=10448</URL>
+		<BackColor>#232a31</BackColor>
+    </Item>
+    <Item NO="11564" NAME="하와이기획전">
+      <Image>/promotion20/11564/1100_11564.jpg</Image>
+      <Sort>2</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11564</URL>
+		<BackColor>#0a1931</BackColor>
+    </Item>
+    <Item NO="11570" NAME="사이판이즈백">
+      <Image>/promotion20/11570/1100_11570.jpg</Image>
+      <Sort>3</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11570</URL>
+		<BackColor>#331600</BackColor>
+    </Item>
+    <Item NO="11717" NAME="2022 태국 푸켓">
+      <Image>/promotion20/11717/1100_11717.jpg</Image>
+      <Sort>4</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11717</URL>
+		<BackColor>#13444a</BackColor>
+    </Item>
+    <Item NO="10927" NAME="사이판 월드리조트 그랜드오픈">
+      <Image>/promotion/10927/1100_10927.jpg</Image>
+      <Sort>5</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=10927</URL>
+		<BackColor>#8c1932</BackColor>
+    </Item>
+    <Item NO="11935" NAME="22_일본MZ에어텔기획전">
+      <Image>/promotion20/11935/1100_11935.jpg</Image>
+      <Sort>7</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11935</URL>
+		<BackColor>#008a9a</BackColor>
+    </Item>
+  </SubPage>
+  <SubPage THEMA_NO="4" AREA_NO="837">
+    <Item NO="7637" NAME="제주 KAL호텔">
+      <Image>/promotion/7637/1100_7637.jpg</Image>
+      <Sort>1</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=7637</URL>
+		<BackColor>#977d51</BackColor>
+    </Item>
+    <Item NO="7478" NAME="제주 자유여행">
+      <Image>/promotion/7478/1100_7478.jpg</Image>
+      <Sort>2</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=7478</URL>
+		<BackColor>#13427f</BackColor>
+    </Item>
+  </SubPage>
+  <SubPage THEMA_NO="5" AREA_NO="NULL">
+    <Item NO="8056" NAME="필리핀 추천 골프상품">
+      <Image>/promotion/8056/1100_8056.jpg</Image>
+      <Sort>1</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=8056</URL>
+		<BackColor>#266059</BackColor>
+    </Item>
+    <Item NO="11637" NAME="아빠는 골프가 왜 좋아 [21_골프모음]">
+      <Image>/promotion20/11637/1100_11637.jpg</Image>
+      <Sort>2</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11637</URL>
+		<BackColor>#977d51</BackColor>
+    </Item>
+    <Item NO="11618" NAME="21_치앙마이기획전">
+      <Image>/promotion/10912/1100_10912.jpg</Image>
+      <Sort>4</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11618</URL>
+		<BackColor>#13427f</BackColor>
+    </Item>
+    <Item NO="11170" NAME="베트남 골프">
+      <Image>/promotion/11170/1100_11170.jpg</Image>
+      <Sort>5</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11170</URL>
+		<BackColor>#323070</BackColor>
+    </Item>
+    <Item NO="11877" NAME="22_태국골프">
+      <Image>/promotion20/11877/1100_11877.jpg</Image>
+      <Sort>6</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11877</URL>
+		<BackColor>#232a31</BackColor>
+    </Item>
+    <Item NO="12206" NAME="링티와 함께하는 골프여행">
+      <Image>/promotion20/11637/1100_11637.jpg</Image>
+      <Sort>7</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12206</URL>
+		<BackColor>#0a1931</BackColor>
+    </Item>
+    <Item NO="11842" NAME="국내골프">
+      <Image>/promotion20/11842/1100_11842.jpg</Image>
+      <Sort>7</Sort>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11842</URL>
+		<BackColor>#331600</BackColor>
+    </Item>
+  </SubPage>
+</Root>

@@ -1,0 +1,235 @@
+{
+  "ModeTour": {
+    "StartArea": {
+      "dlc": "ICN",
+      "gubun": "A",
+      "domestic": "",
+      "delFirst": "",
+      "selSecond": "",
+      "theme": "THE88",
+      "themeName": "패키지"
+    },
+    "item": [
+      {
+        "label": "내륙항공여행",
+        "id": "LOC991",
+        "SubMain": 1,
+        "Depth": 1,
+        "Path": "",
+        "Col": 1,
+        "Merge": "N",
+        "item": [
+          {
+            "label": "패키지",
+            "id": "LOC1084",
+            "SubMain": 0,
+            "Depth": 2,
+            "Path": "",
+            "Col": 1,
+            "Theme": "",
+            "ThemeLabel": "",
+            "Merge": "N"
+          },
+          {
+            "label": "자유여행",
+            "id": "LOC1087",
+            "SubMain": 0,
+            "Depth": 2,
+            "Path": "",
+            "Col": 1,
+            "Theme": "",
+            "ThemeLabel": "",
+            "Merge": "N"
+          }
+        ]
+      },
+      {
+        "label": "제주패키지여행",
+        "id": "LOC2103",
+        "SubMain": 1,
+        "Depth": 1,
+        "Path": "",
+        "Col": 2,
+        "Merge": "N",
+        "item": [
+          {
+            "label": "서울출발",
+            "id": "LOC2108",
+            "SubMain": 0,
+            "Depth": 2,
+            "Path": "",
+            "Col": 1,
+            "Theme": "",
+            "ThemeLabel": "",
+            "Merge": "N"
+          },
+          {
+            "label": "지방출발",
+            "id": "LOC2109",
+            "SubMain": 0,
+            "Depth": 2,
+            "Path": "",
+            "Col": 1,
+            "Theme": "",
+            "ThemeLabel": "",
+            "Merge": "N"
+          }
+        ]
+      },
+      {
+        "label": "제주자유여행",
+        "id": "LOC2104",
+        "SubMain": 1,
+        "Depth": 1,
+        "Path": "",
+        "Col": 3,
+        "Merge": "N",
+        "item": [
+          {
+            "label": "에어텔",
+            "id": "LOC2110",
+            "SubMain": 0,
+            "Depth": 2,
+            "Path": "",
+            "Col": 1,
+            "Theme": "",
+            "ThemeLabel": "",
+            "Merge": "N"
+          },
+          {
+            "label": "에어카텔",
+            "id": "LOC2111",
+            "SubMain": 0,
+            "Depth": 2,
+            "Path": "",
+            "Col": 1,
+            "Theme": "",
+            "ThemeLabel": "",
+            "Merge": "N"
+          }
+        ]
+      },
+      {
+        "label": "울릉도",
+        "id": "LOC2105",
+        "SubMain": 1,
+        "Depth": 1,
+        "Path": "",
+        "Col": 4,
+        "Merge": "N",
+        "item": [
+          {
+            "label": "패키지",
+            "id": "LOC2112",
+            "SubMain": 0,
+            "Depth": 2,
+            "Path": "",
+            "Col": 1,
+            "Theme": "",
+            "ThemeLabel": "",
+            "Merge": "N"
+          },
+          {
+            "label": "자유여행",
+            "id": "LOC2113",
+            "SubMain": 0,
+            "Depth": 2,
+            "Path": "",
+            "Col": 1,
+            "Theme": "",
+            "ThemeLabel": "",
+            "Merge": "N"
+          }
+        ]
+      },
+      {
+        "label": "홍도/흑산도/백령도",
+        "id": "LOC2106",
+        "SubMain": 1,
+        "Depth": 1,
+        "Path": "",
+        "Col": 5,
+        "Merge": "N",
+        "item": [
+          {
+            "label": "홍도/흑산도",
+            "id": "LOC2114",
+            "SubMain": 0,
+            "Depth": 2,
+            "Path": "",
+            "Col": 1,
+            "Theme": "",
+            "ThemeLabel": "",
+            "Merge": "N"
+          },
+          {
+            "label": "백령도",
+            "id": "LOC2115",
+            "SubMain": 0,
+            "Depth": 2,
+            "Path": "",
+            "Col": 1,
+            "Theme": "",
+            "ThemeLabel": "",
+            "Merge": "N"
+          }
+        ]
+      },
+      {
+        "label": "내륙버스&기차여행",
+        "id": "LOC2107",
+        "SubMain": 1,
+        "Depth": 1,
+        "Path": "",
+        "Col": 6,
+        "Merge": "N",
+        "item": [
+          {
+            "label": "강원권",
+            "id": "LOC2116",
+            "SubMain": 0,
+            "Depth": 2,
+            "Path": "",
+            "Col": 1,
+            "Theme": "",
+            "ThemeLabel": "",
+            "Merge": "N"
+          },
+          {
+            "label": "경상권",
+            "id": "LOC2117",
+            "SubMain": 0,
+            "Depth": 2,
+            "Path": "",
+            "Col": 1,
+            "Theme": "",
+            "ThemeLabel": "",
+            "Merge": "N"
+          },
+          {
+            "label": "전라권",
+            "id": "LOC2118",
+            "SubMain": 0,
+            "Depth": 2,
+            "Path": "",
+            "Col": 1,
+            "Theme": "",
+            "ThemeLabel": "",
+            "Merge": "N"
+          },
+          {
+            "label": "충청권",
+            "id": "LOC2119",
+            "SubMain": 0,
+            "Depth": 2,
+            "Path": "",
+            "Col": 1,
+            "Theme": "",
+            "ThemeLabel": "",
+            "Merge": "N"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1203 @@
+{
+  "logo": {
+    "id": "1",
+    "exposurePeriod": {
+      "startDate": "12/04/2023",
+      "endDate": "30/04/2023"
+    },
+    "exposurePosition": [
+      "main"
+    ],
+    "image": "/mocks/logo/logo.png",
+    "linkedBannerId": "alo",
+    "logoName": "ModeTour",
+    "manager": "hai",
+    "progress": "all",
+    "type": "linkedBanner",
+    "registrationDate": "12/04/2023"
+  },
+  "topBanners": {
+    "id": "1",
+    "bannerTitle": "이상한 여행지 세부, 보홀 두 줄 까지",
+    "exposureLocation": "global",
+    "exposurePeriod": {
+      "startDate": "12/04/2023",
+      "endDate": "30/04/2023"
+    },
+    "image": "/mocks/topBanner/topBaner.png",
+    "manager": "hai",
+    "progress": "waitingForApproval",
+    "url": "/package/66368516",
+    "registrationDate": "12/04/2023"
+  },
+  "marketingPopUp": {
+    "id": "1",
+    "content": {
+      "image": "/mocks/maketing/marketingPopUp.png"
+    },
+    "device": "pc",
+    "exposurePeriod": {
+      "startDate": "12/04/2023",
+      "endDate": "30/04/2023"
+    },
+    "manager": "hai",
+    "order": 1,
+    "progress": "all",
+    "title": "",
+    "registrationDate": "12/04/2023",
+    "department": ""
+  },
+  "mainBanners": [
+    {
+      "id": "1",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#266059",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368425"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368293"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "2",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#977D51",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner1.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368415"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner1.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368614"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "3",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#13427F",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner2.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368230"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner2.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368704"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "4",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#323070",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner3.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368996"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner3.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368484"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "5",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#0A1931",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner4.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368195"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner4.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368897"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "6",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#331600",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner5.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368568"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner5.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368188"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "7",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#0A1931",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner6.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368871"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner6.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368936"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "8",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#8C1932",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner7.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368175"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner7.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368280"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "9",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#008A9A",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner8.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368737"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner8.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368252"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "10",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#232A31",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner9.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368258"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner9.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368451"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "11",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#3C571F",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner10.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368936"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner10.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368178"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "12",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#064467",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner11.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368171"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner11.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368185"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "13",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#3C3432",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner12.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368207"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner12.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368176"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "14",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#71503A",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner13.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368333"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner13.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368541"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "15",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#1E3264",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner14.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368961"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner14.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368285"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "16",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#C75829",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner15.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368384"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner15.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368111"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "17",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#8B504D",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner16.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368256"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner16.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368411"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "18",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#613D7D",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner17.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368716"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner17.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368572"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "19",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#192320",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner18.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368461"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner18.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368278"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "20",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#32392E",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner19.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368406"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner19.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368276"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "21",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#777777",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner20.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368932"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner20.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368576"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    },
+    {
+      "id": "22",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "manager": "hai",
+      "backgroundColor": "#FEF7FE",
+      "mobile": {
+        "image": "/mocks/mainbanner/mainBanner21.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          },
+          {
+            "size": "14px",
+            "text": "#해외여행 #고래상어 #무조건한줄까지"
+          }
+        ],
+        "url": "/package/66368950"
+      },
+      "pc": {
+        "image": "/mocks/mainbanner/mainBanner21.png",
+        "promotionalText": [
+          {
+            "size": "24px",
+            "text": "이상한 여행지 세부,"
+          },
+          {
+            "size": "24px",
+            "text": "보홀 두 줄 까지"
+          }
+        ],
+        "layers": [],
+        "url": "/package/66368373"
+      },
+      "name": "이상한 여행지 세부",
+      "progress": "all",
+      "ranking": 1,
+      "department": "",
+      "registrationDate": "12/04/2023"
+    }
+  ],
+  "mediumBanner": [
+    {
+      "id": "1",
+      "area": "1",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "image": "/mocks/mediumBanner/mediumBanner.png",
+      "manager": "hai",
+      "name": "국가별 입국 규정 안내",
+      "progress": "all",
+      "url": "/maketing/123",
+      "department": "",
+      "registrationDate": "12/04/2023",
+      "promotionalText": [
+        {
+          "text": "출국 전 꼭 참고해야할 ",
+          "size": "12px"
+        },
+        {
+          "text": "입국 규정 및 격리 조건을 확인하세요! ",
+          "size": "12px"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "area": "1",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "image": "/mocks/mediumBanner/mediumBanner.png",
+      "manager": "hai",
+      "name": "국가별 입국 규정 안내",
+      "progress": "all",
+      "url": "/maketing/123",
+      "department": "",
+      "registrationDate": "12/04/2023",
+      "promotionalText": [
+        {
+          "text": "출국 전 꼭 참고해야할 ",
+          "size": "12px"
+        },
+        {
+          "text": "입국 규정 및 격리 조건을 확인하세요! ",
+          "size": "12px"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "area": "1",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "image": "/mocks/mediumBanner/mediumBanner.png",
+      "manager": "hai",
+      "name": "국가별 입국 규정 안내",
+      "progress": "all",
+      "url": "/maketing/123",
+      "department": "",
+      "registrationDate": "12/04/2023",
+      "promotionalText": [
+        {
+          "text": "출국 전 꼭 참고해야할 ",
+          "size": "12px"
+        },
+        {
+          "text": "입국 규정 및 격리 조건을 확인하세요! ",
+          "size": "12px"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "area": "1",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "image": "/mocks/mediumBanner/mediumBanner.png",
+      "manager": "hai",
+      "name": "국가별 입국 규정 안내",
+      "progress": "all",
+      "url": "/maketing/123",
+      "department": "",
+      "registrationDate": "12/04/2023",
+      "promotionalText": [
+        {
+          "text": "출국 전 꼭 참고해야할 ",
+          "size": "12px"
+        },
+        {
+          "text": "입국 규정 및 격리 조건을 확인하세요! ",
+          "size": "12px"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "area": "2",
+      "exposurePeriod": {
+        "startDate": "12/04/2023",
+        "endDate": "30/04/2023"
+      },
+      "image": "/mocks/mediumBanner/mediumBanner1.png",
+      "manager": "hai",
+      "name": "국가별 입국 규정 안내",
+      "progress": "inProgress",
+      "url": "/maketing/123",
+      "department": "",
+      "registrationDate": "12/04/2023"
+    }
+  ]
+}

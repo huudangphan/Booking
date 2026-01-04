@@ -1,0 +1,39 @@
+version: '3.4'
+
+services:
+    
+    consul:
+        ports:
+            - "8500:8500"        
+ 
+   
+    package.openapi:
+        environment:
+            - ASPNETCORE_ENVIRONMENT=Development
+            - ServiceConfigId=PackageService.OpenApi-9200
+            - ServiceConfigName=PackageService
+            - ServiceConfigDiscoveryAddress=http://consul:8500
+            - ServiceConfigAddress=package.openapi
+            - ServiceConfigPort=80
+            - ServiceConfigHealthCheckEndPoint=healthcheck
+        ports:
+            - 4203:80
+        depends_on:
+           
+            - consul
+   
+    services.gateway:
+        environment:
+            - ASPNETCORE_ENVIRONMENT=Development
+            - ASPNETCORE_URLS=http://+:80           
+            - ServiceConfigDiscoveryAddress=http://consul:8500       
+        ports:
+            - 4204:80
+        volumes:
+            - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+            - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+        depends_on:
+            - consul            
+            - package.openapi           
+         
+           

@@ -1,0 +1,22 @@
+{
+  "Product": {
+    "Sector": {
+      "name": "LoginMidR",
+      "explan": "LoginMidR_400",
+      "item": [
+        {
+          "open": "Y",
+          "title": {
+            "value": "고객삼사제"
+          },
+          "imgUrl": {
+            "value": "//img.modetour.com/banner/common/login_12184.jpg"
+          },
+          "linkUrl": {
+            "value": "/event/plan/detail.aspx?mloc=07&eidx=12158cont03"
+          }
+        }
+      ]
+    }
+  }
+}

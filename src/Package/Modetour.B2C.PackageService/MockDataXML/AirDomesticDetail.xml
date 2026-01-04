@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<flightIndex>
+		<refe>1</refe>
+		<seg>
+			<refe>1</refe>
+			<marketingAirlineCode>LJ</marketingAirlineCode>
+			<operatingAirlineCode>LJ</operatingAirlineCode>
+			<airlineName>JinAir</airlineName>
+			<airLineNameKorea>대한항공</airLineNameKorea>
+			<includeBaggage>2</includeBaggage>
+			<depatureAirPortName>City name</depatureAirPortName>
+			<destinationAirPortName>City name</destinationAirPortName>
+			<depatureAirPortCode>GMP</depatureAirPortCode>
+			<destinationAirPortCode>CJU</destinationAirPortCode>
+			<dtd>2023-04-10 06:05</dtd>
+			<dtdTime> 06:05</dtdTime>
+			<ardt>2023-04-10 07:20</ardt>
+			<ardtTime> 07:20</ardtTime>
+			<flightNumber>301</flightNumber>
+			<favor>N</favor>
+			<favorDis>N</favorDis>
+			<priceIndex>
+				<refe>1</refe>
+				<rateType>DISCOUNT</rateType>
+				<nonRefundableUIDC>N</nonRefundableUIDC>
+				<nonRefundableNRF>N</nonRefundableNRF>
+				<cabin>
+					<bookingClass>N2</bookingClass>
+					<cabiType>Y</cabiType>
+					<avaiableNumberSeat>9</avaiableNumberSeat>
+				</cabin>
+				<paxFareGroup>
+					<paxFare>
+						<ptc>ADULT</ptc>
+						<fare>36900</fare>
+						<airportFee>4000</airportFee>
+						<fuelSurChage>11000</fuelSurChage>
+						<ticketingAgencyFee>1000</ticketingAgencyFee>
+					</paxFare>
+				</paxFareGroup>
+				<fare>
+					<fareBasic>N2LXD|DS|496|9|3</fareBasic>
+					<faretype>DISC</faretype>
+					<fareTranId>405758</fareTranId>
+				</fare>
+			</priceIndex>
+		</seg>
+		<seg>
+			<refe>2</refe>
+			<marketingAirlineCode>LJ</marketingAirlineCode>
+			<operatingAirlineCode>LJ</operatingAirlineCode>
+			<airlineName>JinAir</airlineName>
+			<airLineNameKorea>대한항공</airLineNameKorea>
+			<includeBaggage>2</includeBaggage>
+			<depatureAirPortName>City name</depatureAirPortName>
+			<destinationAirPortName>City name</destinationAirPortName>
+			<depatureAirPortCode>GMP</depatureAirPortCode>
+			<destinationAirPortCode>CJU</destinationAirPortCode>
+			<dtd>2023-04-10 06:05</dtd>
+			<dtdTime> 06:05</dtdTime>
+			<ardt>2023-04-10 07:20</ardt>
+			<ardtTime> 07:20</ardtTime>
+			<flightNumber>301</flightNumber>
+			<favor>N</favor>
+			<favorDis>N</favorDis>
+			<priceIndex>
+				<refe>1</refe>
+				<rateType>NOMAL</rateType>
+				<nonRefundableUIDC>N</nonRefundableUIDC>
+				<nonRefundableNRF>N</nonRefundableNRF>
+				<cabin>
+					<bookingClass>Y</bookingClass>
+					<cabiType>Y</cabiType>
+					<avaiableNumberSeat>9</avaiableNumberSeat>
+				</cabin>
+				<paxFareGroup>
+					<paxFare>
+						<ptc>ADULT</ptc>
+						<fare>70000</fare>
+						<airportFee>4000</airportFee>
+						<fuelSurChage>11000</fuelSurChage>
+						<ticketingAgencyFee>1000</ticketingAgencyFee>
+					</paxFare>
+				</paxFareGroup>
+				<fare>
+					<fareBasic>YLXDP|DS|522|9|3</fareBasic>
+					<faretype>NORMAL</faretype>
+					<fareTranId>405919</fareTranId>
+				</fare>
+			</priceIndex>
+		</seg>
+		<seg>
+			<refe>3</refe>
+			<marketingAirlineCode>LJ</marketingAirlineCode>
+			<operatingAirlineCode>LJ</operatingAirlineCode>
+			<airlineName>JinAir</airlineName>
+			<airLineNameKorea>대한항공</airLineNameKorea>
+			<includeBaggage>2</includeBaggage>
+			<depatureAirPortName>City name</depatureAirPortName>
+			<destinationAirPortName>City name</destinationAirPortName>
+			<depatureAirPortCode>GMP</depatureAirPortCode>
+			<destinationAirPortCode>CJU</destinationAirPortCode>
+			<dtd>2023-04-10 06:05</dtd>
+			<dtdTime> 06:05</dtdTime>
+			<ardt>2023-04-10 07:20</ardt>
+			<ardtTime> 07:20</ardtTime>
+			<flightNumber>301</flightNumber>
+			<favor>N</favor>
+			<favorDis>N</favorDis>
+			<priceIndex>
+				<refe>1</refe>
+				<rateType>EVENT</rateType>
+				<nonRefundableUIDC>N</nonRefundableUIDC>
+				<nonRefundableNRF>N</nonRefundableNRF>
+				<cabin>
+					<bookingClass>Z8</bookingClass>
+					<cabiType>Y</cabiType>
+					<avaiableNumberSeat>0</avaiableNumberSeat>
+				</cabin>
+				<paxFareGroup>
+					<paxFare>
+						<ptc>ADULT</ptc>
+						<fare>4000</fare>
+						<airportFee>4000</airportFee>
+						<fuelSurChage>11000</fuelSurChage>
+						<ticketingAgencyFee>1000</ticketingAgencyFee>
+					</paxFare>
+				</paxFareGroup>
+				<fare>
+					<fareBasic>Z8LXD|DS|465|9|3</fareBasic>
+					<faretype>SPDISC</faretype>
+					<fareTranId>405972</fareTranId>
+				</fare>
+			</priceIndex>
+		</seg>
+		<seg>
+			<refe>4</refe>
+			<marketingAirlineCode>LJ</marketingAirlineCode>
+			<operatingAirlineCode>LJ</operatingAirlineCode>
+			<airlineName>JinAir</airlineName>
+			<airLineNameKorea>대한항공</airLineNameKorea>
+			<includeBaggage>2</includeBaggage>
+			<depatureAirPortName>City name</depatureAirPortName>
+			<destinationAirPortName>City name</destinationAirPortName>
+			<depatureAirPortCode>GMP</depatureAirPortCode>
+			<destinationAirPortCode>CJU</destinationAirPortCode>
+			<dtd>2023-04-10 06:15</dtd>
+			<dtdTime> 06:15</dtdTime>
+			<ardt>2023-04-10 07:25</ardt>
+			<ardtTime> 07:25</ardtTime>
+			<flightNumber>303</flightNumber>
+			<favor>N</favor>
+			<favorDis>N</favorDis>
+			<priceIndex>
+				<refe>1</refe>
+				<rateType>DISCOUNT</rateType>
+				<nonRefundableUIDC>N</nonRefundableUIDC>
+				<nonRefundableNRF>N</nonRefundableNRF>
+				<cabin>
+					<bookingClass>X</bookingClass>
+					<cabiType>Y</cabiType>
+					<avaiableNumberSeat>9</avaiableNumberSeat>
+				</cabin>
+				<paxFareGroup>
+					<paxFare>
+						<ptc>ADULT</ptc>
+						<fare>32900</fare>
+						<airportFee>4000</airportFee>
+						<fuelSurChage>11000</fuelSurChage>
+						<ticketingAgencyFee>1000</ticketingAgencyFee>
+					</paxFare>
+				</paxFareGroup>
+				<fare>
+					<fareBasic>XLXD|DS|609|11|3</fareBasic>
+					<faretype>DISC</faretype>
+					<fareTranId>405872</fareTranId>
+				</fare>
+			</priceIndex>
+		</seg>
+		<seg>
+			<refe>5</refe>
+			<marketingAirlineCode>LJ</marketingAirlineCode>
+			<operatingAirlineCode>LJ</operatingAirlineCode>
+			<airlineName>JinAir</airlineName>
+			<airLineNameKorea>대한항공</airLineNameKorea>
+			<includeBaggage>2</includeBaggage>
+			<depatureAirPortName>City name</depatureAirPortName>
+			<destinationAirPortName>City name</destinationAirPortName>
+			<depatureAirPortCode>GMP</depatureAirPortCode>
+			<destinationAirPortCode>CJU</destinationAirPortCode>
+			<dtd>2023-04-10 06:15</dtd>
+			<dtdTime> 06:15</dtdTime>
+			<ardt>2023-04-10 07:25</ardt>
+			<ardtTime> 07:25</ardtTime>
+			<flightNumber>303</flightNumber>
+			<favor>N</favor>
+			<favorDis>N</favorDis>
+			<priceIndex>
+				<refe>1</refe>
+				<rateType>NOMAL</rateType>
+				<nonRefundableUIDC>N</nonRefundableUIDC>
+				<nonRefundableNRF>N</nonRefundableNRF>
+				<cabin>
+					<bookingClass>Y</bookingClass>
+					<cabiType>Y</cabiType>
+					<avaiableNumberSeat>9</avaiableNumberSeat>
+				</cabin>
+				<paxFareGroup>
+					<paxFare>
+						<ptc>ADULT</ptc>
+						<fare>70000</fare>
+						<airportFee>4000</airportFee>
+						<fuelSurChage>11000</fuelSurChage>
+						<ticketingAgencyFee>1000</ticketingAgencyFee>
+					</paxFare>
+				</paxFareGroup>
+				<fare>
+					<fareBasic>YLXDP|DS|648|11|3</fareBasic>
+					<faretype>NORMAL</faretype>
+					<fareTranId>405919</fareTranId>
+				</fare>
+			</priceIndex>
+		</seg>
+	</flightIndex>
+</root>

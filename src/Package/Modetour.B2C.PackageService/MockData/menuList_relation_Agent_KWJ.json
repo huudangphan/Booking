@@ -1,0 +1,30 @@
+{
+  "Relation": {
+    "item": [
+      {
+        "LocID": "LOC270",
+        "TheID": "THE119"
+      },
+      {
+        "LocID": "LOC270",
+        "TheID": "THE202"
+      },
+      {
+        "LocID": "LOC1283",
+        "TheID": "THE119"
+      },
+      {
+        "LocID": "LOC1283",
+        "TheID": "THE202"
+      },
+      {
+        "LocID": "LOC1514",
+        "TheID": "THE119"
+      },
+      {
+        "LocID": "LOC1514",
+        "TheID": "THE202"
+      }
+    ]
+  }
+}

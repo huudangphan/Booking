@@ -1,0 +1,73 @@
+{
+    "totalReview": 296,
+    "satisfactionAverageRate": 4,
+    "satisfactionScheduleRate": 1,
+    "satisfactionHotelRate": 1,
+    "satisfactionAirlineRate": 2,
+    "satisfactionMealRate": 2,
+    "satisfactionTourRate": 3,
+    "satisfactionValueForMoneyRate": 1,
+    "listOldReview": [{
+            "serialNumber": 85137,
+            "ptid": 6861612,
+            "id": "02|40947385",
+            "registerDate": "2023-03-09T11:40:19.98",
+            "groupName": "|[호텔보다 풀빌라!!-3박 5일]방콕 스윗 1박+파타야 풀빌라 2박+요트투어+전통안마 1시간",
+            "title": "일정표 개무시, 옵션 강제(강요x 강제o) 인생 최악의여행",
+            "writer": "김병갑",
+            "searchNumber": 8,
+            "recommend": 0,
+            "image": "/eagle/photoimg/55748/Rfile/635911349200877746_S.jpg",
+            "satisfactionRate": "1",
+            "region": "아시아|태국|방콕",
+            "open": "2",
+            "picture": "",
+            "regionPLID": 3,
+            "travelSpot": "3\\85\\1373",
+            "itemClassification": "P",
+            "position": 0,
+            "guestRoom": 0,
+            "service": 0,
+            "price": 0,
+            "content": "내용 긴 관계로",
+            "groupNumber": 66804425,
+            "departureDate": "2023-03-05",
+            "travelPeriod": "3박 5일",
+            "representativeHotel": "에이원 방콕 호텔",
+            "hotelClass": "4.0",
+            "airlineName": "티웨이 항공"
+        }
+    ],
+    "listNewReview": [{
+            "serialNumber": 4134,
+            "title": "일정표 개무시, 옵션 강제(강요x 강제o) 인생 최악의여행",
+            "writer": "김모두모두별명",
+            "writerAvatar": "https://img.modetour.com/eagle/photoimg/11005/bfile/635538931937188407.png",
+            "writerLocation": "오사카, 일본",
+            "content": "솔레아리조트에 있는 카약체험도 재밌었어요. \r\n시간되시는 분들에게 적극 추천하고 싶네요. 솔레아리조트에 숙박\r\n하시는 분은 쿠폰으로 이용할수 있으니 이용을 권장합니다!\r\n첫날부터 마지막까지 친절하게 안내해주신 가이드 조이님께 감사 \r\n드립니다.",
+            "reviewTravelImages": [{
+                    "locationName": "새벽사원",
+                    "imageLink": "https://img.modetour.com/eagle/photoimg/11005/bfile/635538931937188407.png"
+                }, {
+                    "locationName": "새벽사원",
+                    "imageLink": "https://img.modetour.com/eagle/photoimg/11005/bfile/635116574873305589.png"
+                }
+            ],
+            "reviewComments": [{
+                    "serialNumber": 186,
+                    "writer": "ab***fg***",
+                    "comment": "투명 카약도 있나요? 패러세일링은 얼마에 탈 수 있나요? 알려주세요~~",
+                    "createdDate": "2023-03-05"
+                }
+            ],
+            "hagTags": [
+                "#카약아이좋아",
+                "#막탄에서막탄다",
+                "#세부시티"
+            ],
+            "totalComment": 1,
+            "totalLike": 120,
+            "createdDate": "2023-03-05"
+        }
+    ]
+}

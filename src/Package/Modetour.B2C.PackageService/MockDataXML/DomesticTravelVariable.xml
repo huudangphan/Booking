@@ -1,0 +1,874 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <ResponseDomestic>
+    <type>FeedTypeList</type>
+    <title>#피드형 리스트 이미지</title>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/main/feed_list_img_1.png</commonImage>
+      <commonImage>/mocks/main/feed_list_img_2.png</commonImage>
+      <commonImage>/mocks/main/feed_list_img_3.png</commonImage>
+      <exhibitionId>12333</exhibitionId>
+      <exhibitionTitle>낭만가득 사이판 코럴 오션리조트 4일 한 줄 </exhibitionTitle>
+      <price>10000000</price>
+      <tags>#페트라</tags>
+      <tags>#와다럼</tags>
+      <tags>#사해</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>#스위스</subTitle>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/main/feed_list_img_2.png</commonImage>
+      <exhibitionId>12232</exhibitionId>
+      <exhibitionTitle>세부 제이파크 아일랜드 3박 5일</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#페트라</tags>
+      <tags>#와다럼</tags>
+      <tags>#사해</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>#아르헨티나</subTitle>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/main/feed_list_img_3.png</commonImage>
+      <exhibitionId>12233</exhibitionId>
+      <exhibitionTitle>세부 제이파크 아일랜드 3박 5일</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#페트라</tags>
+      <tags>#와다럼</tags>
+      <tags> #사해</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>#스페인</subTitle>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/main/feed_list_img_3.png</commonImage>
+      <exhibitionId>12234</exhibitionId>
+      <exhibitionTitle>세부 제이파크 아일랜드 3박 5일</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#페트라</tags>
+      <tags>#와다럼</tags>
+      <tags>#사해</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>#영국</subTitle>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/main/feed_list_img_2.png</commonImage>
+      <exhibitionId>12235</exhibitionId>
+      <exhibitionTitle>세부 제이파크 아일랜드 3박 5일</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#페트라</tags>
+      <tags>#와다럼</tags>
+      <tags> #사해</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>#영국</subTitle>
+    </categories>
+  </ResponseDomestic>
+  <ResponseDomestic>
+    <type>SquareRound</type>
+    <title>추천상품</title>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommend_1.png</commonImage>
+      <exhibitionId>12249</exhibitionId>
+      <exhibitionTitle>[제주자유여행 4박6일] 제주 애월지역 4성급 더 참 리조트</exhibitionTitle>
+      <tags>#고객감사제 #3만원즉시할인 #리조트</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>해외여행</subTitle>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommend_2.png</commonImage>
+      <exhibitionId>12250</exhibitionId>
+      <exhibitionTitle>낭만가득 사이판 코럴 오션리조 ...</exhibitionTitle>
+      <tags>#고객감사제 #3만원즉시할인 #리조트</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>해외여행</subTitle>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommend_3.png</commonImage>
+      <exhibitionId>12251</exhibitionId>
+      <exhibitionTitle>세부 제이파크 아일랜드 3박 5일</exhibitionTitle>
+      <tags>#고객감사제 #3만원즉시할인 #리조트</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>해외여행</subTitle>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommend_1.png</commonImage>
+      <exhibitionId>12351</exhibitionId>
+      <exhibitionTitle>세부 제이파크 아일랜드 3박 5일</exhibitionTitle>
+      <tags>#고객감사제 #3만원즉시할인 #리조트</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>해외여행</subTitle>
+    </categories>
+  </ResponseDomestic>
+  <ResponseDomestic>
+    <type>SquareRound</type>
+    <title>지역별 추천 기획전</title>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_region_1.png</commonImage>
+      <exhibitionId>12252</exhibitionId>
+      <exhibitionTitle>
+        <div>
+          <div>베트남의 수도,</div>
+          <div>두 강 사이의 도시</div>
+        </div>
+      </exhibitionTitle>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>강원도</subTitle>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_region_2.png</commonImage>
+      <exhibitionId>12253</exhibitionId>
+      <exhibitionTitle>
+        <div>
+          <div>베트남의 수도,</div>
+          <div>두 강 사이의 도시</div>
+        </div>
+      </exhibitionTitle>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>강원도</subTitle>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_region_3.png</commonImage>
+      <exhibitionId>12354</exhibitionId>
+      <exhibitionTitle>
+        <div>
+          <div>베트남의 수도,</div>
+          <div>두 강 사이의 도시</div>
+        </div>
+      </exhibitionTitle>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>강원도</subTitle>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_region_4.png</commonImage>
+      <exhibitionId>12254</exhibitionId>
+      <exhibitionTitle>
+        <div>
+          <div>베트남의 수도,</div>
+          <div>두 강 사이의 도시</div>
+        </div>
+      </exhibitionTitle>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>강원도</subTitle>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_region_5.png</commonImage>
+      <exhibitionId>12254</exhibitionId>
+      <exhibitionTitle>
+        <div>
+          <div>베트남의 수도,</div>
+          <div>두 강 사이의 도시</div>
+        </div>
+      </exhibitionTitle>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>강원도</subTitle>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_region_6.png</commonImage>
+      <exhibitionId>12254</exhibitionId>
+      <exhibitionTitle>
+        <div>
+          <div>베트남의 수도,</div>
+          <div>두 강 사이의 도시</div>
+        </div>
+      </exhibitionTitle>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>강원도</subTitle>
+    </categories>
+  </ResponseDomestic>
+  <ResponseDomestic>
+    <type>CheckerboardSet</type>
+    <title>다단 바둑판형</title>
+    <set1>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_products_1.png</commonImage>
+      <exhibitionId>12255</exhibitionId>
+      <exhibitionTitle>[출발확정/대한항공] 이스라엘요르단 9일 두 줄 ...</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#온천여행 #무조건 한줄</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </set1>
+    <set1>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_products_2.png</commonImage>
+      <exhibitionId>12256</exhibitionId>
+      <exhibitionTitle>[패키지 속 자유] 스페인/포르투갈/모로코 12일 일급...</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#온천여행 #무조건 한줄</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </set1>
+    <set1>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_products_3.png</commonImage>
+      <exhibitionId>12257</exhibitionId>
+      <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#온천여행 #무조건 한줄</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </set1>
+    <set1>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_products_4.png</commonImage>
+      <exhibitionId>12258</exhibitionId>
+      <exhibitionTitle>유럽과 아프리카의 만남 스페인+포르투갈 그리고 모...</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#온천여행 #무조건 한줄</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </set1>
+    <set1>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_products_5.png</commonImage>
+      <exhibitionId>12258</exhibitionId>
+      <exhibitionTitle>온양 3,4일 #100% 출발 확정 한줄 노출</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#온천여행 #무조건 한줄</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </set1>
+    <set1>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_products_6.png</commonImage>
+      <exhibitionId>12258</exhibitionId>
+      <exhibitionTitle>유럽과 아프리카의 만남 스페인+포르투갈 그리고 모...</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#온천여행 #무조건 한줄</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </set1>
+    <set1>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_products_7.png</commonImage>
+      <exhibitionId>12258</exhibitionId>
+      <exhibitionTitle>온양 3,4일 #100% 출발 확정 한줄 노출</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#온천여행 #무조건 한줄</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </set1>
+    <set1>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_products_8.png</commonImage>
+      <exhibitionId>12258</exhibitionId>
+      <exhibitionTitle>유럽과 아프리카의 만남 스페인+포르투갈 그리고 모...</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#온천여행 #무조건 한줄</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </set1>
+    <set2>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_products_4.png</commonImage>
+      <exhibitionId>12375</exhibitionId>
+      <exhibitionTitle>유럽과 아프리카의 만남 스페인+포르투갈 그리고 모...</exhibitionTitle>
+      <price>10000000</price>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </set2>
+    <set2>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/recommended_products_2.png</commonImage>
+      <exhibitionId>12378</exhibitionId>
+      <exhibitionTitle>유럽과 아프리카의 만남 스페인+포르투갈 그리고 모...</exhibitionTitle>
+      <price>10000000</price>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </set2>
+  </ResponseDomestic>
+  <ResponseDomestic>
+    <type>SingleRowBanner</type>
+    <title>1단 텍스트 팝업 좌우 스크롤형</title>
+    <exhibitions>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/single_row_banner_domestic_1.png</commonImage>
+      <exhibitionId>12204</exhibitionId>
+      <exhibitionTitle>
+        <div>
+          <div>모두페이 간편결제</div>
+          <div>1.5% 즉시할인</div>
+        </div>
+      </exhibitionTitle>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>쉽고 편리한 결제 혜택</subTitle>
+      <backgroundColor>#cdf1e8</backgroundColor>
+    </exhibitions>
+    <exhibitions>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/single_row_banner_domestic_2.png</commonImage>
+      <exhibitionId>12205</exhibitionId>
+      <exhibitionTitle>
+        <div style="color:[#fff]">
+          <div>2023 모두투어 </div>
+          <div>새해맞이</div>
+        </div>
+      </exhibitionTitle>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>무이자할부 안내</subTitle>
+      <backgroundColor>#0d2660</backgroundColor>
+    </exhibitions>
+    <exhibitions>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/single_row_banner_domestic_3.png</commonImage>
+      <exhibitionId>12206</exhibitionId>
+      <exhibitionTitle>
+        <div>
+          <div>2023 모두투어 </div>
+          <div>새해맞이</div>
+        </div>
+      </exhibitionTitle>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+      <subTitle>무이자할부 안내</subTitle>
+      <backgroundColor>#d8e7fe</backgroundColor>
+    </exhibitions>
+  </ResponseDomestic>
+  <ResponseDomestic>
+    <type>SquareRound</type>
+    <title>유럽인들이 가장 가고 싶어하는 여행지</title>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/package_special_1.png</commonImage>
+      <exhibitionId>12259</exhibitionId>
+      <exhibitionTitle>유럽인들이 가장 가고 싶어하는 여행지</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#4인이상출발 #우리끼리 #소그룹투어</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/package_special_1.png</commonImage>
+      <exhibitionId>12260</exhibitionId>
+      <exhibitionTitle>낭만가득 사이판 코럴 오션리조 ...</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#4인이상출발 #우리끼리 #소그룹투어</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/package_special_1.png</commonImage>
+      <exhibitionId>12261</exhibitionId>
+      <exhibitionTitle>세부 제이파크 아일랜드 3박 5일</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#4인이상출발 #우리끼리 #소그룹투어</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </categories>
+    <categories>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/package_special_1.png</commonImage>
+      <exhibitionId>12262</exhibitionId>
+      <exhibitionTitle>유럽인들이 가장 가고 싶어하는 여행지</exhibitionTitle>
+      <price>10000000</price>
+      <tags>#4인이상출발 #우리끼리 #소그룹투어</tags>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </categories>
+  </ResponseDomestic>
+  <ResponseDomestic>
+    <type>RegionList</type>
+    <title>피드형 카테고리 리스트 이미지</title>
+    <regions>
+      <id>1</id>
+      <image>/mocks/travel/feed_category_1.png</image>
+      <name>오사카</name>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_1.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_2.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_3.png</commonImage>
+        <exhibitionId>12220</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해 </tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_4.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_5.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_6.png</commonImage>
+        <exhibitionId>12221</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_1.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_6.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_3.png</commonImage>
+        <exhibitionId>12222</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_4.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_2.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_5.png</commonImage>
+        <exhibitionId>12223</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+    </regions>
+    <regions>
+      <id>2</id>
+      <image>/mocks/travel/feed_category_2.png</image>
+      <name>바르셀로나</name>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_5.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_6.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_4.png</commonImage>
+        <exhibitionId>12224</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_1.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_3.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_6.png</commonImage>
+        <exhibitionId>12225</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_3.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_2.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_4.png</commonImage>
+        <exhibitionId>12226</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해 </tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_6.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_1.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_5.png</commonImage>
+        <exhibitionId>12227</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+    </regions>
+    <regions>
+      <id>3</id>
+      <image>/mocks/travel/feed_category_3.png</image>
+      <name>나폴리</name>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_3.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_5.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_2.png</commonImage>
+        <exhibitionId>12228</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_6.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_4.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_2.png</commonImage>
+        <exhibitionId>12229</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_1.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_3.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_5.png</commonImage>
+        <exhibitionId>12230</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_1.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_2.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_3.png</commonImage>
+        <exhibitionId>12231</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+    </regions>
+    <regions>
+      <id>4</id>
+      <image>/mocks/travel/feed_category_4.png</image>
+      <name>베이징</name>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_3.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_2.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_1.png</commonImage>
+        <exhibitionId>12328</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_6.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_4.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_5.png</commonImage>
+        <exhibitionId>12329</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_4.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_5.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_6.png</commonImage>
+        <exhibitionId>12330</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_1.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_2.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_3.png</commonImage>
+        <exhibitionId>12352</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+    </regions>
+    <regions>
+      <id>5</id>
+      <image>/mocks/travel/feed_category_5.png</image>
+      <name>나폴리</name>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_1.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_2.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_3.png</commonImage>
+        <exhibitionId>12348</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_1.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_2.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_3.png</commonImage>
+        <exhibitionId>12349</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_1.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_2.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_3.png</commonImage>
+        <exhibitionId>12350</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+      <exhibitions>
+        <registerType>EXHIBITION</registerType>
+        <commonImage>/mocks/travel/category_list_image_1.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_2.png</commonImage>
+        <commonImage>/mocks/travel/category_list_image_3.png</commonImage>
+        <exhibitionId>12351</exhibitionId>
+        <exhibitionTitle>[노팁+노옵션+호텔UP] 작은 한라산 어승생악/제주 ...</exhibitionTitle>
+        <price>10000000</price>
+        <tags>#페트라 </tags>
+        <tags>#와다럼 </tags>
+        <tags>#사해</tags>
+        <exposurePeriod>
+          <startDate>2023-04-12T07:50:47.952Z</startDate>
+          <endDate>2023-07-12T07:50:47.952Z</endDate>
+        </exposurePeriod>
+        <subTitle>해외여행</subTitle>
+      </exhibitions>
+    </regions>
+  </ResponseDomestic>
+  <ResponseDomestic>
+    <type>TripleColumn</type>
+    <title>패키지 특별 기획전</title>
+    <exhibitions>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/package_special_column__1.png</commonImage>
+      <tags>#우도관광 #현지특식 #섬여행</tags>
+      <exhibitionId>12275</exhibitionId>
+      <exhibitionTitle>대한항공 타고 제주로 떠나자!</exhibitionTitle>
+      <price>1000000</price>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </exhibitions>
+    <exhibitions>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/package_special_column_1.png</commonImage>
+      <exhibitionId>12276</exhibitionId>
+      <tags>#우도관광 #현지특식 #섬여행</tags>
+      <price>1000000</price>
+      <exhibitionTitle>봄 맞이 나들이 제주 특가</exhibitionTitle>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </exhibitions>
+    <exhibitions>
+      <registerType>EXHIBITION</registerType>
+      <commonImage>/mocks/travel/package_special_column_1.png</commonImage>
+      <exhibitionId>12277</exhibitionId>
+      <tags>#우도관광 #현지특식 #섬여행</tags>
+      <exhibitionTitle>봄 맞이 나들이 제주 특가</exhibitionTitle>
+      <price>1000000</price>
+      <exposurePeriod>
+        <startDate>2023-04-12T07:50:47.952Z</startDate>
+        <endDate>2023-07-12T07:50:47.952Z</endDate>
+      </exposurePeriod>
+    </exhibitions>
+  </ResponseDomestic>
+</root>

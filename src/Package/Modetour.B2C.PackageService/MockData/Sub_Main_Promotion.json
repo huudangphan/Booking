@@ -1,0 +1,82 @@
+{
+  "Root": {
+    "SubPage": [
+      {
+        "THEMA_NO": "68",
+        "AREA_NO": "NULL",
+        "Item": [
+          {
+            "NO": "12176",
+            "NAME": "영남출발 가정의달+황금연휴",
+            "Image": "/promotion20/12176/1100_12176.jpg",
+            "Sort": "",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=12176",
+            "BackColor": "#977d51"
+          },
+          {
+            "NO": "12207",
+            "NAME": "영남출발 보라카이",
+            "Image": "/promotion20/12207/1100_12207.jpg",
+            "Sort": "0",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=12207",
+            "BackColor": "#977d51"
+          },
+          {
+            "NO": "7863",
+            "NAME": "오감만족 대마도",
+            "Image": "/promotion/7863/1100_7863.jpg",
+            "Sort": "1",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=7863",
+            "BackColor": "#977d51"
+          },
+          {
+            "NO": "12132",
+            "NAME": "[부산출발] 일본 알펜루트",
+            "Image": "/promotion20/12132/1100_12132.jpg",
+            "Sort": "3",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=12132",
+            "BackColor": "#977d51"
+          },
+          {
+            "NO": "12078",
+            "NAME": "새해맞이 괌",
+            "Image": "/promotion20/12078/1100_12078.jpg",
+            "Sort": "4",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=12078",
+            "BackColor": "#977d51"
+          }
+        ]
+      },
+      {
+        "THEMA_NO": "88",
+        "AREA_NO": "837",
+        "Item": [
+          {
+            "NO": "11496",
+            "NAME": "고객 안심 더 좋은 패키지_APP PUSH",
+            "Image": "/promotion20/11496/1100_11496.jpg",
+            "Sort": "",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=11496",
+            "BackColor": "#977d51"
+          },
+          {
+            "NO": "11346",
+            "NAME": "제주신라 겨울즐기기",
+            "Image": "/promotion/11346/1100_11346.jpg",
+            "Sort": "0",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=11346",
+            "BackColor": "#977d51"
+          },
+          {
+            "NO": "11427",
+            "NAME": "슬기로운 제주여행",
+            "Image": "/promotion20/11427/1100_11427.jpg",
+            "Sort": "1",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=11427",
+            "BackColor": "#977d51"
+          }
+        ]
+      }
+    ]
+  }
+}

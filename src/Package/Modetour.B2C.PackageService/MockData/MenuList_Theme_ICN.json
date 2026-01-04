@@ -1,0 +1,55 @@
+{
+  "ModeTour": {
+    "StartArea": {
+      "value": "ICN",
+      "Gubun": "T"
+    },
+    "item": [
+      {
+        "label": "패키지",
+        "id": "THE88",
+        "SubMain": "1",
+        "Hidden": "N",
+        "Depth": "1",
+        "Path": "",
+        "Gubun": "T"
+      },
+      {
+        "label": "허니문",
+        "id": "THE3",
+        "SubMain": "1",
+        "Hidden": "N",
+        "Depth": "1",
+        "Path": "",
+        "Gubun": "T"
+      },
+      {
+        "label": "자유여행",
+        "id": "THE4",
+        "SubMain": "1",
+        "Hidden": "N",
+        "Depth": "1",
+        "Path": "",
+        "Gubun": "T"
+      },
+      {
+        "label": "골프여행",
+        "id": "THE5",
+        "SubMain": "1",
+        "Hidden": "N",
+        "Depth": "1",
+        "Path": "",
+        "Gubun": "T"
+      },
+      {
+        "label": "크루즈",
+        "id": "THE7",
+        "SubMain": "1",
+        "Hidden": "N",
+        "Depth": "1",
+        "Path": "",
+        "Gubun": "T"
+      }
+    ]
+  }
+}

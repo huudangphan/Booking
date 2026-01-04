@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Package\Json\KeyWordProductModel.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Bson" Version="2.20.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ModetourB2C\ModetourB2C.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Modetour.Dac">
+      <HintPath>..\Modetour.Dac.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

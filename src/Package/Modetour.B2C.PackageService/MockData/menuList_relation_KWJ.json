@@ -1,0 +1,105 @@
+{
+  "relation": {
+    "item": [
+      {
+        "LocID": "LOC270",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1283",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1514",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "",
+        "ThID": "THE119",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "",
+        "ThID": "THE202",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC270",
+        "ThID": "THE119",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC270",
+        "ThID": "THE202",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1283",
+        "ThID": "THE119",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1283",
+        "ThID": "THE202",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1514",
+        "ThID": "THE119",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1514",
+        "ThID": "THE202",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      }
+    ]
+  }
+}

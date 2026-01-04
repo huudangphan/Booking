@@ -1,0 +1,38 @@
+{
+  "Relation": {
+    "item": [
+      {
+        "LocID": "LOC844",
+        "TheID": "THE342"
+      },
+      {
+        "LocID": "LOC844",
+        "TheID": "THE344"
+      },
+      {
+        "LocID": "LOC846",
+        "TheID": "THE342"
+      },
+      {
+        "LocID": "LOC846",
+        "TheID": "THE344"
+      },
+      {
+        "LocID": "LOC850",
+        "TheID": "THE342"
+      },
+      {
+        "LocID": "LOC850",
+        "TheID": "THE344"
+      },
+      {
+        "LocID": "LOC853",
+        "TheID": "THE342"
+      },
+      {
+        "LocID": "LOC853",
+        "TheID": "THE344"
+      }
+    ]
+  }
+}

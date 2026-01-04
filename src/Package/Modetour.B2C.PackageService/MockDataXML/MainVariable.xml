@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<mainVideo>
+		<videoUpload>
+			<item>
+				<type>string</type>
+				<imageUrl1>string</imageUrl1>
+				<imageUrl2>string</imageUrl2>
+				<imageUrl3>string</imageUrl3>
+				<title1>string</title1>
+				<title2>string</title2>
+				<title3>string</title3>
+				<mainDescription>string</mainDescription>
+				<subDescription>string</subDescription>
+				<url>string</url>
+				<newOpen>string</newOpen>
+			</item>
+		</videoUpload>
+	</mainVideo>
+	<mainPromotion>
+		<subPage>
+			<themeNo>413</themeNo>
+			<areaNo>NULL</areaNo>
+			<navi>할인쿠폰 적용대상상품</navi>
+			<item>
+				<name>이번주 #타임딜</name>
+				<subItem>
+					<idx>557318</idx>
+					<sort>0</sort>
+					<price>349000</price>
+					<p_Name>*깔라따간* 필리핀 골프 5일[무제한라운딩/식사포함★2인라운딩가능]</p_Name>
+					<image>/eagle/photoimg/25185/bfile/636059052536758469.png</image>
+					<title>Title</title>
+				</subItem>
+				<subItem>
+					<idx>557259</idx>
+					<sort>1</sort>
+					<price>369000</price>
+					<p_Name>다낭/호이안/바나힐 4/5일</p_Name>
+					<image>/eagle/photoimg/71510/Bfile/638127440129112237.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>555337</idx>
+					<sort>2</sort>
+					<price>639000</price>
+					<p_Name>[창사34주년]괌 힐튼 메인타워오션뷰4/5일</p_Name>
+					<image>/eagle/photoimg/62669/sfile/636058300320721440.png</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>557319</idx>
+					<sort>3</sort>
+					<price>669000</price>
+					<p_Name>
+						대만/야류/지우펀 4일
+						<5성호텔/화련>
+					</p_Name>
+					<image>/eagle/photoimg/10368/bfile/635713454073908466.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>557315</idx>
+					<sort>4</sort>
+					<price>699000</price>
+					<p_Name>나트랑 세미팩 4/5일 [올인클루시브-스완도르 리조트(디럭스 씨뷰)] </p_Name>
+					<image>/eagle/photoimg/58949/bfile/636704474847187392.png</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>557161</idx>
+					<sort>5</sort>
+					<price>569000</price>
+					<p_Name>[모두만족 어서오사카] 오사카/고베/교토/아라시야마 몽키파크 3일 (전일/세미더블)</p_Name>
+					<image>/eagle/photoimg/32492/bfile/636107644575126409.png</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>557328</idx>
+					<sort>6</sort>
+					<price>869000</price>
+					<p_Name>[단독 특가] 사막위의 기적 두바이 + 브루나이 8일 《★두바이 월드체인/★분수쇼/★아브라/★브루나이 야</p_Name>
+					<image>/eagle/photoimg/51059/Bfile/635919918293808930.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>557330</idx>
+					<sort>7</sort>
+					<price>1649000</price>
+					<p_Name>서유럽 1개국 완전 일주[이탈리아/프랑스/스위스/영국]</p_Name>
+					<image>/eagle/photoimg/11503/bfile/636083433620810469.png</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>555336</idx>
+					<sort>8</sort>
+					<price>1249000</price>
+					<p_Name>시드니 완전일주 6일/7일</p_Name>
+					<image>/eagle/photoimg/11289/bfile/636616500407246431.jpg</image>
+					<title />
+				</subItem>
+			</item>
+			<item>
+				<name>+최대5만원쿠폰#동남아</name>
+				<subItem>
+					<idx>553548</idx>
+					<sort>0</sort>
+					<price>399000</price>
+					<p_Name>[창사34주년] 나트랑+달랏 or 달랏 직항 4/5일</p_Name>
+					<image>/eagle/photoimg/42164/bfile/638041079515500347.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553592</idx>
+					<sort>1</sort>
+					<price>619000</price>
+					<p_Name>[창사특선][4인기준][푸꾸옥 멜리아빈펄-2베드 풀빌라] 푸꾸옥 세미팩 5일[노쇼핑]</p_Name>
+					<image>/eagle/photoimg/70676/Bfile/638073033956282388.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>554527</idx>
+					<sort>2</sort>
+					<price>412600</price>
+					<p_Name>[가성비최고/방콕파타야5일] 월드체인5성 그랜드머큐어1박+만다린이스트빌2박+요트크루즈+마사지</p_Name>
+					<image>/eagle/photoimg/1373/Bfile/636676897965842865.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553500</idx>
+					<sort>3</sort>
+					<price>453500</price>
+					<p_Name>[창사34][세부 호핑투어] 비(BE) 쿨룸 4/5/6일</p_Name>
+					<image>/eagle/photoimg/32694/Bfile/BEACHFRONT.JPG</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553584</idx>
+					<sort>4</sort>
+					<price>519000</price>
+					<p_Name>[창사특선][인기절정 헤난계열] 보라카이 / 헤난 라군 프리미어룸 4/5일</p_Name>
+					<image>/eagle/photoimg/35442/Bfile/635748183173827893.png</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553507</idx>
+					<sort>5</sort>
+					<price>629000</price>
+					<p_Name>[3학년4반!! 모두투어입니다.] 코타키나발루 수트라하버 마젤란 (씨뷰) 3박5일</p_Name>
+					<image>/eagle/photoimg/55476/Bfile/The Magellan Sutera (Resort) 2a.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553577</idx>
+					<sort>6</sort>
+					<price>853600</price>
+					<p_Name>
+						[창사특선]
+						<1일자유/노쇼핑>[월드체인호텔] 싱가포르 3박5일
+					</p_Name>
+					<image>/eagle/photoimg/28744/Bfile/638047972712176503.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553545</idx>
+					<sort>7</sort>
+					<price>699000</price>
+					<p_Name>[창사34주년][올인클루시브-스완도르 리조트(디럭스 씨뷰)] 나트랑 세미팩 4/5일</p_Name>
+					<image>/eagle/photoimg/58949/bfile/636704474938386233.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553606</idx>
+					<sort>8</sort>
+					<price>429000</price>
+					<p_Name>[2023창사특선][윈덤하롱] 하노이+하롱베이+옌뜨 3박5일</p_Name>
+					<image>/eagle/photoimg/35223/Bfile/636311529690312761.png</image>
+					<title />
+				</subItem>
+			</item>
+			<item>
+				<name>+3만원쿠폰#일본</name>
+				<subItem>
+					<idx>554282</idx>
+					<sort>0</sort>
+					<price>499000</price>
+					<p_Name>[창사특선][후쿠오카 자유여행 4일] 네스트호텔/트윈룸/조식불포함</p_Name>
+					<image>/eagle/photoimg/24567/bfile/636723477832781526.png</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553536</idx>
+					<sort>1</sort>
+					<price>669000</price>
+					<p_Name>[기분좋은특가_큐슈온천 3일] 후쿠오카/벳부/유후인 (온천호텔+시내호텔)</p_Name>
+					<image>/eagle/photoimg/48312/bfile/635761864456604059.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553537</idx>
+					<sort>2</sort>
+					<price>868400</price>
+					<p_Name>[무제한대게뷔페/봄나들이~큐슈온천 4일] 후쿠오카/야나가와/벳부/유후인 (힐튼+온천호텔)</p_Name>
+					<image>/eagle/photoimg/51605/Bfile/637031173178176420.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553890</idx>
+					<sort>3</sort>
+					<price>819000</price>
+					<p_Name>[창사34주년][베이직OSAKA] 오사카/나라/교토/고베 3일 (전일/트윈룸)</p_Name>
+					<image>/eagle/photoimg/35027/bfile/635116574873336216.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553891</idx>
+					<sort>4</sort>
+					<price>1019000</price>
+					<p_Name>[식도락 오사카] 오사카/나라/교토/고베/아라시야마 4일 (트윈/특식/전일)</p_Name>
+					<image>/eagle/photoimg/32492/bfile/636107644575126409.png</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553896</idx>
+					<sort>5</sort>
+					<price>1119000</price>
+					<p_Name>[온천과 함께하는 휴양여행] 북해도/노보리베츠/죠잔케이 4일 (2대게요리특식)</p_Name>
+					<image>/eagle/photoimg/30532/Bfile/638120700435631127.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>554214</idx>
+					<sort>6</sort>
+					<price>759400</price>
+					<p_Name>[시즈오카취항 특가] 시즈오카/하코네/도쿄 3일(전일/세미더블)</p_Name>
+					<image>/eagle/photoimg/36514/Bfile/636867966949019296.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>554526</idx>
+					<sort>7</sort>
+					<price>869000</price>
+					<p_Name>[꽉찬패턴/BEST of BEST] 동경/후지산/하코네 온천3일 (전일관광/트윈)</p_Name>
+					<image>/eagle/photoimg/10697/Bfile/636867967980808311.png</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553538</idx>
+					<sort>8</sort>
+					<price>1169000</price>
+					<p_Name>[MD추천] 오키나와 가족여행 4일(아메리칸빌리지 숙박/테마파크완전정복/매직쇼디너)</p_Name>
+					<image>/eagle/photoimg/48184/bfile/636288890602475406.jpg</image>
+					<title />
+				</subItem>
+			</item>
+			<item>
+				<name>+최대10만원쿠폰#유럽</name>
+				<subItem>
+					<idx>554343</idx>
+					<sort>0</sort>
+					<price>2549000</price>
+					<p_Name>◈합리적인 가격과 구성!│대한항공직항◈ 동유럽 3국9일 </p_Name>
+					<image>/eagle/photoimg/47522/Bfile/635737798336213463.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>554370</idx>
+					<sort>1</sort>
+					<price>1119000</price>
+					<p_Name>[창사특선│5성 월드체인] 사막위의 기적 두바이 / 아부다비 퍼펙트 일주 6,7일 </p_Name>
+					<image>/eagle/photoimg/25465/Bfile/635919912380150688.png</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>554545</idx>
+					<sort>2</sort>
+					<price>1099000</price>
+					<p_Name>■ 출발확정 ■ 튀르키예 외항사 출발 9/10일 일주 </p_Name>
+					<image>/eagle/photoimg/70940/Bfile/638074112211903712.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>554542</idx>
+					<sort>3</sort>
+					<price>1849000</price>
+					<p_Name>스페인 | 포르투갈일주 9/10일 </p_Name>
+					<image>/eagle/photoimg/11432/Bfile/636506698134733051.png</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>554512</idx>
+					<sort>4</sort>
+					<price>3549000</price>
+					<p_Name>[북유럽4국+발틱3국 완전일주] 대자연의 북유럽4국과  발트3국을 완벽하게 !</p_Name>
+					<image>/eagle/photoimg/68309/Bfile/637146203855175367.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>556444</idx>
+					<sort>5</sort>
+					<price>2999000</price>
+					<p_Name>[창사특선 | 서유럽BEST 3국 10일(프랑스/스위스/이탈리아)]</p_Name>
+					<image>/eagle/photoimg/19502/bfile/636098996025416806.png</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>554633</idx>
+					<sort>6</sort>
+					<price>2649000</price>
+					<p_Name>■출발확정■[일정이 좋다] 이탈리아 완전일주9일 [지중해휴양지 1일자유시간+알프스 1일투어+와인체험투어</p_Name>
+					<image>/eagle/photoimg/11489/bfile/636089396063034302.png</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>554342</idx>
+					<sort>7</sort>
+					<price>2449000</price>
+					<p_Name>[국적기직항｜로맨틱 로드] 동유럽 4국 9일 [독/체/헝/오] </p_Name>
+					<image>/eagle/photoimg/47522/Bfile/635737798336213463.jpg</image>
+					<title />
+				</subItem>
+			</item>
+			<item>
+				<name>+최대10만원쿠폰#남태평양&미주</name>
+				<subItem>
+					<idx>553515</idx>
+					<sort>0</sort>
+					<price>629800</price>
+					<p_Name>[아이와함께] 괌 가족여행 4/5일</p_Name>
+					<image>/eagle/photoimg/22572/Bfile/636252787293595332.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553456</idx>
+					<sort>1</sort>
+					<price>930200</price>
+					<p_Name>[가족여행] 사이판 가족여행 4/5일</p_Name>
+					<image>/eagle/photoimg/22089/Bfile/635766345301281207.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>557446</idx>
+					<sort>2</sort>
+					<price>1249000</price>
+					<p_Name>호주 완전일주 6일/7일/9일</p_Name>
+					<image>/eagle/photoimg/61864/bfile/636616499875933305.png</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553542</idx>
+					<sort>3</sort>
+					<price>1768200</price>
+					<p_Name>하와이 창사34주년 특가 5/6/7/8일</p_Name>
+					<image>/eagle/photoimg/54773/Bfile/635986442641834727.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553532</idx>
+					<sort>4</sort>
+					<price>3140000</price>
+					<p_Name>[창사특선][NO팁! 베스트셀러] 뉴질랜드 완전일주 8일</p_Name>
+					<image>/eagle/photoimg/11200/bfile/635998559739786458.png</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>554548</idx>
+					<sort>5</sort>
+					<price>4001800</price>
+					<p_Name>캐나다 완전 일주 8/10일</p_Name>
+					<image>/eagle/photoimg/10278/bfile/635869022576292129.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553756</idx>
+					<sort>6</sort>
+					<price>4299000</price>
+					<p_Name>[시그니처/NO팁/NO쇼핑/VIP버스] 미서부 완전일주 9/10/11일</p_Name>
+					<image>/eagle/photoimg/1134/bfile/637145271409156253.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>554546</idx>
+					<sort>7</sort>
+					<price>4042400</price>
+					<p_Name>[베스트셀러]미동부+캐나다10일[나이아가라/뉴욕2일/워싱턴/몬트리올/퀘벡/필라델피아/아울렛]</p_Name>
+					<image>/eagle/photoimg/1071/bfile/635865687036276277.jpg</image>
+					<title />
+				</subItem>
+				<subItem>
+					<idx>553531</idx>
+					<sort>8</sort>
+					<price>3990000</price>
+					<p_Name> [창사특선]호주/뉴질랜드 남북섬 10일 (오페라하우스내부관람포함)</p_Name>
+					<image>/eagle/photoimg/27633/bfile/635998617675969728.jpg</image>
+					<title />
+				</subItem>
+			</item>
+		</subPage>
+	</mainPromotion>
+</root>

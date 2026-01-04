@@ -1,0 +1,86 @@
+{
+  "Root": {
+    "Main_bg_Image": {
+      "Item": [
+        {
+          "Description": "사이판",
+          "Image": "/banner/main/top_bg_saipan.jpg"
+        },
+        {
+          "Description": "큐슈 벳부",
+          "Image": "/banner/main/top_bg_kyushu.jpg"
+        },
+        {
+          "Description": "크로아티아 두브로브니크",
+          "Image": "/banner/main/top_bg_dubrovnik.jpg"
+        },
+        {
+          "Description": "캐나다 퀘백",
+          "Image": "/banner/main/top_bg_quebec.jpg"
+        },
+        {
+          "Description": "호주 시드니",
+          "Image": "/banner/main/top_bg_sydney.jpg"
+        },
+        {
+          "Description": "코타키나발루",
+          "Image": "/modetour/2016/main/bg_search_wrap_06.jpg"
+        },
+        {
+          "Description": "몰디브 센타라라스푸쉬",
+          "Image": "/modetour/2016/main/bg_search_wrap_07.jpg"
+        },
+        {
+          "Description": "베트남 하롱베이",
+          "Image": "/modetour/2016/main/bg_search_wrap_08.jpg"
+        },
+        {
+          "Description": "파리 루브르",
+          "Image": "/modetour/2016/main/bg_search_wrap_09.jpg"
+        },
+        {
+          "Description": "피피섬",
+          "Image": "/modetour/2016/main/bg_search_wrap_10.jpg"
+        }
+      ]
+    },
+    "Main_Side_Banner": {
+      "Item": [
+        {
+          "Description": "신한카드 청구할인",
+          "URL": "/event/plan/detail.aspx?mloc=07&eidx=12183",
+          "Image": "/modetour/2021/main/banner/sky140x170_12183.png",
+          "NewOpen": "N"
+        },
+        {
+          "Description": "국민카드 청구할인",
+          "URL": "/event/plan/detail.aspx?mloc=07&eidx=12184",
+          "Image": "/modetour/2021/main/banner/sky140x170_12184.png",
+          "NewOpen": "N"
+        },
+        {
+          "Description": "신규회원 가입",
+          "URL": "/event/plan/detail.aspx?mloc=07&eidx=12004",
+          "Image": "/modetour/2021/main/banner/sky140_01_221124.png",
+          "NewOpen": "N"
+        }
+      ]
+    },
+    "Main_Loading_Image": {
+      "Item": [
+        {
+          "Description": "신한카드 청구할인",
+          "Image": "/modetour/2021/main/banner/sky140x170_12183.png"
+        },
+        {
+          "Description": "국민카드 청구할인",
+          "Image": "/modetour/2021/main/banner/sky140x170_12184.png"
+        },
+        {
+          "Description": "신규회원 가입",
+          "Image": "/modetour/2021/main/banner/sky140_01_221124.png"
+        }
+      ]
+    }
+  }
+}

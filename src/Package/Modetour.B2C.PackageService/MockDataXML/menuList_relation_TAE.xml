@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<relation>
+<item LocID="LOC268" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC269" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC313" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC318" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC322" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1103" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1193" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1205" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1295" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1296" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1892" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1893" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC2201" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="" ThID="THE117" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="" ThID="THE124" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="" ThID="THE322" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC268" ThID="THE117" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC269" ThID="THE117" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC269" ThID="THE124" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC269" ThID="THE322" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC313" ThID="THE117" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC318" ThID="THE117" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC322" ThID="THE117" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC322" ThID="THE124" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC322" ThID="THE322" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1103" ThID="THE117" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1103" ThID="THE124" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1193" ThID="THE117" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1193" ThID="THE124" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1193" ThID="THE322" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1205" ThID="THE117" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1205" ThID="THE124" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1295" ThID="THE117" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1295" ThID="THE124" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1296" ThID="THE117" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1296" ThID="THE124" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1892" ThID="THE117" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1892" ThID="THE124" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1892" ThID="THE322" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1893" ThID="THE117" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1893" ThID="THE124" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1893" ThID="THE322" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC2201" ThID="THE117" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+</relation>

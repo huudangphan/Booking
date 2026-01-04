@@ -1,0 +1,204 @@
+{
+  "RecommendTour": [
+    {
+      "title": "제목",
+      "Tags": [
+        {
+          "Id": "1",
+          "Content": "#Customer Appeciation Festival"
+        },
+        {
+          "Id": "2",
+          "Content": "#Resort"
+        },
+        {
+          "Id": "3",
+          "Content": "#Discount"
+        }
+      ],
+      "no": "11583",
+      "url": "/event/plan/detail.aspx?mloc=07&eidx=11583",
+      "image": "/promotion20/11583/332_11583.jpg",
+      "newOpen": "N",
+      "sort": "1"
+    },
+    {
+      "title": "제목",
+      "Tags": [
+        {
+          "Id": "1",
+          "Content": "#Customer Appeciation Festival"
+        },
+        {
+          "Id": "2",
+          "Content": "#Resort"
+        },
+        {
+          "Id": "3",
+          "Content": "#Discount"
+        }
+      ],
+      "no": "11646",
+      "url": "/event/plan/detail.aspx?mloc=07&eidx=11646",
+      "image": "/promotion20/11646/332_11646.jpg",
+      "newOpen": "N",
+      "sort": "2"
+    },
+    {
+      "title": "제목",
+      "Tags": [
+        {
+          "Id": "1",
+          "Content": "#Customer Appeciation Festival"
+        },
+        {
+          "Id": "2",
+          "Content": "#Resort"
+        },
+        {
+          "Id": "3",
+          "Content": "#Discount"
+        }
+      ],
+      "no": "11637",
+      "url": "/event/plan/detail.aspx?mloc=07&eidx=11637",
+      "image": "/promotion20/11637/332_11637.jpg",
+      "newOpen": "N",
+      "sort": "3"
+    },
+    {
+      "title": "제목",
+      "Tags": [
+        {
+          "Id": "1",
+          "Content": "#Customer Appeciation Festival"
+        },
+        {
+          "Id": "2",
+          "Content": "#Resort"
+        },
+        {
+          "Id": "3",
+          "Content": "#Discount"
+        }
+      ],
+      "no": "10756",
+      "url": "/event/plan/detail.aspx?mloc=07&eidx=10756",
+      "image": "/promotion/10756/332_10756.jpg",
+      "newOpen": "N",
+      "sort": "4"
+    }
+  ],
+  "ValueForMoneyProduct": [
+    {
+      "title": "제목",
+      "Tags": [
+        {
+          "Id": "1",
+          "Content": "#Customer Appeciation Festival"
+        },
+        {
+          "Id": "2",
+          "Content": "#Resort"
+        },
+        {
+          "Id": "3",
+          "Content": "#Discount"
+        }
+      ],
+      "no": "11570",
+      "url": "/event/plan/detail.aspx?mloc=07&eidx=11570",
+      "image": "/promotion20/11570/368_11570.jpg",
+      "newOpen": "N",
+      "sort": "1"
+    },
+    {
+      "title": "제목",
+      "Tags": [
+        {
+          "Id": "1",
+          "Content": "#Customer Appeciation Festival"
+        },
+        {
+          "Id": "2",
+          "Content": "#Resort"
+        },
+        {
+          "Id": "3",
+          "Content": "#Discount"
+        }
+      ],
+      "no": "11637",
+      "url": "/event/plan/detail.aspx?mloc=07&eidx=11637",
+      "image": "/promotion20/11637/368_11637.jpg",
+      "newOpen": "N",
+      "sort": "2"
+    },
+    {
+      "title": "제목",
+      "Tags": [
+        {
+          "Id": "1",
+          "Content": "#Customer Appeciation Festival"
+        },
+        {
+          "Id": "2",
+          "Content": "#Resort"
+        },
+        {
+          "Id": "3",
+          "Content": "#Discount"
+        }
+      ],
+      "no": "6759",
+      "url": "/event/plan/detail.aspx?mloc=07&eidx=6759",
+      "image": "/promotion/6759/368_6759.jpg",
+      "newOpen": "N",
+      "sort": "3"
+    },
+    {
+      "title": "제목",
+      "Tags": [
+        {
+          "Id": "1",
+          "Content": "#Customer Appeciation Festival"
+        },
+        {
+          "Id": "2",
+          "Content": "#Resort"
+        },
+        {
+          "Id": "3",
+          "Content": "#Discount"
+        }
+      ],
+      "no": "10370",
+      "url": "/event/plan/detail.aspx?mloc=07&eidx=10370",
+      "image": "/promotion20/10370/368_10370.jpg",
+      "newOpen": "N",
+      "sort": "4"
+    },
+    {
+      "title": "제목",
+      "Tags": [
+        {
+          "Id": "1",
+          "Content": "#Customer Appeciation Festival"
+        },
+        {
+          "Id": "2",
+          "Content": "#Resort"
+        },
+        {
+          "Id": "3",
+          "Content": "#Discount"
+        }
+      ],
+      "no": "12253",
+      "url": "/event/plan/detail.aspx?mloc=07&eidx=12253",
+      "image": "/promotion20/368_12253.jpg",
+      "newOpen": "N",
+      "sort": "5"
+    }
+  ] 
+}

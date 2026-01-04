@@ -1,0 +1,28 @@
+{
+  "ModeTour": {
+    "StartArea": {
+      "value": "JEU",
+      "Gubun": "T"
+    },
+    "item": [
+      {
+        "label": "패키지",
+        "id": "THE342",
+        "SubMain": "0",
+        "Hidden": "N",
+        "Depth": "1",
+        "Path": "",
+        "Gubun": "T"
+      },
+      {
+        "label": "자유여행",
+        "id": "THE344",
+        "SubMain": "0",
+        "Hidden": "N",
+        "Depth": "1",
+        "Path": "",
+        "Gubun": "T"
+      }
+    ]
+  }
+}

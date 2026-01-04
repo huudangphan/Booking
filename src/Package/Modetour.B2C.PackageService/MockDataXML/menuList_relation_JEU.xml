@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<relation>
+<item LocID="LOC844" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC846" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC850" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC853" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="" ThID="THE342" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="" ThID="THE344" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC844" ThID="THE342" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC844" ThID="THE344" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC846" ThID="THE342" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC846" ThID="THE344" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC850" ThID="THE342" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC850" ThID="THE344" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC853" ThID="THE342" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC853" ThID="THE344" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+</relation>

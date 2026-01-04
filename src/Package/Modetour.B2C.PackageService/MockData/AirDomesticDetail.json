@@ -1,0 +1,239 @@
+{
+  "flightIndex": [
+    {
+      "refe": 1,
+      "seg": [
+        {
+          "refe": 1,
+          "marketingAirlineCode": "LJ",
+          "operatingAirlineCode": "LJ",
+          "airlineName": "JinAir",
+          "airLineNameKorea": "대한항공",
+          "includeBaggage": 2,
+          "depatureAirPortName": "City name",
+          "destinationAirPortName": "City name",
+          "depatureAirPortCode": "GMP",
+          "destinationAirPortCode": "CJU",
+          "dtd": "2023-04-10 06:05",
+          "dtdTime": " 06:05",
+          "ardt": "2023-04-10 07:20",
+          "ardtTime": " 07:20",
+          "flightNumber": 301,
+          "favor": "N",
+          "favorDis": "N",
+          "priceIndex": {
+            "refe": 1,
+            "rateType": "DISCOUNT",
+            "nonRefundableUIDC": "N",
+            "nonRefundableNRF": "N",
+            "cabin": {
+              "bookingClass": "N2",
+              "cabiType": "Y",
+              "avaiableNumberSeat": "9"
+            },
+            "paxFareGroup": {
+              "paxFare": [
+                {
+                  "ptc": "ADULT",
+                  "fare": 36900,
+                  "airportFee": 4000,
+                  "fuelSurChage": 11000,
+                  "ticketingAgencyFee": 1000
+                }
+              ]
+            },
+            "fare": {
+              "fareBasic": "N2LXD|DS|496|9|3",
+              "faretype": "DISC",
+              "fareTranId": "405758"
+            }
+          }
+        },
+        {
+          "refe": 2,
+          "marketingAirlineCode": "LJ",
+          "operatingAirlineCode": "LJ",
+          "airlineName": "JinAir",
+          "airLineNameKorea": "대한항공",
+          "includeBaggage": 2,
+          "depatureAirPortName": "City name",
+          "destinationAirPortName": "City name",
+          "depatureAirPortCode": "GMP",
+          "destinationAirPortCode": "CJU",
+          "dtd": "2023-04-10 06:05",
+          "dtdTime": " 06:05",
+          "ardt": "2023-04-10 07:20",
+          "ardtTime": " 07:20",
+          "flightNumber": 301,
+          "favor": "N",
+          "favorDis": "N",
+          "priceIndex": {
+            "refe": 1,
+            "rateType": "NOMAL",
+            "nonRefundableUIDC": "N",
+            "nonRefundableNRF": "N",
+            "cabin": {
+              "bookingClass": "Y",
+              "cabiType": "Y",
+              "avaiableNumberSeat": "9"
+            },
+            "paxFareGroup": {
+              "paxFare": [
+                {
+                  "ptc": "ADULT",
+                  "fare": 70000,
+                  "airportFee": 4000,
+                  "fuelSurChage": 11000,
+                  "ticketingAgencyFee": 1000
+                }
+              ]
+            },
+            "fare": {
+              "fareBasic": "YLXDP|DS|522|9|3",
+              "faretype": "NORMAL",
+              "fareTranId": "405919"
+            }
+          }
+        },
+        {
+          "refe": 3,
+          "marketingAirlineCode": "LJ",
+          "operatingAirlineCode": "LJ",
+          "airlineName": "JinAir",
+          "airLineNameKorea": "대한항공",
+          "includeBaggage": 2,
+          "depatureAirPortName": "City name",
+          "destinationAirPortName": "City name",
+          "depatureAirPortCode": "GMP",
+          "destinationAirPortCode": "CJU",
+          "dtd": "2023-04-10 06:05",
+          "dtdTime": " 06:05",
+          "ardt": "2023-04-10 07:20",
+          "ardtTime": " 07:20",
+          "flightNumber": 301,
+          "favor": "N",
+          "favorDis": "N",
+          "priceIndex": {
+            "refe": 1,
+            "rateType": "EVENT",
+            "nonRefundableUIDC": "N",
+            "nonRefundableNRF": "N",
+            "cabin": {
+              "bookingClass": "Z8",
+              "cabiType": "Y",
+              "avaiableNumberSeat": "0"
+            },
+            "paxFareGroup": {
+              "paxFare": [
+                {
+                  "ptc": "ADULT",
+                  "fare": 4000,
+                  "airportFee": 4000,
+                  "fuelSurChage": 11000,
+                  "ticketingAgencyFee": 1000
+                }
+              ]
+            },
+            "fare": {
+              "fareBasic": "Z8LXD|DS|465|9|3",
+              "faretype": "SPDISC",
+              "fareTranId": "405972"
+            }
+          }
+        },
+        {
+          "refe": 4,
+          "marketingAirlineCode": "LJ",
+          "operatingAirlineCode": "LJ",
+          "airlineName": "JinAir",
+          "airLineNameKorea": "대한항공",
+          "includeBaggage": 2,
+          "depatureAirPortName": "City name",
+          "destinationAirPortName": "City name",
+          "depatureAirPortCode": "GMP",
+          "destinationAirPortCode": "CJU",
+          "dtd": "2023-04-10 06:15",
+          "dtdTime": " 06:15",
+          "ardt": "2023-04-10 07:25",
+          "ardtTime": " 07:25",
+          "flightNumber": 303,
+          "favor": "N",
+          "favorDis": "N",
+          "priceIndex": {
+            "refe": 1,
+            "rateType": "DISCOUNT",
+            "nonRefundableUIDC": "N",
+            "nonRefundableNRF": "N",
+            "cabin": {
+              "bookingClass": "X",
+              "cabiType": "Y",
+              "avaiableNumberSeat": "9"
+            },
+            "paxFareGroup": {
+              "paxFare": [
+                {
+                  "ptc": "ADULT",
+                  "fare": 32900,
+                  "airportFee": 4000,
+                  "fuelSurChage": 11000,
+                  "ticketingAgencyFee": 1000
+                }
+              ]
+            },
+            "fare": {
+              "fareBasic": "XLXD|DS|609|11|3",
+              "faretype": "DISC",
+              "fareTranId": "405872"
+            }
+          }
+        },
+        {
+          "refe": 5,
+          "marketingAirlineCode": "LJ",
+          "operatingAirlineCode": "LJ",
+          "airlineName": "JinAir",
+          "airLineNameKorea": "대한항공",
+          "includeBaggage": 2,
+          "depatureAirPortName": "City name",
+          "destinationAirPortName": "City name",
+          "depatureAirPortCode": "GMP",
+          "destinationAirPortCode": "CJU",
+          "dtd": "2023-04-10 06:15",
+          "dtdTime": " 06:15",
+          "ardt": "2023-04-10 07:25",
+          "ardtTime": " 07:25",
+          "flightNumber": 303,
+          "favor": "N",
+          "favorDis": "N",
+          "priceIndex": {
+            "refe": 1,
+            "rateType": "NOMAL",
+            "nonRefundableUIDC": "N",
+            "nonRefundableNRF": "N",
+            "cabin": {
+              "bookingClass": "Y",
+              "cabiType": "Y",
+              "avaiableNumberSeat": "9"
+            },
+            "paxFareGroup": {
+              "paxFare": [
+                {
+                  "ptc": "ADULT",
+                  "fare": 70000,
+                  "airportFee": 4000,
+                  "fuelSurChage": 11000,
+                  "ticketingAgencyFee": 1000
+                }
+              ]
+            },
+            "fare": {
+              "fareBasic": "YLXDP|DS|648|11|3",
+              "faretype": "NORMAL",
+              "fareTranId": "405919"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

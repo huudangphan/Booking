@@ -1,0 +1,63 @@
+version: '3.4'
+
+services:   
+  mongo:
+    image: mongo:latest
+    container_name: mongo
+    # volumes:
+    #         - ~/apps/xcrs-policymongodb:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+    ports:
+      - "27017:27017"        
+    networks:
+      - common_network
+
+  redis:
+        image: redis:6.2-alpine
+        hostname: redis
+        container_name: redis
+        networks:
+            - common_network
+  consul:
+        image: consul:1.14
+        command: consul agent -dev -log-level=warn -ui -client=0.0.0.0
+        hostname: consul
+        container_name: consul
+        networks:
+            - common_network
+
+
+  package.openapi:
+        container_name: package.openapi
+        image: package.openapi:latest
+        restart: on-failure
+        hostname: package.openapi
+        build:
+            context: .
+            dockerfile: Package/Modetour.B2C.PackageService/Dockerfile
+        networks:
+            - common_network
+ 
+  services.gateway:
+        container_name: services.gateway
+        image: services.gateway:latest
+        restart: on-failure
+        hostname: services.gateway
+        extra_hosts:
+            cm-identity-79.modetour.biz: "172.22.28.79"
+            cm-member-79.modetour.biz: "172.22.28.79"
+            cm-payment-79.modetour.biz: "172.22.28.79"
+            cm-payment-78.modetour.biz: "172.22.28.78"
+        build:
+          context: .
+          dockerfile: Modetour.B2C.ApiGateway/Dockerfile
+        networks:
+          - common_network        
+        
+
+networks:
+    common_network:
+        driver: bridge
+  

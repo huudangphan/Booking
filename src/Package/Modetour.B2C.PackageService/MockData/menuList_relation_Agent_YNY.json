@@ -1,0 +1,46 @@
+{
+  "Relation": {
+    "item": [
+      {
+        "LocID": "LOC1290",
+        "TheID": "THE384"
+      },
+      {
+        "LocID": "LOC1376",
+        "TheID": "THE384"
+      },
+      {
+        "LocID": "LOC1376",
+        "TheID": "THE395"
+      },
+      {
+        "LocID": "LOC1769",
+        "TheID": "THE384"
+      },
+      {
+        "LocID": "LOC1769",
+        "TheID": "THE395"
+      },
+      {
+        "LocID": "LOC2097",
+        "TheID": "THE384"
+      },
+      {
+        "LocID": "LOC2129",
+        "TheID": "THE384"
+      },
+      {
+        "LocID": "LOC2130",
+        "TheID": "THE384"
+      },
+      {
+        "LocID": "LOC2131",
+        "TheID": "THE384"
+      },
+      {
+        "LocID": "LOC2131",
+        "TheID": "THE395"
+      }
+    ]
+  }
+}

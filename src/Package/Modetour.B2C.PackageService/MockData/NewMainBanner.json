@@ -1,0 +1,251 @@
+{
+  "Modetour": {
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+    "Items": {
+      "Item": [
+        {
+          "Type": "DH_C",
+          "Target": "_new",
+          "Index": "1",
+          "Area": {
+            "value": "얼리버드라면 클릭!"
+          },
+          "HNM": {
+            "value": "모두투어 회원이면 전세계호텔 5% 할인"
+          },
+          "Info": {
+            "value": "5% 할인쿠폰 선착순 제공"
+          },
+          "Link": {
+            "value": "https://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=10036"
+          },
+          "Image": {
+            "value": "https://img.modetour.com/banner/free/hotel_1100_181219.jpg"
+          },
+          "Price": {
+            "value": ""
+          },
+          "BackColor": "#266059"
+        },
+        {
+          "Type": "IH_S",
+          "Target": "_self",
+          "Index": "1",
+          "Area": {
+            "value": "괌특가호텔"
+          },
+          "HNM": {
+            "value": "엄빠들의 최애 휴가지, 괌"
+          },
+          "Info": {
+            "value": "괌 가봤는괌?"
+          },
+          "Link": {
+            "value": "https://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=10850"
+          },
+          "Image": {
+            "value": "https://i.travelapi.com/hotels/11000000/10640000/10630100/10630087/d3f906c7_b.jpg"
+          },
+          "Price": {
+            "value": ""
+          },
+          "BackColor": "#977d51"
+
+        },
+        {
+          "Type": "DH_W",
+          "Target": "_new",
+          "Index": "1",
+          "Area": {
+            "value": "제주 서귀포시"
+          },
+          "HNM": {
+            "value": "서머셋 제주 신화월드"
+          },
+          "Info": {
+            "value": "제주 서귀포시"
+          },
+          "Link": {
+            "value": "https://www.modetour.com/Livebooking/Hotel3/Detail.aspx?smallUrlKey=8117c7cad5e3f2a1"
+          },
+          "Image": {
+            "value": "https://i.travelapi.com/hotels/19000000/18380000/18375000/18374979/185a5aa3_b.jpg"
+          },
+          "Price": {
+            "value": "303,950"
+          },
+          "BackColor": "#13427f"
+        },
+        {
+          "Type": "DH_S",
+          "Target": "_new",
+          "Index": "1",
+          "Area": {
+            "value": "서울핫플레이스 명동"
+          },
+          "HNM": {
+            "value": "롯데시티호텔 명동"
+          },
+          "Info": {
+            "value": "호캉스+먹거리+놀거리+구경거리"
+          },
+          "Link": {
+            "value": "https://www.modetour.com/Livebooking/Hotel3/Detail.aspx?smallUrlKey=19940770a1145278"
+          },
+          "Image": {
+            "value": "https://i.travelapi.com/hotels/13000000/12620000/12615800/12615733/4f522439_b.jpg"
+          },
+          "Price": {
+            "value": ""
+          },
+          "BackColor": "#323070"
+        },
+        {
+          "Type": "IH_W",
+          "Target": "_new",
+          "Index": "1",
+          "Area": {
+            "value": "사이판"
+          },
+          "HNM": {
+            "value": "그랜드 브리오 사이판"
+          },
+          "Info": {
+            "value": "사이판 가성비 최고"
+          },
+          "Link": {
+            "value": "https://www.modetour.com/Livebooking/Hotel3/Detail.aspx?smallUrlKey=6d01d55f6d1cdb32"
+          },
+          "Image": {
+            "value": "https://i.travelapi.com/hotels/9000000/8490000/8485400/8485357/c7929e23_b.jpg"
+          },
+          "Price": {
+            "value": "206,000"
+          },
+          "BackColor": "#232a31"
+        },
+        {
+          "Type": "IH_W",
+          "Target": "_new",
+          "Index": "2",
+          "Area": {
+            "value": "괌"
+          },
+          "HNM": {
+            "value": "온워드 비치 리조트 괌"
+          },
+          "Info": {
+            "value": "워터파크 포함"
+          },
+          "Link": {
+            "value": "https://www.modetour.com/Livebooking/Hotel3/Detail.aspx?smallUrlKey=e24f07fac78bfbf6"
+          },
+          "Image": {
+            "value": "https://i.travelapi.com/hotels/1000000/50000/45500/45409/c7579ca2_b.jpg"
+          },
+          "Price": {
+            "value": "257,000"
+          },
+          "BackColor": "#0a1931"
+        },
+        {
+          "Type": "DH_W",
+          "Target": "_new",
+          "Index": "2",
+          "Area": {
+            "value": "제주 서귀포시"
+          },
+          "HNM": {
+            "value": "제주 롯데호텔"
+          },
+          "Info": {
+            "value": "제주 중문"
+          },
+          "Link": {
+            "value": "https://www.modetour.com/Livebooking/Hotel3/Detail.aspx?smallUrlKey=933bf159a03d282b"
+          },
+          "Image": {
+            "value": "https://img.modetour.com/154/HOTEL/1lottejeju.jpg"
+          },
+          "Price": {
+            "value": "257,290"
+          },
+          "BackColor": "#331600"
+        },
+        {
+          "Type": "IH_S",
+          "Target": "_new",
+          "Index": "2",
+          "Area": {
+            "value": "니가가라 하와이~"
+          },
+          "HNM": {
+            "value": "하와이 리조트 추천 BEST!"
+          },
+          "Info": {
+            "value": "ALOHA~ 당신의 호텔은 어디인가요?"
+          },
+          "Link": {
+            "value": "https://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=9845"
+          },
+          "Image": {
+            "value": "https://img.modetour.co.kr/FIT/ItemInfo/148152/하와이.jpg"
+          },
+          "Price": {
+            "value": ""
+          },
+          "BackColor": "#13444a"
+        },
+        {
+          "Type": "RB",
+          "Target": "_new",
+          "Index": "2",
+          "Area": {
+            "value": "해피톡"
+          },
+          "HNM": {
+            "value": "해피톡"
+          },
+          "Info": {
+            "value": "모두투어 호텔 상담센터"
+          },
+          "Link": {
+            "value": "http://pf.kakao.com/_pIrjj"
+          },
+          "Image": {
+            "value": "https://img.modetour.co.kr/modetour/2018/hotel/right_banner02.png"
+          },
+          "Price": {
+            "value": ""
+          },
+          "BackColor": "#8c1932"
+        },
+        {
+          "Type": "DH_S",
+          "Target": "_new",
+          "Index": "2",
+          "Area": {
+            "value": "제주 갓성비 호캉스"
+          },
+          "HNM": {
+            "value": "휘슬락 호텔"
+          },
+          "Info": {
+            "value": "겨울엔 따뜻한 남쪽으로~"
+          },
+          "Link": {
+            "value": "https://www.modetour.com/Livebooking/Hotel3/Detail.aspx?smallUrlKey=dedf7b31588dca57"
+          },
+          "Image": {
+            "value": "https://i.travelapi.com/hotels/18000000/17430000/17426700/17426671/fd43b375_z.jpg"
+          },
+          "Price": {
+            "value": ""
+          },
+          "BackColor": "#008a9a"
+        }
+      ]
+    }
+  }
+}

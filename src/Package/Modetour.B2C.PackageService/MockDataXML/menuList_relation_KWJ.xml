@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<relation>
+<item LocID="LOC270" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1283" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1514" ThID="" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="" ThID="THE119" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="" ThID="THE202" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC270" ThID="THE119" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC270" ThID="THE202" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1283" ThID="THE119" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1283" ThID="THE202" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1514" ThID="THE119" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+<item LocID="LOC1514" ThID="THE202" KwID="" MinDay="" MaxDay="" MinCost="" MaxCost="" />
+</relation>

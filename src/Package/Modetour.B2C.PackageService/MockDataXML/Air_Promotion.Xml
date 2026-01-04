@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <Item NO="31">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>Y</Visible>
+    <Title>대한항공</Title>
+    <URL>/img.modetour.com/promotion/9867/760_9867.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=9867</Path>
+    <Description>보스톤</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>4737</WebNumber>
+  </Item>
+  <Item NO="32">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>Y</Visible>
+    <Title>터키항공</Title>
+    <URL>/img.modetour.com/promotion/8346/760_8346.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=8346</Path>
+    <Description>비지니스클래스 특가기획전</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>4737</WebNumber>
+  </Item>
+  <Item NO="61">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>Y</Visible>
+    <Title>대한항공 유럽노선</Title>
+    <URL>/img.modetour.com/promotion20/9021/760_9021.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=9021</Path>
+    <Description>유럽노선 프로모션</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="23">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>Y</Visible>
+    <Title>대한항공</Title>
+    <URL>/img.modetour.com/promotion/9867/760_9867.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=9867</Path>
+    <Description>보스턴</Description>
+    <Sort>1</Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="60">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>Y</Visible>
+    <Title>아시아나항공 x ACTIVITY 결합 유럽노선</Title>
+    <URL>/img.modetour.com/promotion20/12116/760_12116.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=12116</Path>
+    <Description>유럽노선 프로모션</Description>
+    <Sort>2</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="11">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>Y</Visible>
+    <Title>터키항공</Title>
+    <URL>/img.modetour.com/promotion/8346/760_8346.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=8346</Path>
+    <Description>비지니스클래스 특가기획전</Description>
+    <Sort>2</Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="21">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>Y</Visible>
+    <Title>AY 겨울유럽특가</Title>
+    <URL>/img.modetour.com/promotion/9975/760_9975.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=9975</Path>
+    <Description>AY 겨울유럽특가</Description>
+    <Sort>3</Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="56">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>Y</Visible>
+    <Title>델타항공 미니애폴리스 </Title>
+    <URL>/img.modetour.com/promotion20/11677/760_11677.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11849</Path>
+    <Description>미니애폴리스 재 취항</Description>
+    <Sort>3</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="8">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>Y</Visible>
+    <Title>해외항공예약시 </Title>
+    <URL>/img.modetour.co.kr/promotion/8818/760_8818.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=10036</Path>
+    <Description>호텔7%할인</Description>
+    <Sort>4</Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="9">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>Y</Visible>
+    <Title>유나이티드항공</Title>
+    <URL>/img.modetour.com/promotion/8077/760_8077.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=8077</Path>
+    <Description>미주항공권 특가</Description>
+    <Sort>5</Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="38">
+    <Type1>웹</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>Y</Visible>
+    <Title>MH항공사</Title>
+    <URL>http://img.modetour.com/promotion20/11342/760_11342.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11342</Path>
+    <Description>아시아여행의 핫플레이스는 MH항공</Description>
+    <Sort>1</Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="10">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>핀에어</Title>
+    <URL>/img.modetour.com/promotion/7902/760_7902.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=7902</Path>
+    <Description>북유럽항공사</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="12">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>모두투어 개별여행</Title>
+    <URL>/img.modetour.co.kr/promotion/8926/760_8926.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=8926</Path>
+    <Description>혜택모아보기</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="14">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>2018 메가세일</Title>
+    <URL>/img.modetour.co.kr/promotion/9252/760_9252.jpg</URL>
+    <Path>/event/event_18/0521_mega/mode1.aspx</Path>
+    <Description>2018 메가세일</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="17">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>리얼해외호텔</Title>
+    <URL>/img.modetour.co.kr/promotion/9406/760_9406.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=9406</Path>
+    <Description>노마진세일</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="18">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>2018모두투어 여행박람회</Title>
+    <URL>/img.modetour.co.kr/promotion/9552/760_9552.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=9552</Path>
+    <Description>개별여행</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="19">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>와이파이 도시락</Title>
+    <URL>/img.modetour.co.kr/promotion/8926/760_8926.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=9664</Path>
+    <Description>15%할인</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="26">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>대한항공</Title>
+    <URL>/img.modetour.com/promotion/9867/760_9867.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=9867</Path>
+    <Description>보스턴</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="28">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>AY </Title>
+    <URL>/img.modetour.com/promotion/10332/760_10332.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=10332</Path>
+    <Description>AY 얼리버드 특가 </Description>
+    <Sort>
+    </Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="37">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>필리핀항공 </Title>
+    <URL>/img.modetour.com/promotion/11235/760_11235.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11235</Path>
+    <Description>PR 프리미엄이코노미석 특가</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="50">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>티웨이 싱가포르 신규 취항</Title>
+    <URL>/img.modetour.com/promotion20/11764/760_11764.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11764</Path>
+    <Description>싱가포르 신규 취항 프로모션 </Description>
+    <Sort>
+    </Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="57">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>대한항공 프로모션</Title>
+    <URL>/img.modetour.com/promotion20/11735/760_11735.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11735</Path>
+    <Description>전노선 프로모션</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="47">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>대한항공 방콕</Title>
+    <URL>/img.modetour.co.kr/ModeLiveBooking/air/main/11611_760.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11611</Path>
+    <Description>대한항공 방콕</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="39">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>MH항공</Title>
+    <URL>/img.modetour.com/promotion20/11342/760_11342.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11342</Path>
+    <Description>아시아의 핫플레이스는 MH항공 타자</Description>
+    <Sort>1</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="13">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>모두투어 창사29주년</Title>
+    <URL>/img.modetour.co.kr/promotion/8946/760_8946.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=8946</Path>
+    <Description>개별여행 이벤트</Description>
+    <Sort>1</Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="27">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>터키항공</Title>
+    <URL>/img.modetour.com/promotion/8346/760_8346.jpg</URL>
+    <Path>http://www.modetour.com/event/plan/detail.aspx?mloc=07&amp;eidx=10466</Path>
+    <Description>비지니스클래스 특가기획전</Description>
+    <Sort>2</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="58">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>아시아나항공</Title>
+    <URL>/img.modetour.com/promotion20/11860/221118/760_11860.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11860</Path>
+    <Description>하와이 후쿠오카 오키나와 삿포로</Description>
+    <Sort>2</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="53">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>대한항공 다시 떠나는 하와이</Title>
+    <URL>/img.modetour.com/promotion20/11605/760_11605.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11605</Path>
+    <Description>대한항공 하와이 쿨레아나 캠페인</Description>
+    <Sort>2</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="49">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>아시아나 미주 특가</Title>
+    <URL>/img.modetour.com/promotion20/11757/760_11757.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11757</Path>
+    <Description>아시아나 미주 특가</Description>
+    <Sort>2</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="52">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>아시아나 </Title>
+    <URL>/img.modetour.com/promotion20/11788/760_11788.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11788</Path>
+    <Description>아시아나 울란바타르 무비자 기념 특가</Description>
+    <Sort>3</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="43">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>모두투어 창사 33주년 프로모션</Title>
+    <URL>/img.modetour.co.kr/ModeLiveBooking/air/main/11686_760.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11686</Path>
+    <Description>모두투어 창사 33주년 프로모션</Description>
+    <Sort>3</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="51">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>에어캐나다</Title>
+    <URL>/img.modetour.co.kr/ModeLiveBooking/air/main/760_11024.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11204</Path>
+    <Description>에어캐나다 밴쿠버 토론토</Description>
+    <Sort>3</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="55">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>대한항공</Title>
+    <URL>/img.modetour.com/promotion20/11862/760_11862.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11862</Path>
+    <Description>대한항공 미국관광청 공동프로모션</Description>
+    <Sort>3</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="36">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>아시아나 미주</Title>
+    <URL>/img.modetour.com/promotion/10473/760_10473.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=10473</Path>
+    <Description>미주</Description>
+    <Sort>3</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="40">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>아시아나 하와이</Title>
+    <URL>/img.modetour.com/promotion20/11675/760_11675.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11675</Path>
+    <Description>아시아나 하와이</Description>
+    <Sort>3</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="15">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>대한항공</Title>
+    <URL>/img.modetour.com/promotion/9410/760_9410.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=9410</Path>
+    <Description>자그레브 직항신규취항특가</Description>
+    <Sort>3</Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="59">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>중화항공</Title>
+    <URL>/img.modetour.com/promotion20/11999/760_11999.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11999</Path>
+    <Description>중화항공 대만 호주 뉴질랜드 특가 </Description>
+    <Sort>4</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="54">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>아시아나항공 유럽노선</Title>
+    <URL>/img.modetour.com/mode2010/event_18/0205_oz/760_11834.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11834</Path>
+    <Description>
+    </Description>
+    <Sort>4</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="34">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>터키항공 </Title>
+    <URL>/img.modetour.com/promotion/10466/760_10466.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=10466</Path>
+    <Description>터키항공 </Description>
+    <Sort>4</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="48">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>대한항공 전략노선 기획전</Title>
+    <URL>/img.modetour.com/promotion20/11735/760_11735.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11735</Path>
+    <Description>대한항공 전략노선 기획전</Description>
+    <Sort>4</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="45">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>유나이티드항공 샌프란시스코 특가</Title>
+    <URL>/img.modetour.com/promotion20/11712/760_11712.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11712</Path>
+    <Description>/event/plan/detail.aspx?mloc=07&amp;eidx=11712</Description>
+    <Sort>5</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="35">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>대한항공 모스크바</Title>
+    <URL>/img.modetour.com/promotion/10576/760_10576.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=10576</Path>
+    <Description>모스크바</Description>
+    <Sort>5</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="41">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>아메리칸에어라인</Title>
+    <URL>/img.modetour.com/promotion20/11674/760_11674.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11674</Path>
+    <Description>아메리칸에어라인</Description>
+    <Sort>5</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="42">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>델타항공</Title>
+    <URL>/img.modetour.com/promotion20/11677/760_11677.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11677 </Path>
+    <Description>델타항공</Description>
+    <Sort>5</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="16">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>리얼 노마진 세일 </Title>
+    <URL>/img.modetour.co.kr/promotion/9264/760_9264.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=9264</Path>
+    <Description>최대 20%추가 할인</Description>
+    <Sort>6</Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="44">
+    <Type1>모바일</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>괌 대한항공 X 관광청 공동 프로모션</Title>
+    <URL>/img.modetour.com/promotion20/11690/760_11690.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=11690</Path>
+    <Description>괌 대한항공 X 관광청 공동 프로모션</Description>
+    <Sort>6</Sort>
+    <WebNumber>3915</WebNumber>
+  </Item>
+  <Item NO="20">
+    <Type1>웹</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>AY 겨울유럽특가</Title>
+    <URL>/img.modetour.com/promotion/9975/760_9975.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=9975</Path>
+    <Description>AY 겨울유럽특가</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="22">
+    <Type1>웹</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>대한항공</Title>
+    <URL>http://img.modetour.com/promotion/9867/930_9867.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=9867</Path>
+    <Description>보스턴</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="33">
+    <Type1>웹</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>터키항공</Title>
+    <URL>/img.modetour.com/promotion/10466/760_10466.jpg</URL>
+    <Path>/event/plan/detail.aspx?mloc=07&amp;eidx=10466</Path>
+    <Description>터키항공</Description>
+    <Sort>
+    </Sort>
+    <WebNumber>
+    </WebNumber>
+  </Item>
+  <Item NO="24">
+    <Type1>웹</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>테스트1번입니다. </Title>
+    <URL>www</URL>
+    <Path>jpg</Path>
+    <Description>1/</Description>
+    <Sort>1</Sort>
+    <WebNumber>2</WebNumber>
+  </Item>
+  <Item NO="25">
+    <Type1>웹</Type1>
+    <Type2>해외항공</Type2>
+    <Visible>N</Visible>
+    <Title>웹사이트 으갸</Title>
+    <URL>1</URL>
+    <Path>2</Path>
+    <Description>3</Description>
+    <Sort>2</Sort>
+    <WebNumber>2</WebNumber>
+  </Item>
+</Root>

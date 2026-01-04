@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<modetour>
+  <promotion gubun="middle2">
+    <item open="Y">
+      <imgurl><![CDATA[http://img.modetour.com/promotion/10212/654_10212.jpg]]></imgurl>
+      <linkurl><![CDATA[https://www.modetour.com/event/air/10212/mode.aspx?mloc=07]]></linkurl>
+      <title><![CDATA[진에어 프로모션 (기획전기간: 3/22-3/30)]]></title>
+      <subject><![CDATA[진에어 전노선 툭가 프로모션]]></subject>
+		<backcolor><![CDATA[#266059]]></backcolor>
+    </item>
+    <item open="Y">
+      <imgurl><![CDATA[http://img.modetour.com/promotion20/12232/654_12232.jpg]]></imgurl>
+      <linkurl><![CDATA[https://www.modetour.com/event/air/12232/mode.aspx?mloc=07 ]]></linkurl>
+      <title><![CDATA[뱀부항공]]></title>
+      <subject><![CDATA[뱀부항공 특가 ]]></subject>
+		<backcolor><![CDATA[#977d51]]></backcolor>
+    </item>
+    <item open="Y">
+      <imgurl><![CDATA[https://img.modetour.com/promotion20/12220/654_12220.jpg]]></imgurl>
+      <linkurl><![CDATA[https://www.modetour.com/event/air/12220/mode.aspx?mloc=07 ]]></linkurl>
+      <title><![CDATA[대한항공 중국노선 (기획전기간: 3/16-3/31)]]></title>
+      <subject><![CDATA[대한항공 중국노선]]></subject>
+		<backcolor><![CDATA[#13427]]></backcolor>
+    </item>
+    <item open="Y">
+      <imgurl><![CDATA[https://img.modetour.com/promotion20/12174/654_12174.jpg]]></imgurl>
+      <linkurl><![CDATA[https://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=12174]]></linkurl>
+      <title><![CDATA[캐세이퍼시픽 HELLO 홍콩(기획전기간 3/13-3/22)]]></title>
+      <subject><![CDATA[캐세이퍼시픽 HELLO 홍콩]]></subject>
+		<backcolor><![CDATA[#323070]]></backcolor>
+    </item>
+    <item open="Y">
+		<imgurl><![CDATA[https://img.modetour.com/promotion20/12144/654_12144.jpg]]></imgurl>
+      <linkurl><![CDATA[https://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=12144]]></linkurl>
+      <title><![CDATA[대한항공x홍콩관광청 (기획전기간: 2/28-3/31)]]></title>
+      <subject><![CDATA[대한항공x홍콩관광청프로모션]]></subject>
+		<backcolor><![CDATA[#232a31]]></backcolor>
+    </item>
+    <item open="Y">
+      <imgurl><![CDATA[https://img.modetour.com/promotion20/11901/654_samsung.png]]></imgurl>
+      <linkurl><![CDATA[https://www.samsungcard.com/home/card/cardinfo/PGHPPCCCardCardinfoDetails001?code=AAP1773&alncmpC=QLTRAVEL&affcode=QLTRAVEL&fastIsCardYn=Y&webViewFirstPage=TRUE]]></linkurl>
+      <title><![CDATA[삼성카드 유치 배너 기획전]]></title>
+      <subject><![CDATA[삼성카드 ID PET 카드]]></subject>
+		<backcolor><![CDATA[#0a1931]]></backcolor>
+    </item>
+    <item open="Y">
+      <imgurl><![CDATA[http://img.modetour.com/promotion20/12125/654_12125.jpg]]></imgurl>
+      <linkurl><![CDATA[https://www.modetour.com/event/air/12125/mode.aspx?mloc=07 ]]></linkurl>
+      <title><![CDATA[대한항공 3월 전략 / 유럽 (기획전기간: 3/13-4/2)]]></title>
+      <subject><![CDATA[대한항공 유럽/중동/대양주 특가]]></subject>
+		<backcolor><![CDATA[#331600]]></backcolor>
+    </item>
+    <item open="Y">
+      <imgurl><![CDATA[https://img.modetour.com/promotion20/12116/654_12116.jpg]]></imgurl>
+      <linkurl><![CDATA[https://www.modetour.com/event/air/12116/mode.aspx?mloc=07]]></linkurl>
+      <title><![CDATA[아시아나항공 x ACTIVITY 결합 유럽노선 ]]></title>
+      <subject><![CDATA[아시아나항공 유럽노선 특가]]></subject>
+		<backcolor><![CDATA[#8c1932]]></backcolor>
+    </item>
+    <item open="Y">
+      <imgurl><![CDATA[https://img.modetour.com/promotion/9754/654_9754.jpg]]></imgurl>
+      <linkurl><![CDATA[https://www.modetour.com/event/air/9754/mode.aspx?mloc=07]]></linkurl>
+      <title><![CDATA[대한항공 일본 동남아 (기획전기간: 3/13-4/2)]]></title>
+      <subject><![CDATA[대한항공 일본/동남아 프로모션]]></subject>
+		<backcolor><![CDATA[#13444a]]></backcolor>
+    </item>
+  </promotion>
+  <promotion gubun="middle1">
+    <item open="Y">
+      <imgurl><![CDATA[https://img.modetour.com/promotion20/9021/210_9021.jpg]]></imgurl>
+      <linkurl><![CDATA[https://www.modetour.com/event/air/9021/mode.aspx?mloc=07]]></linkurl>
+      <title><![CDATA[대한항공 1분기 온라인 배너 / 유럽 (기획전기간: 2/1]]></title>
+      <subject><![CDATA[유럽노선 특가]]></subject>
+		<backcolor><![CDATA[#323070]]></backcolor>
+    </item>
+    <item open="Y">
+      <imgurl><![CDATA[https://img.modetour.com/promotion20/12213/210_12213.jpg]]></imgurl>
+      <linkurl><![CDATA[https://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=12213 ]]></linkurl>
+      <title><![CDATA[아시아나항공 중국 (기획전기간: 3/20-4/20)]]></title>
+      <subject><![CDATA[아시아나항공 중국노선]]></subject>
+		<backcolor><![CDATA[#331600]]></backcolor>
+    </item>
+  </promotion>
+  
+  <promotion gubun="main">
+    <item open="Y">
+      <imgurl><![CDATA[https://img.modetour.com/promotion20/11954/930_11954.jpg]]></imgurl>
+      <linkurl><![CDATA[https://www.modetour.com/event/air/11954/mode.aspx?mloc=07]]></linkurl>
+      <title><![CDATA[아시아나항공  A380 비즈니스특가]]></title>
+      <subject><![CDATA[아시아나항공  A380 비즈니스특가]]></subject>
+		<backcolor><![CDATA[#266059]]></backcolor>
+    </item>
+    <item open="Y">
+      <imgurl><![CDATA[https://img.modetour.com/promotion20/12147/930_12147.jpg]]></imgurl>
+      <linkurl><![CDATA[ https://www.modetour.com/event/air/12147/mode.aspx?mloc=07]]></linkurl>
+      <title><![CDATA[대한항공 TPE PR CLS (기획전 기간: 2/20-4/28)]]></title>
+      <subject><![CDATA[대한항공 대만  A380 프레스티지]]></subject>
+		<backcolor><![CDATA[#008a9a]]></backcolor>
+    </item>
+    <item open="Y">
+      <imgurl><![CDATA[https://img.modetour.com/promotion20/11690/930_11690.jpg]]></imgurl>
+      <linkurl><![CDATA[https://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=11690]]></linkurl>
+      <title><![CDATA[대한항공x괌정부관광청 ]]></title>
+      <subject><![CDATA[대한항공 괌정부관광청 ]]></subject>
+		<backcolor><![CDATA[#331600]]></backcolor>
+	</item>
+  </promotion>
+</modetour>

@@ -1,0 +1,245 @@
+{
+  "modetour": {
+    "promotion": [
+      {
+        "gubun": "middle2",
+        "item": [
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "http://img.modetour.com/promotion/10212/654_10212.jpg"
+            },
+            "linkurl": {
+              "value": "https://www.modetour.com/event/air/10212/mode.aspx?mloc=07"
+            },
+            "title": {
+              "value": "진에어 프로모션 (기획전기간: 3/22-3/30)"
+            },
+            "subject": {
+              "value": "진에어 전노선 툭가 프로모션"
+            },
+            "BackColor": "#266059"
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "http://img.modetour.com/promotion20/12232/654_12232.jpg"
+            },
+            "linkurl": {
+              "value": "https://www.modetour.com/event/air/12232/mode.aspx?mloc=07 "
+            },
+            "title": {
+              "value": "뱀부항공"
+            },
+            "subject": {
+              "value": "뱀부항공 특가 "
+            },
+            "BackColor": "#977d51"
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/promotion20/12220/654_12220.jpg"
+            },
+            "linkurl": {
+              "value": "https://www.modetour.com/event/air/12220/mode.aspx?mloc=07 "
+            },
+            "title": {
+              "value": "대한항공 중국노선 (기획전기간: 3/16-3/31)"
+            },
+            "subject": {
+              "value": "대한항공 중국노선"
+            },
+            "BackColor": "#13427f"
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/promotion20/12174/654_12174.jpg"
+            },
+            "linkurl": {
+              "value": "https://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=12174"
+            },
+            "title": {
+              "value": "캐세이퍼시픽 HELLO 홍콩(기획전기간 3/13-3/22)"
+            },
+            "subject": {
+              "value": "캐세이퍼시픽 HELLO 홍콩"
+            },
+            "BackColor": "#323070"
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/promotion20/12144/654_12144.jpg"
+            },
+            "linkurl": {
+              "value": "https://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=12144"
+            },
+            "title": {
+              "value": "대한항공x홍콩관광청 (기획전기간: 2/28-3/31)"
+            },
+            "subject": {
+              "value": "대한항공x홍콩관광청프로모션"
+            },
+            "BackColor": "#232a31"
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/promotion20/11901/654_samsung.png"
+            },
+            "linkurl": {
+              "value": "https://www.samsungcard.com/home/card/cardinfo/PGHPPCCCardCardinfoDetails001?code=AAP1773&alncmpC=QLTRAVEL&affcode=QLTRAVEL&fastIsCardYn=Y&webViewFirstPage=TRUE"
+            },
+            "title": {
+              "value": "삼성카드 유치 배너 기획전"
+            },
+            "subject": {
+              "value": "삼성카드 ID PET 카드"
+            },
+            "BackColor": "#0a1931"
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "http://img.modetour.com/promotion20/12125/654_12125.jpg"
+            },
+            "linkurl": {
+              "value": "https://www.modetour.com/event/air/12125/mode.aspx?mloc=07 "
+            },
+            "title": {
+              "value": "대한항공 3월 전략 / 유럽 (기획전기간: 3/13-4/2)"
+            },
+            "subject": {
+              "value": "대한항공 유럽/중동/대양주 특가"
+            },
+            "BackColor": "#331600"
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/promotion20/12116/654_12116.jpg"
+            },
+            "linkurl": {
+              "value": "https://www.modetour.com/event/air/12116/mode.aspx?mloc=07"
+            },
+            "title": {
+              "value": "아시아나항공 x ACTIVITY 결합 유럽노선 "
+            },
+            "subject": {
+              "value": "아시아나항공 유럽노선 특가"
+            },
+            "BackColor": "#8c1932"
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/promotion/9754/654_9754.jpg"
+            },
+            "linkurl": {
+              "value": "https://www.modetour.com/event/air/9754/mode.aspx?mloc=07"
+            },
+            "title": {
+              "value": "대한항공 일본 동남아 (기획전기간: 3/13-4/2)"
+            },
+            "subject": {
+              "value": "대한항공 일본/동남아 프로모션"
+            },
+            "BackColor": "#13444a"
+          }
+        ]
+      },
+      {
+        "gubun": "middle1",
+        "item": [
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/promotion20/9021/210_9021.jpg"
+            },
+            "linkurl": {
+              "value": "https://www.modetour.com/event/air/9021/mode.aspx?mloc=07"
+            },
+            "title": {
+              "value": "대한항공 1분기 온라인 배너 / 유럽 (기획전기간: 2/1"
+            },
+            "subject": {
+              "value": "유럽노선 특가"
+            },
+            "BackColor": "#977d51"
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/promotion20/12213/210_12213.jpg"
+            },
+            "linkurl": {
+              "value": "https://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=12213 "
+            },
+            "title": {
+              "value": "아시아나항공 중국 (기획전기간: 3/20-4/20)"
+            },
+            "subject": {
+              "value": "아시아나항공 중국노선"
+            },
+            "BackColor": "#323070"
+          }
+        ]
+      },
+      {
+        "gubun": "main",
+        "item": [
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/promotion20/11954/930_11954.jpg"
+            },
+            "linkurl": {
+              "value": "https://www.modetour.com/event/air/11954/mode.aspx?mloc=07"
+            },
+            "title": {
+              "value": "아시아나항공  A380 비즈니스특가"
+            },
+            "subject": {
+              "value": "아시아나항공  A380 비즈니스특가"
+            },
+            "BackColor": "#266059"
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/promotion20/12147/930_12147.jpg"
+            },
+            "linkurl": {
+              "value": " https://www.modetour.com/event/air/12147/mode.aspx?mloc=07"
+            },
+            "title": {
+              "value": "대한항공 TPE PR CLS (기획전 기간: 2/20-4/28)"
+            },
+            "subject": {
+              "value": "대한항공 대만  A380 프레스티지"
+            },
+            "BackColor": "#008a9a"
+          },
+          {
+            "open": "Y",
+            "imgurl": {
+              "value": "https://img.modetour.com/promotion20/11690/930_11690.jpg"
+            },
+            "linkurl": {
+              "value": "https://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=11690"
+            },
+            "title": {
+              "value": "대한항공x괌정부관광청 "
+            },
+            "subject": {
+              "value": "대한항공 괌정부관광청 "
+            },
+            "BackColor": "#331600"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Regions>
+    <Domestic>
+      <RegionName>패키지</RegionName>
+      <RegionCode>LOC1084</RegionCode>
+    </Domestic>
+    <Domestic>
+      <RegionName>자유여행</RegionName>
+      <RegionCode>LOC1087</RegionCode>
+    </Domestic>
+    <Domestic>
+      <RegionName>서울출발</RegionName>
+      <RegionCode>LOC2108</RegionCode>
+    </Domestic>
+    <Domestic>
+      <RegionName>지방출발</RegionName>
+      <RegionCode>LOC2109</RegionCode>
+    </Domestic>
+    <Domestic>
+      <RegionName>에어텔</RegionName>
+      <RegionCode>LOC2110</RegionCode>
+    </Domestic>
+    <Domestic>
+      <RegionName>에어카텔</RegionName>
+      <RegionCode>LOC2111</RegionCode>
+    </Domestic>
+    <Overseas>
+      <RegionName>방콕파타야</RegionName>
+      <RegionCode>LOC12</RegionCode>
+    </Overseas>
+    <Overseas>
+      <RegionName>푸켓</RegionName>
+      <RegionCode>LOC14</RegionCode>
+    </Overseas>
+    <Overseas>
+      <RegionName>나트랑/달랏/판랑/무이네</RegionName>
+      <RegionCode>LOC791</RegionCode>
+    </Overseas>
+    <Overseas>
+      <RegionName>푸꾸옥</RegionName>
+      <RegionCode>LOC1338</RegionCode>
+    </Overseas>
+  </Regions>
+  <SearchHistory>
+    <Domestic>
+      <id>1</id>
+      <Region>LOC1084</Region>
+      <StartDate>2023-03-05 </StartDate>
+      <EndDate>2023-09-13</EndDate>
+      <Category>Domestic travel</Category>
+      <timestamp>2023‑04‑25 17:45:30.005</timestamp>
+    </Domestic>
+    <Domestic>
+      <id>2</id>
+      <Region>LOC1084</Region>
+      <StartDate>2023-04-01 </StartDate>
+      <EndDate>2023-04-05</EndDate>
+      <Category>Domestic travel</Category>
+      <timestamp>2023‑04‑25 17:45:30.005</timestamp>
+    </Domestic>
+    <Domestic>
+      <id>3</id>
+      <Region>LOC1084</Region>
+      <StartDate>2023-11-01 </StartDate>
+      <EndDate>2023-11-06</EndDate>
+      <Category>Domestic travel</Category>
+      <timestamp>2023‑04‑25 17:45:30.005</timestamp>
+    </Domestic>
+    <Domestic>
+      <id>4</id>
+      <Region>LOC1084</Region>
+      <StartDate>2023-07-05 </StartDate>
+      <EndDate>2023-08-03</EndDate>
+      <Category>Domestic travel</Category>
+      <timestamp>2023‑04‑25 17:45:30.005</timestamp>
+    </Domestic>
+    <Domestic>
+      <id>5</id>
+      <Region>LOC1087</Region>
+      <StartDate>2023-09-05 </StartDate>
+      <EndDate>2023-10-03</EndDate>
+      <Category>Domestic travel</Category>
+      <timestamp>2023‑04‑25 17:45:30.005</timestamp>
+    </Domestic>
+    <Domestic>
+      <id>6</id>
+      <Region>LOC1087</Region>
+      <StartDate>2023-05-01 </StartDate>
+      <EndDate>2023-05-06</EndDate>
+      <Category>Domestic travel</Category>
+      <timestamp>2023‑04‑25 17:45:30.005</timestamp>
+    </Domestic>
+    <Domestic>
+      <id>7</id>
+      <Region>LOC1087</Region>
+      <StartDate>2023-09-05 </StartDate>
+      <EndDate>2023-09-19</EndDate>
+      <Category>Domestic travel</Category>
+      <timestamp>2023‑04‑25 17:45:30.005</timestamp>
+    </Domestic>
+    <Overseas>
+      <id>1</id>
+      <Region>LOC791</Region>
+      <StartDate>2023-03-05 </StartDate>
+      <EndDate>2023-09-13</EndDate>
+      <Category>Overseas travel</Category>
+      <timestamp>2023‑04‑25 06:31:30.005</timestamp>
+    </Overseas>
+    <Overseas>
+      <id>2</id>
+      <Region>LOC12</Region>
+      <StartDate>2023-04-01 </StartDate>
+      <EndDate>2023-04-05</EndDate>
+      <Category>Overseas travel</Category>
+      <timestamp>2023‑04‑25 12:09:30.005</timestamp>
+    </Overseas>
+    <Overseas>
+      <id>3</id>
+      <Region>LOC1338</Region>
+      <StartDate>2023-02-01 </StartDate>
+      <EndDate>2023-02-13</EndDate>
+      <Category>Overseas travel</Category>
+      <timestamp>2023‑04‑25 11:35:30.005</timestamp>
+    </Overseas>
+    <Overseas>
+      <id>4</id>
+      <Region>LOC14</Region>
+      <StartDate>2023-11-01 </StartDate>
+      <EndDate>2023-11-05</EndDate>
+      <Category>Overseas travel</Category>
+      <timestamp>2023‑04‑25 19:45:30.005</timestamp>
+    </Overseas>
+  </SearchHistory>
+</root>

@@ -1,0 +1,495 @@
+{
+  
+    "rollingBanner": {
+      "subItem": [
+        {
+          "themeNo": "413",
+          "areaNo": "NULL",
+          "item": [
+            {
+              "no": "10670",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=10670",
+              "image": "/promotion20/10670/1100_10670.jpg",
+              "newOpen": null,
+              "sort": "0"
+            },
+            {
+              "no": "12158",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12158",
+              "image": "/promotion20/12158/1100_12158.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "1"
+            },
+            {
+              "no": "12157",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12157",
+              "image": "/promotion20/12157/1100_12157.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "2"
+            },
+            {
+              "no": "12251",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12251",
+              "image": "/promotion20/12251/1100_12251.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "3"
+            },
+            {
+              "no": "12234",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12234",
+              "image": "/promotion20/12234/1100_12234.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "4"
+            },
+            {
+              "no": "12211",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12211",
+              "image": "/promotion20/12211/1100_12211.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "5"
+            },
+            {
+              "no": "12119",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12119",
+              "image": "/promotion20/12119/1100_12119.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "6"
+            },
+            {
+              "no": "10702",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=10702",
+              "image": "/promotion20/10702/1100_10702.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "7"
+            },
+            {
+              "no": "12148",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12148",
+              "image": "/promotion20/12148/1100_12148.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "8"
+            },
+            {
+              "no": "12215",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12215",
+              "image": "/promotion20/12215/1100_12215.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "9"
+            },
+            {
+              "no": "7348",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=7348",
+              "image": "/promotion/7348/220722/1100_7348.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "10"
+            },
+            {
+              "no": "11807",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=11807",
+              "image": "/promotion20/11807/1100_11807.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "11"
+            },
+            {
+              "no": "12181",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12181",
+              "image": "/promotion20/12181/1100_12181.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "12"
+            },
+            {
+              "no": "12154",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12154",
+              "image": "/promotion20/12154/1100_12154.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "13"
+            },
+            {
+              "no": "12198",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12198",
+              "image": "/promotion20/12198/1100_12198.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "14"
+            },
+            {
+              "no": "11552",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=11552",
+              "image": "/promotion20/11552/1100_11552.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "15"
+            },
+            {
+              "no": "11323",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=11323",
+              "image": "/promotion20/11323/1100_11323.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "16"
+            },
+            {
+              "no": "12204",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12204",
+              "image": "/promotion20/12204/1100_12204.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "17"
+            },
+            {
+              "no": "12030",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12030",
+              "image": "/promotion20/12030/1100_12030.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "18"
+            },
+            {
+              "no": "12033",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12033",
+              "image": "/promotion20/12033/1100_12033.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "19"
+            },
+            {
+              "no": "12082",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12082",
+              "image": "/promotion20/12082/1100_12082.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "20"
+            },
+            {
+              "no": "12180",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12180",
+              "image": "/promotion/8754/1100_8754.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "21"
+            },
+            {
+              "no": "12078",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=12078",
+              "image": "/promotion20/12078/1100_12078.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "22"
+            },
+            {
+              "no": "8892",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=8892",
+              "image": "/promotion/8892/1100_8892.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "23"
+            },
+            {
+              "no": "10036",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=10036",
+              "image": "/promotion/10036/1100_10036.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "24"
+            },
+            {
+              "no": "11969",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=11969",
+              "image": "/promotion20/11969/1100_11969.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "25"
+            },
+            {
+              "no": "11936",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=11936",
+              "image": "/promotion20/11936/1100_11936.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "26"
+            },
+            {
+              "no": "11564",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=11564",
+              "image": "/promotion20/11564/1100_11564.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "27"
+            },
+            {
+              "no": "11796",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=11796",
+              "image": "/promotion20/11796/1100_11796.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "28"
+            },
+            {
+              "no": "11910",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=11910",
+              "image": "/promotion20/11910/1100_11910.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "29"
+            },
+            {
+              "no": "11993",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=11993",
+              "image": "/promotion20/11993/1100_10018.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "30"
+            },
+            {
+              "no": "10448",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=10448",
+              "image": "/promotion/10448/1100_10448.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "31"
+            },
+            {
+              "no": "11914",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=11914",
+              "image": "/promotion20/11914/1100_11914.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "32"
+            },
+            {
+              "no": "11637",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=11637",
+              "image": "/promotion20/11637/1100_11637.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "33"
+            },
+            {
+              "no": "11406",
+              "keyWord": null,
+              "url": "/event/plan/detail.aspx?mloc=07&eidx=11406",
+              "image": "/promotion20/11406/1100_11406.jpg",
+              "title": "title",
+              "newOpen": null,
+              "sort": "34"
+            }
+          ]
+        }
+      ]
+    },
+    "mainTopBanner": {
+      "roolingBannerItem": [
+        {
+          "no": null,
+          "url": "/event/plan/detail.aspx?mloc=07&eidx=10018&eidx2=2871&gubun=I",
+          "image": "/banner/main/m538_10018.jpg",
+          "title": "title",
+          "newOpen": "N",
+          "sort": "1",
+          "description": "아시아나항공"
+        },
+        {
+          "no": null,
+          "url": "/event/event_17/0201_kakao/mode.aspx?mloc=110101&eidx2=1607",
+          "image": "/banner/main/m538_170201_kakao.jpg",
+          "title": "title",
+          "newOpen": "N",
+          "sort": "2",
+          "description": "카카오톡 플러스친구"
+        }
+      ],
+      "fixedBannerItem": [
+        {
+          "no": null,
+          "url": "/event/plan/detail.aspx?mloc=07&eidx=12157",
+          "image": "/modetour/2021/main/bg_top_banner.jpg",
+          "title": "title",
+          "newOpen": "N",
+          "sort": "1",
+          "description": "닷컴 띠배너_PC"
+        },
+        {
+          "no": null,
+          "url": "/event/plan/detail.aspx?mloc=07&eidx=12157",
+          "image": "/modemobile/2021/main/img/img_appdown_new_230112.gif",
+          "title": "title",
+          "newOpen": "N",
+          "sort": "2",
+          "description": "닷컴 띠배너_,MO"
+        }
+      ],
+      "guerrillaItem": [],
+      "bigSale": {
+        "item": {
+          "n0": "11493",
+          "url": "/event/plan/detail.aspx?mloc=07&eidx=11493",
+          "image": "/banner/main/m279_11493.jpg",
+          "title": "title",
+          "newOpen": "N",
+          "sort": "1"
+        }
+      }
+    },
+    "marketingBanner": {
+      "marketingBanner": [
+        {
+          "description": "이벤트/결제혜택",
+          "url": "/event/plan/detail.aspx?mloc=07&eidx=12183",
+          "bImage": null,
+          "image": "/modetour/2021/main/m520_12183.png",
+          "title": "title",
+          "newOpen": "N",
+          "sort": null
+        },
+        {
+          "description": "신한은행 환전 이벤트",
+          "url": "/event/plan/detail.aspx?mloc=07&eidx=12182",
+          "bImage": null,
+          "image": "/promotion20/12182/m520_12182.png",
+          "title": "title",
+          "newOpen": "N",
+          "sort": null
+        },
+        {
+          "description": "웰컴쿠폰",
+          "url": "/event/plan/detail.aspx?mloc=07&eidx=12004",
+          "bImage": null,
+          "image": "/modetour/2021/main/m520_12004.png",
+          "title": "title",
+          "newOpen": "N",
+          "sort": null
+        },
+        {
+          "description": "카드 무이자",
+          "url": "/event/plan/detail.aspx?mloc=07&eidx=11643",
+          "bImage": null,
+          "image": "/modetour/2021/main/img10.png",
+          "title": "title",
+          "newOpen": "N",
+          "sort": null
+        }
+      ],
+      "specialExhibitionBanner": [
+        {
+          "description": "PC_신한카드",
+          "url": "/event/plan/detail.aspx?mloc=07&eidx=12183",
+          "bImage": null,
+          "image": "/promotion20/12183/pc_banner_12183.png",
+          "title": "title",
+          "newOpen": "N",
+          "sort": null
+        },
+        {
+          "description": "모바일_신한은행",
+          "url": "/event/plan/detail.aspx?mloc=07&eidx=12182",
+          "bImage": null,
+          "image": "/promotion20/12182/m_banner_12182.png",
+          "title": "title",
+          "newOpen": "N",
+          "sort": null
+        }
+      ]
+    },
+    "inAllNow": [
+      {
+        "type": "MENU",
+        "title": "지금 MODE에서는",
+        "topBanner": [
+          {
+            "no": null,
+            "url": "/event/plan/detail.aspx?mloc=07&eidx=10670",
+            "image": "/modetour/2021/main/thum/01_230317.jpg",
+            "title": "title",
+            "newOpen": "N",
+            "sort": "1",
+            "description": "모두 시그니처<p style=\"font-size:12px\">패키지여행 대표브랜드</p><br><p style=\"font-size:12px\">상품보기></p>"
+          },
+          {
+            "no": null,
+            "url": "/event/plan/detail.aspx?mloc=07&eidx=10702",
+            "image": "/modetour/2021/main/thum/04_230208.jpg",
+            "title": "title",
+            "newOpen": "N",
+            "sort": "2",
+            "description": "알펜루트 일본<p style=\"font-size:12px\">파노라마 설경 </p><br><p style=\"font-size:12px\"> 시즌한정 상품보기></p>"
+          },
+          {
+            "no": null,
+            "url": "/event/plan/detail.aspx?mloc=07&eidx=12204",
+            "image": "/modetour/2021/main/thum/02_230309.jpg",
+            "title": "title",
+            "newOpen": "N",
+            "sort": "3",
+            "description": "무안출발 다낭<p style=\"font-size:12px\">4/28出 전세기</p><br><p style=\"font-size:12px\"> 상품보기></p>"
+          },
+          {
+            "no": null,
+            "url": "/event/event_19/10036/mode.aspx",
+            "image": "/modetour/2021/main/thum/05_220929.jpg",
+            "title": "title",
+            "newOpen": "N",
+            "sort": "4",
+            "description": "호텔 5%쿠폰<p style=\"font-size:12px\">모두투어 고객누구나! </p><br><p style=\"font-size:12px\"> 바로가기></p>"
+          },
+          {
+            "no": null,
+            "url": "/pkg/Item.aspx?MLoc=01&idx=538874",
+            "image": "/modetour/2021/main/thum/02_220829.jpg",
+            "title": "title",
+            "newOpen": "N",
+            "sort": "5",
+            "description": "클락골프 초특가<p style=\"font-size:12px\">349,000원~ </p><br><p style=\"font-size:12px\"> 상품보기></p>"
+          }
+        ],
+        "fixedBanner": []
+      }
+    ]
+  
+}

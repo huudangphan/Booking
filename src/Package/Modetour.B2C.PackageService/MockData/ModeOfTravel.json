@@ -1,0 +1,309 @@
+{
+  "Root": {
+    "Banner": [
+      {
+        "Type": "PKG",
+        "title": "이벤트/혜택 모아보기",
+        "TopBanner": {
+          "Item": [
+            {
+              "Description": "모두챌린지",
+              "URL": "https://m.instagram.com/reel/Cp4I_FaP9yY/?igshid=YmMyMTA2M2Y=",
+              "Image": "/ModeMobile/2019/main/img/mn_mkt_230321.png",
+              "NewOpen": "N",
+              "Sort": "1"
+            },
+            {
+              "Description": "모바일_신한카드",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=12183",
+              "Image": "/ModeMobile/2019/main/img/mn_mkt_12183.png",
+              "NewOpen": "N",
+              "Sort": "2"
+            },
+            {
+              "Description": "모바일_KB국민카드",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=12184",
+              "Image": "/ModeMobile/2019/main/img/mn_mkt_12184.png",
+              "NewOpen": "N",
+              "Sort": "3"
+            },
+            {
+              "Description": "모바일_간편결제",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=10001",
+              "Image": "/ModeMobile/2019/main/img/mn_mkt_sample012x.png",
+              "NewOpen": "N",
+              "Sort": "4"
+            },
+            {
+              "Description": "모바일_마일리지샵",
+              "URL": "/mileageshop/mobile/productlist.aspx",
+              "Image": "/ModeMobile/2019/main/img/mn_mkt_sample032x.png",
+              "NewOpen": "N",
+              "Sort": "5"
+            },
+            {
+              "Description": "모바일_카드혜택",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=11643",
+              "Image": "/ModeMobile/2019/main/img/mn_mkt_sample042x.png",
+              "NewOpen": "N",
+              "Sort": "6"
+            },
+            {
+              "Description": "모바일_아시아나",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=10018",
+              "Image": "/ModeMobile/2019/main/img/mn_mkt_sample022x.png",
+              "NewOpen": "N",
+              "Sort": "7"
+            }
+          ]
+        },
+        "FixedBanner": {
+          "Item": [
+            {
+              "Description": "꿈을 예약하세요!",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=11493",
+              "Image": "/banner/main/m260_11493.jpg",
+              "NewOpen": "N",
+              "Sort": "1"
+            },
+            {
+              "Description": "클릭만해도 최대30만원할인!",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=11498",
+              "Image": "/banner/main/m260_11498.jpg",
+              "NewOpen": "N",
+              "Sort": "2"
+            },
+            {
+              "Description": "안심가이드동행으로 더욱 안전하게",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=11492",
+              "Image": "/banner/main/m260_11492.jpg",
+              "NewOpen": "N",
+              "Sort": "3"
+            }
+          ]
+        }
+      },
+      {
+        "Type": "FREE",
+        "title": "허니문 상담신청",
+        "TopBanner": {
+          "Item": [
+            {
+              "Description": "허니문 기획전",
+              "URL": "https://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=12056",
+              "Image": "/promotion20/etc/1070_221219.jpg",
+              "NewOpen": "Y",
+              "Sort": "4"
+            },
+            {
+              "Description": "SNS 여행인증이벤트",
+              "URL": "https://www.instagram.com/modetournetwork/",
+              "Image": "/promotion20/etc/1070_event.jpg",
+              "NewOpen": "N",
+              "Sort": "8"
+            }
+          ]
+        },
+        "FixedBanner": {
+          "Item": {
+            "Description": "허니문 기획전",
+            "URL": "https://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=12056",
+            "Image": "/promotion20/etc/1070_221219.jpg",
+            "NewOpen": "Y",
+            "Sort": "1"
+          }
+        }
+      },
+      {
+        "Type": "THEMA",
+        "title": "오늘 놓치면 안될 타임딜",
+        "TopBanner": {
+          "Item": [
+            {
+              "Description": "타임딜",
+              "URL": "/promotion/mtimedeal.aspx",
+              "Image": "/promotion20/etc/1070_timedeal.jpg",
+              "NewOpen": "N",
+              "Sort": "4"
+            },
+            {
+              "Description": "라이브m",
+              "URL": "/live/default.aspx",
+              "Image": "/promotion20/etc/live_banner_221125.jpg",
+              "NewOpen": "N",
+              "Sort": "8"
+            }
+          ]
+        },
+        "FixedBanner": {
+          "Item": [
+            {
+              "Description": "우리동네에서 떠나요! 지방출발",
+              "URL": "https://www.modetour.com/pkg/?MLoc=01&startLocation=ETC&Id=THE68",
+              "Image": "/modetour/2022/sideQuick/side_banner.png",
+              "NewOpen": "N",
+              "Sort": "1"
+            },
+            {
+              "Description": "pc메인_좌측날개배너_지방출발_배너 1개 노출 ",
+              "URL": "/pkg/?MLoc=01&startLocation=ETC&id=THE68",
+              "Image": "/modetour/2022/sideQuick/side_banner.png",
+              "NewOpen": "N",
+              "Sort": "1"
+            }
+          ]
+        }
+      },
+      {
+        "Type": "KOREA",
+        "title": "",
+        "TopBanner": {
+          "Item": [
+            {
+              "Description": "프리미엄 국내여행",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=11336",
+              "Image": "/banner/main/m1100_11336.jpg",
+              "NewOpen": "N",
+              "Sort": "4"
+            },
+            {
+              "Description": "마라도vs우도",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=11317",
+              "Image": "/banner/main/m1100_11317.jpg",
+              "NewOpen": "N",
+              "Sort": "8"
+            },
+            {
+              "Description": "우리나라 대표섬 완전정복",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=8448",
+              "Image": "/banner/main/m1100_8448.jpg",
+              "NewOpen": "N",
+              "Sort": "10"
+            }
+          ]
+        },
+        "FixedBanner": {
+          "Item": [
+            {
+              "Description": "마라도vs우도",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=11317",
+              "Image": "/banner/main/m260_11317.jpg",
+              "NewOpen": "N",
+              "Sort": "1"
+            },
+            {
+              "Description": "제주골프",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=11219",
+              "Image": "/banner/main/m260_11219.jpg",
+              "NewOpen": "N",
+              "Sort": "2"
+            },
+            {
+              "Description": "우리나라 대표섬 완전정복",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=8448",
+              "Image": "/banner/main/m260_8448.jpg",
+              "NewOpen": "N",
+              "Sort": "3"
+            },
+            {
+              "Description": "엄선된 내륙여행",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=11295",
+              "Image": "/banner/main/m260_11295.jpg",
+              "NewOpen": "N",
+              "Sort": "4"
+            }
+          ]
+        }
+      },
+      {
+        "Type": "BUSAN",
+        "title": "",
+        "TopBanner": {
+          "Item": {
+            "Description": "부산출발 괌/사이판",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=11269",
+            "Image": "/banner/main/m1100_11269.jpg",
+            "NewOpen": "N",
+            "Sort": "4"
+          }
+        },
+        "FixedBanner": {
+          "Item": [
+            {
+              "Description": "부산출발 북유럽 직항",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=11187",
+              "Image": "/banner/main/m260_11187.jpg",
+              "NewOpen": "N",
+              "Sort": "1"
+            },
+            {
+              "Description": "부산출발 큐슈",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=7183",
+              "Image": "/banner/main/m260_7183.jpg",
+              "NewOpen": "N",
+              "Sort": "2"
+            },
+            {
+              "Description": "대구출발 세부",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=11051",
+              "Image": "/banner/main/m260_11051.jpg",
+              "NewOpen": "N",
+              "Sort": "3"
+            },
+            {
+              "Description": "청주출발 방콕",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=9309",
+              "Image": "/banner/main/m260_9309.jpg",
+              "NewOpen": "N",
+              "Sort": "4"
+            }
+          ]
+        }
+      },
+      {
+        "Type": "MENU",
+        "title": "지금 MODE에서는",
+        "TopBanner": {
+          "Item": [
+            {
+              "Description": "모두 시그니처<p style=\"font-size:12px\">패키지여행 대표브랜드</p><br><p style=\"font-size:12px\">상품보기></p>",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=10670",
+              "Image": "/modetour/2021/main/thum/01_230317.jpg",
+              "NewOpen": "N",
+              "Sort": "2"
+            },
+            {
+              "Description": "알펜루트 일본<p style=\"font-size:12px\">파노라마 설경 </p><br><p style=\"font-size:12px\"> 시즌한정 상품보기></p>",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=10702",
+              "Image": "/modetour/2021/main/thum/04_230208.jpg",
+              "NewOpen": "N",
+              "Sort": "4"
+            },
+            {
+              "Description": "무안출발 다낭<p style=\"font-size:12px\">4/28出 전세기</p><br><p style=\"font-size:12px\"> 상품보기></p>",
+              "URL": "/event/plan/detail.aspx?mloc=07&eidx=12204",
+              "Image": "/modetour/2021/main/thum/02_230309.jpg",
+              "NewOpen": "N",
+              "Sort": "6"
+            },
+            {
+              "Description": "호텔 5%쿠폰<p style=\"font-size:12px\">모두투어 고객누구나! </p><br><p style=\"font-size:12px\"> 바로가기></p>",
+              "URL": "/event/event_19/10036/mode.aspx",
+              "Image": "/modetour/2021/main/thum/05_220929.jpg",
+              "NewOpen": "N",
+              "Sort": "8"
+            },
+            {
+              "Description": "클락골프 초특가<p style=\"font-size:12px\">349,000원~ </p><br><p style=\"font-size:12px\"> 상품보기></p>",
+              "URL": "/pkg/Item.aspx?MLoc=01&idx=538874",
+              "Image": "/modetour/2021/main/thum/02_220829.jpg",
+              "NewOpen": "N",
+              "Sort": "10"
+            }
+          ]
+        },
+        "FixedBanner": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+    "Items": [
+      {
+        "Id": 1,
+        "Type": "new",
+        "Title": "Kota Kinabalu​",
+        "Content": " ※ 여행자보험 담당 : [한화손해보험] (보험관련문의만가능)\n\r    Tel)02-728-8008  Fax)02-936-1771  \n\r   단 만15세 미만의 사망보험금 및 만79세 6개월이상의 질병사망에 대해서는 보험 약관에 따라 보험금이 지급되지 않습니다.\n\r   자세한 세부사항은 홈페이지 하단 여행보험을 참조 바랍니다.",
+        "RepresentativeImage": "http://img.modetour.com/promotion/9867/760_9867.jpg",
+        "Path": "/event/plan/detail.aspx?mloc=07&eidx=9867",
+        "Description": "보스톤 보스톤 보스톤 보스톤",
+        "ProductName": "[가성비최고/방콕파타야6일] 가성비죄고+요트크루즈+마사지+아트인파라다이스+악어농장",
+        "GroupNumber": 65657923,
+        "ProductCode": "대한항공",
+        "DepartureDate": "2023-04-10",
+        "ProductType": "Hotel",
+        "NumberOfDays": 5,
+        "PeopleAvailable": 4,
+        "Sort": "0"
+      },
+      {
+        "Id": 2,
+        "Type": "new",
+        "Title": "해외항공",
+        "Content": "<p>대한항공 대한항공 대한항공</p>",
+        "RepresentativeImage": "http://img.modetour.com/promotion/9867/760_9867.jpg",
+        "Path": "/event/plan/detail.aspx?mloc=07&eidx=9867",
+        "Description": "보스톤",
+        "ProductName": "Saint-Petersburg​",
+        "GroupNumber": 65657923,
+        "ProductCode": "대한항공",
+        "DepartureDate": "2023-04-10",
+        "ProductType": "Air",
+        "NumberOfDays": 1,
+        "PeopleAvailable": 4,
+        "Sort": "1"
+      },
+      {
+        "Id": 3,
+        "Type": "new",
+        "Title": "해외항공",
+        "Content": "<p>대한항공 대한항공 대한항공</p>",
+        "RepresentativeImage": "http://img.modetour.com/promotion/9867/760_9867.jpg",
+        "Path": "/event/plan/detail.aspx?mloc=07&eidx=9867",
+        "Description": "보스톤",
+        "ProductName": "Saint-Petersburg​",
+        "GroupNumber": 65657923,
+        "ProductCode": "대한항공 대한항공 대한항공",
+        "DepartureDate": "2023-04-10",
+        "ProductType": "DosmeticTravel",
+        "NumberOfDays": 6,
+        "PeopleAvailable": 4,
+        "Sort": "2"
+      }
+    ]
+}

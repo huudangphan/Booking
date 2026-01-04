@@ -1,0 +1,1536 @@
+{
+  "relation": {
+    "item": [
+      {
+        "LocID": "LOC261",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC262",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC266",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC289",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC290",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC291",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC358",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC378",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC379",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC396",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC398",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC410",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC436",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC485",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC513",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC520",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC530",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC531",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC533",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC548",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC549",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC582",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC670",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC671",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1164",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1749",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1869",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1875",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1889",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1890",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1891",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1919",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1920",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1921",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1923",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1924",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1927",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1928",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1943",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1957",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2024",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2048",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2072",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2095",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2136",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2144",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2145",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2188",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2202",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2203",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2255",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2256",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2257",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2261",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2262",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2263",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2264",
+        "ThID": "",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "",
+        "ThID": "THE130",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC261",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC261",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC261",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC262",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC262",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC262",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC266",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC289",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC290",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC291",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC358",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC374",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC378",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC378",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC379",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC396",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC398",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC410",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC410",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC410",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC436",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC484",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC485",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC513",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC513",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC513",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC520",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC520",
+        "ThID": "THE130",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC520",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC520",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC530",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC530",
+        "ThID": "THE130",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC530",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC530",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC531",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC533",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC548",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC548",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC549",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC582",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC582",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC582",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC670",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC670",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC671",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC671",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1164",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1164",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1749",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1869",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1875",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1889",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1889",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1889",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1890",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1890",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1890",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1891",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1891",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1891",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1919",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1919",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1919",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1920",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1920",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1921",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1921",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1921",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1923",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1923",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1923",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1924",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1924",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1924",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1927",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1928",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1928",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1943",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1943",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1943",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1957",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC1957",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2024",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2024",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2024",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2048",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2048",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2048",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2072",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2072",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2072",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2095",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2095",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2095",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2136",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2136",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2144",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2145",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2145",
+        "ThID": "THE131",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2188",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2202",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2203",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2255",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2256",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2257",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2261",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2262",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2263",
+        "ThID": "THE68",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      },
+      {
+        "LocID": "LOC2264",
+        "ThID": "THE132",
+        "KwID": "",
+        "MinDay": "",
+        "MaxDay": "",
+        "MinCost": "",
+        "MaxCost": ""
+      }
+    ]
+  }
+}

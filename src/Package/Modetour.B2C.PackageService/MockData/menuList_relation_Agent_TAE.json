@@ -1,0 +1,114 @@
+{
+  "Relation": {
+    "item": [
+      {
+        "LocID": "LOC268",
+        "TheID": "THE117"
+      },
+      {
+        "LocID": "LOC269",
+        "TheID": "THE117"
+      },
+      {
+        "LocID": "LOC269",
+        "TheID": "THE124"
+      },
+      {
+        "LocID": "LOC269",
+        "TheID": "THE322"
+      },
+      {
+        "LocID": "LOC313",
+        "TheID": "THE117"
+      },
+      {
+        "LocID": "LOC318",
+        "TheID": "THE117"
+      },
+      {
+        "LocID": "LOC322",
+        "TheID": "THE117"
+      },
+      {
+        "LocID": "LOC322",
+        "TheID": "THE124"
+      },
+      {
+        "LocID": "LOC322",
+        "TheID": "THE322"
+      },
+      {
+        "LocID": "LOC1103",
+        "TheID": "THE117"
+      },
+      {
+        "LocID": "LOC1103",
+        "TheID": "THE124"
+      },
+      {
+        "LocID": "LOC1193",
+        "TheID": "THE117"
+      },
+      {
+        "LocID": "LOC1193",
+        "TheID": "THE124"
+      },
+      {
+        "LocID": "LOC1193",
+        "TheID": "THE322"
+      },
+      {
+        "LocID": "LOC1205",
+        "TheID": "THE117"
+      },
+      {
+        "LocID": "LOC1205",
+        "TheID": "THE124"
+      },
+      {
+        "LocID": "LOC1295",
+        "TheID": "THE117"
+      },
+      {
+        "LocID": "LOC1295",
+        "TheID": "THE124"
+      },
+      {
+        "LocID": "LOC1296",
+        "TheID": "THE117"
+      },
+      {
+        "LocID": "LOC1296",
+        "TheID": "THE124"
+      },
+      {
+        "LocID": "LOC1892",
+        "TheID": "THE117"
+      },
+      {
+        "LocID": "LOC1892",
+        "TheID": "THE124"
+      },
+      {
+        "LocID": "LOC1892",
+        "TheID": "THE322"
+      },
+      {
+        "LocID": "LOC1893",
+        "TheID": "THE117"
+      },
+      {
+        "LocID": "LOC1893",
+        "TheID": "THE124"
+      },
+      {
+        "LocID": "LOC1893",
+        "TheID": "THE322"
+      },
+      {
+        "LocID": "LOC2201",
+        "TheID": "THE117"
+      }
+    ]
+  }
+}

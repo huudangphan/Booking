@@ -1,0 +1,148 @@
+﻿namespace ModetourB2C.Dac.Model.MODEWEB3;
+
+/// <summary>
+/// WSP_S_CMN_할인쿠폰_리스트_PYS
+/// </summary>
+public class WSP_S_CMN_DiscountCoupon_List_PYS
+{
+	public const string SP_NAME = "WSP_S_CMN_할인쿠폰_리스트_PYS";
+
+	public class Result : IDbResult
+	{
+		/// <summary>
+		/// 일련번호
+		/// </summary>
+		[Column("일련번호")]
+		public int SerialNumber { get; set; }
+		/// <summary>
+		/// 구역번호
+		/// </summary>
+		[Column("구역번호")]
+		public int AreaNumber { get; set; }
+		/// <summary>
+		/// 제목
+		/// </summary>
+		[Column("제목")]
+		public string Title { get; set; }
+		/// <summary>
+		/// 설명
+		/// </summary>
+		[Column("설명")]
+		public string Explaination { get; set; }
+		/// <summary>
+		/// 대표이미지
+		/// </summary>
+		[Column("대표이미지")]
+		public string RepresentativeImage { get; set; }
+		/// <summary>
+		/// 대표이미지2
+		/// </summary>
+		[Column("대표이미지2")]
+		public string RepresentativeImage2 { get; set; }
+		/// <summary>
+		/// 이벤트경로
+		/// </summary>
+		[Column("이벤트경로")]
+		public string EventRoute { get; set; }
+		/// <summary>
+		/// 상태1
+		/// </summary>
+		[Column("상태1")]
+		public string State1 { get; set; }
+		/// <summary>
+		/// 상태2
+		/// </summary>
+		[Column("상태2")]
+		public string State2 { get; set; }
+		/// <summary>
+		/// 상태3
+		/// </summary>
+		[Column("상태3")]
+		public string State3 { get; set; }
+		/// <summary>
+		/// 조회수
+		/// </summary>
+		[Column("조회수")]
+		public int SearchNumber { get; set; }
+		/// <summary>
+		/// 추천수
+		/// </summary>
+		[Column("추천수")]
+		public int RecommendNumber { get; set; }
+		/// <summary>
+		/// 정렬
+		/// </summary>
+		[Column("정렬")]
+		public int Sorting { get; set; }
+		/// <summary>
+		/// 사용여부
+		/// </summary>
+		[Column("사용여부")]
+		public string UseOrNot { get; set; }
+		/// <summary>
+		/// 등록일
+		/// </summary>
+		[Column("등록일")]
+		public DateTime RegisterDate { get; set; }
+		/// <summary>
+		/// 시작일
+		/// </summary>
+		[Column("시작일")]
+		public DateTime StartDate { get; set; }
+		/// <summary>
+		/// 종료일
+		/// </summary>
+		[Column("종료일")]
+		public DateTime EndDate { get; set; }
+		/// <summary>
+		/// 당첨등록시작일
+		/// </summary>
+		[Column("당첨등록시작일")]
+		public DateTime WinnerRegisterStartDate { get; set; }
+		/// <summary>
+		/// 당첨등록종료일
+		/// </summary>
+		[Column("당첨등록종료일")]
+		public DateTime WinnerRegisterEndDate { get; set; }
+		/// <summary>
+		/// 담당부서
+		/// </summary>
+		[Column("담당부서")]
+		public int ResponsibilityDepartment { get; set; }
+		/// <summary>
+		/// 유투브영상경로
+		/// </summary>
+		[Column("유투브영상경로")]
+		public string YoutubeVideoRoute { get; set; }
+		/// <summary>
+		/// 공지
+		/// </summary>
+		[Column("공지")]
+		public string Notification { get; set; }
+		/// <summary>
+		/// 이미지쿠폰사용여부
+		/// </summary>
+		[Column("이미지쿠폰사용여부")]
+		public string ImageCouponUseOrNot { get; set; }
+		/// <summary>
+		/// 모바일노출여부
+		/// </summary>
+		[Column("모바일노출여부")]
+		public string MobileDisplayOrNot { get; set; }
+		/// <summary>
+		/// 모바일쿠폰이미지경로
+		/// </summary>
+		[Column("모바일쿠폰이미지경로")]
+		public string MobileCouponImageRoute { get; set; }
+		/// <summary>
+		/// 세부구분번호
+		/// </summary>
+		[Column("세부구분번호")]
+		public int DetailClassificationNumber { get; set; }
+		/// <summary>
+		/// 세부구분명
+		/// </summary>
+		[Column("세부구분명")]
+		public string DetailClassificationName { get; set; }
+	}
+}

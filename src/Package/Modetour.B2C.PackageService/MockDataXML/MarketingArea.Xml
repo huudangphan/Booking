@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <MarketingBanner>
+    <Item>
+      <Description>이벤트/결제혜택</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12183</URL>
+      <Image>/modetour/2021/main/m520_12183.png</Image>
+      <NewOpen>N</NewOpen>
+    </Item>
+    <Item>
+      <Description>신한은행 환전 이벤트</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12182</URL>
+      <Image>/promotion20/12182/m520_12182.png</Image>
+      <NewOpen>N</NewOpen>
+    </Item>
+    <Item>
+      <Description>KB국민카드</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12184</URL>
+      <Image>/modetour/2021/main/m520_12184.png</Image>
+      <NewOpen>N</NewOpen>
+    </Item>
+    <Item>
+      <Description>웰컴쿠폰</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12004</URL>
+      <Image>/modetour/2021/main/m520_12004.png</Image>
+      <NewOpen>N</NewOpen>
+    </Item>
+    <Item>
+      <Description>카드 무이자</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11643</URL>
+      <Image>/modetour/2021/main/img10.png</Image>
+      <NewOpen>N</NewOpen>
+    </Item>
+  </MarketingBanner>
+  <SpecialExhibitionBanner>
+    <Item Type="LEFT">
+      <Description>PC_신한카드</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12183</URL>
+      <Image>/promotion20/12183/pc_banner_12183.png</Image>
+      <NewOpen>N</NewOpen>
+    </Item>
+    <Item Type="RIGHT">
+      <Description>모바일_신한은행</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12182</URL>
+      <Image>/promotion20/12182/m_banner_12182.png</Image>
+      <NewOpen>N</NewOpen>
+    </Item>
+  </SpecialExhibitionBanner>
+</Root>

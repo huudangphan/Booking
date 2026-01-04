@@ -1,0 +1,45 @@
+version: '3.4'
+
+services:   
+ 
+  consul:
+        image: consul:1.14
+        command: consul agent -dev -log-level=warn -ui -client=0.0.0.0
+        hostname: consul
+        container_name: consul
+        networks:
+            - common_network
+
+
+  package.openapi:
+        container_name: package.openapi
+        image: package.openapi:latest
+        restart: on-failure
+        hostname: package.openapi
+        build:
+            context: .
+            dockerfile: Package/Modetour.B2C.PackageService/Dockerfile
+        networks:
+            - common_network    
+ 
+  services.gateway:
+        container_name: services.gateway
+        image: services.gateway:latest
+        restart: on-failure
+        hostname: services.gateway
+        extra_hosts:
+            cm-identity-79.modetour.biz: "172.22.28.79"
+            cm-member-79.modetour.biz: "172.22.28.79"
+            cm-payment-79.modetour.biz: "172.22.28.79"
+            cm-payment-78.modetour.biz: "172.22.28.78"
+        build:
+          context: .
+          dockerfile: Modetour.B2C.ApiGateway/Dockerfile
+        networks:
+          - common_network        
+        
+
+networks:
+    common_network:
+        driver: bridge
+  

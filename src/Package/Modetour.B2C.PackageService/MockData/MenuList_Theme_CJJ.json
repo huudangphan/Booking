@@ -1,0 +1,28 @@
+{
+  "ModeTour": {
+    "StartArea": {
+      "value": "CJJ",
+      "Gubun": "T"
+    },
+    "item": [
+      {
+        "label": "패키지",
+        "id": "THE118",
+        "SubMain": "0",
+        "Hidden": "N",
+        "Depth": "1",
+        "Path": "",
+        "Gubun": "T"
+      },
+      {
+        "label": "자유여행",
+        "id": "THE310",
+        "SubMain": "0",
+        "Hidden": "N",
+        "Depth": "1",
+        "Path": "",
+        "Gubun": "T"
+      }
+    ]
+  }
+}

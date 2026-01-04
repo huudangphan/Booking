@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <Banner Type="PKG" title="이벤트/혜택 모아보기">
+    <TopBanner>
+      <Item>
+        <Description>모두챌린지</Description>
+        <URL>https://m.instagram.com/reel/Cp4I_FaP9yY/?igshid=YmMyMTA2M2Y=</URL>
+        <Image>/ModeMobile/2019/main/img/mn_mkt_230321.png</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>1</Sort>
+      </Item>
+      <Item>
+        <Description>모바일_신한카드</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12183</URL>
+        <Image>/ModeMobile/2019/main/img/mn_mkt_12183.png</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>2</Sort>
+      </Item>
+      <Item>
+        <Description>모바일_KB국민카드</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12184</URL>
+        <Image>/ModeMobile/2019/main/img/mn_mkt_12184.png</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>3</Sort>
+      </Item>
+      <Item>
+        <Description>모바일_간편결제</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=10001</URL>
+        <Image>/ModeMobile/2019/main/img/mn_mkt_sample01@2x.png</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>4</Sort>
+      </Item>
+      <Item>
+        <Description>모바일_마일리지샵</Description>
+        <URL>/mileageshop/mobile/productlist.aspx</URL>
+        <Image>/ModeMobile/2019/main/img/mn_mkt_sample03@2x.png</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>5</Sort>
+      </Item>
+      <Item>
+        <Description>모바일_카드혜택</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11643</URL>
+        <Image>/ModeMobile/2019/main/img/mn_mkt_sample04@2x.png</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>6</Sort>
+      </Item>
+      <Item>
+        <Description>모바일_아시아나</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=10018</URL>
+        <Image>/ModeMobile/2019/main/img/mn_mkt_sample02@2x.png</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>7</Sort>
+      </Item>
+    </TopBanner>
+    <FixedBanner>
+      <Item>
+        <Description>꿈을 예약하세요!</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11493</URL>
+        <Image>/banner/main/m260_11493.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>1</Sort>
+      </Item>
+      <Item>
+        <Description>클릭만해도 최대30만원할인!</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11498</URL>
+        <Image>/banner/main/m260_11498.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>2</Sort>
+      </Item>
+      <Item>
+        <Description>안심가이드동행으로 더욱 안전하게</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11492</URL>
+        <Image>/banner/main/m260_11492.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>3</Sort>
+      </Item>
+    </FixedBanner>
+  </Banner>
+  <Banner Type="FREE" title="허니문 상담신청">
+    <TopBanner>
+      <Item>
+        <Description>허니문 기획전</Description>
+        <URL>https://www.modetour.com/event/plan/detail.aspx?mloc=07&amp;eidx=12056</URL>
+        <Image>/promotion20/etc/1070_221219.jpg</Image>
+        <NewOpen>Y</NewOpen>
+        <Sort>4</Sort>
+      </Item>
+      <Item>
+        <Description>SNS 여행인증이벤트</Description>
+        <URL>https://www.instagram.com/modetournetwork/</URL>
+        <Image>/promotion20/etc/1070_event.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>8</Sort>
+      </Item>
+    </TopBanner>
+    <FixedBanner>
+      <Item>
+        <Description>허니문 기획전</Description>
+        <URL>https://www.modetour.com/event/plan/detail.aspx?mloc=07&amp;eidx=12056</URL>
+        <Image>/promotion20/etc/1070_221219.jpg</Image>
+        <NewOpen>Y</NewOpen>
+        <Sort>1</Sort>
+      </Item>
+    </FixedBanner>
+  </Banner>
+  <Banner Type="THEMA" title="오늘 놓치면 안될 #타임딜">
+    <TopBanner>
+      <Item>
+        <Description>타임딜</Description>
+        <URL>/promotion/mtimedeal.aspx</URL>
+        <Image>/promotion20/etc/1070_timedeal.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>4</Sort>
+      </Item>
+      <Item>
+        <Description>라이브m</Description>
+        <URL>/live/default.aspx</URL>
+        <Image>/promotion20/etc/live_banner_221125.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>8</Sort>
+      </Item>
+    </TopBanner>
+    <FixedBanner>
+      <Item>
+        <Description>우리동네에서 떠나요! 지방출발</Description>
+        <URL>https://www.modetour.com/pkg/?MLoc=01&amp;startLocation=ETC&amp;Id=THE68</URL>
+        <Image>/modetour/2022/sideQuick/side_banner.png</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>1</Sort>
+      </Item>
+      <Item>
+        <Description>pc메인_좌측날개배너_지방출발_배너 1개 노출 </Description>
+        <URL>/pkg/?MLoc=01&amp;startLocation=ETC&amp;id=THE68</URL>
+        <Image>/modetour/2022/sideQuick/side_banner.png</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>1</Sort>
+      </Item>
+    </FixedBanner>
+  </Banner>
+  <Banner Type="KOREA" title="">
+    <TopBanner>
+      <Item>
+        <Description>프리미엄 국내여행</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11336</URL>
+        <Image>/banner/main/m1100_11336.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>4</Sort>
+      </Item>
+      <Item>
+        <Description>마라도vs우도</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11317</URL>
+        <Image>/banner/main/m1100_11317.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>8</Sort>
+      </Item>
+      <Item>
+        <Description>우리나라 대표섬 완전정복</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=8448</URL>
+        <Image>/banner/main/m1100_8448.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>10</Sort>
+      </Item>
+    </TopBanner>
+    <FixedBanner>
+      <Item>
+        <Description>마라도vs우도</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11317</URL>
+        <Image>/banner/main/m260_11317.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>1</Sort>
+      </Item>
+      <Item>
+        <Description>제주골프</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11219</URL>
+        <Image>/banner/main/m260_11219.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>2</Sort>
+      </Item>
+      <Item>
+        <Description>우리나라 대표섬 완전정복</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=8448</URL>
+        <Image>/banner/main/m260_8448.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>3</Sort>
+      </Item>
+      <Item>
+        <Description>엄선된 내륙여행</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11295</URL>
+        <Image>/banner/main/m260_11295.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>4</Sort>
+      </Item>
+    </FixedBanner>
+  </Banner>
+  <Banner Type="BUSAN" title="">
+    <TopBanner>
+      <Item>
+        <Description>부산출발 괌/사이판</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11269</URL>
+        <Image>/banner/main/m1100_11269.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>4</Sort>
+      </Item>
+    </TopBanner>
+    <FixedBanner>
+      <Item>
+        <Description>부산출발 북유럽 직항</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11187</URL>
+        <Image>/banner/main/m260_11187.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>1</Sort>
+      </Item>
+      <Item>
+        <Description>부산출발 큐슈</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=7183</URL>
+        <Image>/banner/main/m260_7183.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>2</Sort>
+      </Item>
+      <Item>
+        <Description>대구출발 세부</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11051</URL>
+        <Image>/banner/main/m260_11051.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>3</Sort>
+      </Item>
+      <Item>
+        <Description>청주출발 방콕</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=9309</URL>
+        <Image>/banner/main/m260_9309.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>4</Sort>
+      </Item>
+    </FixedBanner>
+  </Banner>
+  <Banner Type="MENU" title="지금 MODE에서는">
+    <TopBanner>
+      <Item>
+        <Description>모두 시그니처&lt;p style="font-size:12px"&gt;패키지여행 대표브랜드&lt;/p&gt;&lt;br&gt;&lt;p style="font-size:12px"&gt;상품보기&gt;&lt;/p&gt;</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=10670</URL>
+        <Image>/modetour/2021/main/thum/01_230317.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>2</Sort>
+      </Item>
+      <Item>
+        <Description>알펜루트 일본&lt;p style="font-size:12px"&gt;파노라마 설경 &lt;/p&gt;&lt;br&gt;&lt;p style="font-size:12px"&gt; 시즌한정 상품보기&gt;&lt;/p&gt;</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=10702</URL>
+        <Image>/modetour/2021/main/thum/04_230208.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>4</Sort>
+      </Item>
+      <Item>
+        <Description>무안출발 다낭&lt;p style="font-size:12px"&gt;4/28出 전세기&lt;/p&gt;&lt;br&gt;&lt;p style="font-size:12px"&gt; 상품보기&gt;&lt;/p&gt;</Description>
+        <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12204</URL>
+        <Image>/modetour/2021/main/thum/02_230309.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>6</Sort>
+      </Item>
+      <Item>
+        <Description>호텔 5%쿠폰&lt;p style="font-size:12px"&gt;모두투어 고객누구나! &lt;/p&gt;&lt;br&gt;&lt;p style="font-size:12px"&gt; 바로가기&gt;&lt;/p&gt;</Description>
+        <URL>/event/event_19/10036/mode.aspx</URL>
+        <Image>/modetour/2021/main/thum/05_220929.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>8</Sort>
+      </Item>
+      <Item>
+        <Description>클락골프 초특가&lt;p style="font-size:12px"&gt;349,000원~ &lt;/p&gt;&lt;br&gt;&lt;p style="font-size:12px"&gt; 상품보기&gt;&lt;/p&gt;</Description>
+        <URL>/pkg/Item.aspx?MLoc=01&amp;idx=538874</URL>
+        <Image>/modetour/2021/main/thum/02_220829.jpg</Image>
+        <NewOpen>N</NewOpen>
+        <Sort>10</Sort>
+      </Item>
+    </TopBanner>
+    <FixedBanner />
+  </Banner>
+</Root>

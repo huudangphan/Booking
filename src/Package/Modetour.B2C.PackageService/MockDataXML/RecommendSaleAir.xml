@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Modetour> 
+  <!--<Item Gubun ="해외항공" Sort ="1">
+    <ROT>RT</ROT>
+    <DLC>SEL</DLC>
+    <ALC>KUL</ALC>
+    <DLCNM>인천/김포</DLCNM>
+    <ALCNM>쿠알라룸프르</ALCNM>
+    <COUNTRY>MY</COUNTRY>
+    <DTD>2018.02.01</DTD>
+    <DTDTime>2018.05.31</DTDTime>
+    <ARD>2018.02.14</ARD>
+    <ARDTime></ARDTime>
+    <Price>420500</Price>
+    <SAC>MH</SAC>
+    <SACNM>말레이시아항공</SACNM>
+  </Item>-->
+  <Item Gubun ="해외항공" Sort ="1">
+    <ROT>RT</ROT>
+    <DLC>SEL</DLC>
+    <ALC>TPE</ALC>
+    <DLCNM>인천</DLCNM>
+    <ALCNM>대만</ALCNM>
+    <COUNTRY>TW</COUNTRY>
+    <DTD>2023.01.24</DTD>
+    <DTDTime>2023.12.31</DTDTime>
+    <ARD>2023.01.27</ARD>
+    <ARDTime>2023.09.07</ARDTime>
+    <Price>428800</Price>
+    <SAC>CI</SAC>
+    <SACNM>중화항공</SACNM>
+	  <BackColor>#8c1932</BackColor>
+  </Item>
+  <Item Gubun ="해외항공" Sort ="2">
+    <ROT>RT</ROT>
+    <DLC>SEL</DLC>
+    <ALC>HAN</ALC>
+    <DLCNM>인천</DLCNM>
+    <ALCNM>하노이</ALCNM>
+    <COUNTRY>VN</COUNTRY>
+    <DTD>2023.01.24</DTD>
+    <DTDTime>2023.10.28</DTDTime>
+    <ARD>2023.01.27</ARD>
+    <ARDTime>2023.02.16</ARDTime>
+    <Price>358600</Price>
+    <SAC>QH</SAC>
+    <SACNM>뱀부항공</SACNM>
+	  <BackColor>#13444a</BackColor>
+  </Item>
+  <Item Gubun ="해외항공" Sort ="3">
+    <ROT>RT</ROT>
+    <DLC>SEL</DLC>
+    <ALC>SIN</ALC>
+    <DLCNM>인천</DLCNM>
+    <ALCNM>싱가포르</ALCNM>
+    <COUNTRY>SG</COUNTRY>
+    <DTD>2023.01.24</DTD>
+    <DTDTime>2023.10.28</DTDTime>
+    <ARD>2022.01.27</ARD>
+    <ARDTime>2023.10.28</ARDTime>
+    <Price>412800</Price>
+    <SAC>TW</SAC>
+    <SACNM>진에어</SACNM>
+	  <BackColor>#331600</BackColor>
+  </Item>
+  <!--<Item Gubun ="해외항공" Sort ="4">
+    <ROT>RT</ROT>
+    <DLC>SEL</DLC>
+    <ALC>SYD</ALC>
+    <DLCNM>인천/김포</DLCNM>
+    <ALCNM>시드니</ALCNM>
+    <COUNTRY>AU</COUNTRY>
+    <DTD>2018.06.22</DTD>
+    <DTDTime>2018.10.31</DTDTime>
+    <ARD>2018.10.31</ARD>
+    <ARDTime></ARDTime>
+    <Price>802200</Price>
+    <SAC>CX</SAC>
+    <SACNM>케세이패시픽</SACNM>
+  </Item>
+  <Item Gubun ="해외항공" Sort ="4">
+    <ROT>RT</ROT>
+    <DLC>SEL</DLC>
+    <ALC>MFM</ALC>
+    <DLCNM>인천/김포</DLCNM>
+    <ALCNM>마카오</ALCNM>
+    <COUNTRY>PH</COUNTRY>
+    <DTD>2017.12.09</DTD>
+    <DTDTime>2018.03.31</DTDTime>
+    <ARD>2018.03.31</ARD>
+    <ARDTime></ARDTime>
+    <Price>127300</Price>
+    <SAC>TW</SAC>
+    <SACNM>티웨이항공</SACNM>
+  </Item>
+  <Item Gubun ="해외항공" Sort ="5">
+    <ROT>RT</ROT>
+    <DLC>SEL</DLC>
+    <ALC>HNL</ALC>
+    <DLCNM>인천/김포</DLCNM>
+    <ALCNM>호놀룰루</ALCNM>
+    <COUNTRY>US</COUNTRY>
+    <DTD>2017.12.30</DTD>
+    <DTDTime>2018.02.28</DTDTime>
+    <ARD>2018.02.28</ARD>
+    <ARDTime></ARDTime>
+    <Price>503500</Price>
+    <SAC>LJ</SAC>
+    <SACNM>진에어</SACNM>
+  </Item>-->
+</Modetour>

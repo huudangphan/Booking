@@ -1,0 +1,154 @@
+{
+  "Regions": {
+    "Domestic": [
+      {
+        "RegionName": "패키지",
+        "RegionCode": "LOC1084"
+      },
+      {
+        "RegionName": "자유여행",
+        "RegionCode": "LOC1087"
+      },
+      {
+        "RegionName": "서울출발",
+        "RegionCode": "LOC2108"
+      },
+      {
+        "RegionName": "지방출발",
+        "RegionCode": "LOC2109"
+      },
+      {
+        "RegionName": "에어텔",
+        "RegionCode": "LOC2110"
+      },
+      {
+        "RegionName": "에어카텔",
+        "RegionCode": "LOC2111"
+      }
+    ] ,
+    "Overseas": [
+      {
+        "RegionName": "방콕파타야",
+        "RegionCode": "LOC12"
+      },
+      {
+        "RegionName": "푸켓",
+        "RegionCode": "LOC14"
+      },
+      {
+        "RegionName": "나트랑/달랏/판랑/무이네",
+        "RegionCode": "LOC791"
+      },
+      {
+        "RegionName": "푸꾸옥",
+        "RegionCode": "LOC1338"
+      }
+    ]
+},
+  "SearchHistory": {
+    "Domestic": [
+      {
+        "id": 1,
+        "Region": "LOC1084",
+        "StartDate": "2023-03-05 ",
+        "EndDate": "2023-09-13",
+        "Category": "Domestic travel",
+        "timestamp": "2023‑04‑25 17:45:30.005"
+
+      },
+
+      {
+        "id": 2,
+        "Region": "LOC1084",
+        "StartDate": "2023-04-01 ",
+        "EndDate": "2023-04-05",
+        "Category": "Domestic travel",
+        "timestamp": "2023‑04‑25 17:45:30.005"
+      },
+
+      {
+        "id": 3,
+        "Region": "LOC1084",
+        "StartDate": "2023-11-01 ",
+        "EndDate": "2023-11-06",
+        "Category": "Domestic travel",
+        "timestamp": "2023‑04‑25 17:45:30.005"
+      },
+
+      {
+        "id": 4,
+        "Region": "LOC1084",
+        "StartDate": "2023-07-05 ",
+        "EndDate": "2023-08-03",
+        "Category": "Domestic travel",
+        "timestamp": "2023‑04‑25 17:45:30.005"
+      },
+
+      {
+        "id": 5,
+        "Region": "LOC1087",
+        "StartDate": "2023-09-05 ",
+        "EndDate": "2023-10-03",
+        "Category": "Domestic travel",
+        "timestamp": "2023‑04‑25 17:45:30.005"
+      },
+
+      {
+        "id": 6,
+        "Region": "LOC1087",
+        "StartDate": "2023-05-01 ",
+        "EndDate": "2023-05-06",
+        "Category": "Domestic travel",
+        "timestamp": "2023‑04‑25 17:45:30.005"
+      },
+
+      {
+        "id": 7,
+        "Region": "LOC1087",
+        "StartDate": "2023-09-05 ",
+        "EndDate": "2023-09-19",
+        "Category": "Domestic travel",
+        "timestamp": "2023‑04‑25 17:45:30.005"
+      }
+    ],
+    "Overseas": [
+      {
+        "id": 1,
+        "Region": "LOC791",
+        "StartDate": "2023-03-05 ",
+        "EndDate": "2023-09-13",
+        "Category": "Overseas travel",
+        "timestamp": "2023‑04‑25 06:31:30.005"
+
+      },
+
+      {
+        "id": 2,
+        "Region": "LOC12",
+        "StartDate": "2023-04-01 ",
+        "EndDate": "2023-04-05",
+        "Category": "Overseas travel",
+        "timestamp": "2023‑04‑25 12:09:30.005"
+      },
+      {
+        "id": 3,
+        "Region": "LOC1338",
+        "StartDate": "2023-02-01 ",
+        "EndDate": "2023-02-13",
+        "Category": "Overseas travel",
+        "timestamp": "2023‑04‑25 11:35:30.005"
+
+      },
+
+      {
+        "id": 4,
+        "Region": "LOC14",
+        "StartDate": "2023-11-01 ",
+        "EndDate": "2023-11-05",
+        "Category": "Overseas travel",
+        "timestamp": "2023‑04‑25 19:45:30.005"
+      }
+    ]
+
+  }
+}

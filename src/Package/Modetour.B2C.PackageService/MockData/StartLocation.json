@@ -1,0 +1,39 @@
+{
+  "StartLocation": [
+    {
+      "Code": "ICN",
+      "Name": "Seoul(Incheon/Gimpo)",
+      "Label": "서울(인천/김포)"
+    },
+    {
+      "Code": "PUS",
+      "Name": "Busan",
+      "Label": "부산"
+    },
+    {
+      "Code": "TAE",
+      "Name": "Deagu",
+      "Label": "대구"
+    },
+    {
+      "Code": "ETC",
+      "Name": "Gwangju (Muan),",
+      "Label": "광주(무안)"
+    },
+    {
+      "Code": "JEU",
+      "Name": "Jeju",
+      "Label": "제주"
+    },
+    {
+      "Code": "YNY",
+      "Name": "YangYang",
+      "Label": "양양"
+    },
+    {
+      "Code": "CJJ",
+      "Name": "Cheongju",
+      "Label": "청주"
+    }
+  ]
+}

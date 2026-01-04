@@ -1,0 +1,487 @@
+{
+  "ProductMaster": [
+    {
+      "MasterCode": "8493840598",
+      "Descriptions": "■저녁출발■◆NO쇼핑+호텔UP+VIP리무진◆장가계 원가계 3박5일(천문산/황룡동굴/보봉호)",
+      "Price": 10000,
+      "Period": "4 nights / 6 days 5 nights",
+      "AirCode": "AS123",
+      "AirName": "Asian",
+      "Logo": "https://img.modetour.com/air/logo/ke.png",
+      "Image": "https://img.modetour.com/promotion20/12148/1100_12148.jpg",
+      "DepatureFrom": "Busan",
+      "depatureTo": "Phuket",
+      "TravelType": "Group",
+      "Tags": [
+        {
+          "Id": "1",
+          "Content": "#Customer Appeciation Festival"
+        },
+        {
+          "Id": "2",
+          "Content": "#Resort"
+        },
+        {
+          "Id": "3",
+          "Content": "#Discount"
+        }
+      ],
+      "PriceList": [
+        {
+          "date": "2023-04-01",
+          "price": 10500
+        },
+        {
+          "date": "2023-04-02",
+          "price": 9500
+        },
+        {
+          "date": "2023-04-03",
+          "price": 9000
+        },
+        {
+          "date": "2023-04-04",
+          "price": 10000
+        },
+        {
+          "date": "2023-04-05",
+          "price": 11000
+        },
+        {
+          "date": "2023-04-06",
+          "price": 10500
+        },
+        {
+          "date": "2023-04-07",
+          "price": 10000
+        },
+        {
+          "date": "2023-04-08",
+          "price": 9500
+        }
+      ]
+    },
+    {
+      "MasterCode": "8493029378",
+      "Descriptions": "[부산출발 괌 PIC 상품모음]",
+      "Price": 9000,
+      "Period": "4 nights / 6 days 5 nights",
+      "AirCode": "AS123",
+      "AirName": "Asian",
+      "Logo": "https://img.modetour.com/air/logo/ke.png",
+      "Image": "https://img.modetour.com/promotion20/12148/1100_12148.jpg",
+      "DepatureFrom": "Incheon",
+      "depatureTo": "NhaTrang",
+      "TravelType": "Group",
+      "Tags": [
+        {
+          "Id": "1",
+          "Content": "#Customer Appeciation Festival"
+        },
+        {
+          "Id": "2",
+          "Content": "#Resort"
+        },
+        {
+          "Id": "3",
+          "Content": "#Discount"
+        }
+      ],
+      "PriceList": [
+        {
+          "date": "2023-04-01",
+          "price": 10500
+        },
+        {
+          "date": "2023-04-02",
+          "price": 9500
+        },
+        {
+          "date": "2023-04-03",
+          "price": 9000
+        },
+        {
+          "date": "2023-04-04",
+          "price": 10000
+        },
+        {
+          "date": "2023-04-05",
+          "price": 11000
+        },
+        {
+          "date": "2023-04-06",
+          "price": 10500
+        },
+        {
+          "date": "2023-04-07",
+          "price": 10000
+        },
+        {
+          "date": "2023-04-08",
+          "price": 9500
+        }
+      ]
+    }
+  ],
+  "Filter": {
+    "OriginalTravelFeeRange": {
+      "MinPrice": 9000,
+      "MaxPrice": 10500
+    },
+    "TravelFee": {
+      "MinPrice": 9000,
+      "MaxPrice": 10500
+    },
+    "StartingPoint": [
+      "서울/인천",
+      "부산출발",
+      "대구출발",
+      "무안출발",
+      "제주출발",
+      "양양출발",
+      "청주출발"
+    ],
+    "TravelConcept": [
+      {
+        "value": "관광",
+        "count": 2
+      },
+      {
+        "value": "야경투어",
+        "count": 7
+      },
+      {
+        "value": "계곡/해수욕장",
+        "count": 3
+      },
+      {
+        "value": "수상엑티비티",
+        "count": 4
+      },
+      {
+        "value": "스카이워크",
+        "count": 8
+      },
+      {
+        "value": "직장인",
+        "count": 1
+      },
+      {
+        "value": "자전거",
+        "count": 1
+      },
+      {
+        "value": "풀빌라",
+        "count": 1
+      },
+      {
+        "value": "시티투어",
+        "count": 1
+      },
+      {
+        "value": "역사투어",
+        "count": 1
+      },
+      {
+        "value": "요트/크루즈",
+        "count": 1
+      },
+      {
+        "value": "케이블카",
+        "count": 1
+      },
+      {
+        "value": "써핑",
+        "count": 1
+      },
+      {
+        "value": "홀로여행",
+        "count": 1
+      },
+      {
+        "value": "주말여행",
+        "count": 1
+      }
+    ],
+    "Transport": [
+      {
+        "value": "대한항공",
+        "Logo": "https://img.modetour.com/air/logo/ke.png",
+        "count": 8
+      },
+      {
+        "value": "진에어",
+        "Logo": "https://img.modetour.com/air/logo/oz.png",
+        "count": 8
+      },
+      {
+        "value": "제주항공",
+        "Logo": "https://img.modetour.com/air/logo/ke.png",
+        "count": 8
+      },
+      {
+        "value": "섬기차여행",
+        "Logo": "https://img.modetour.com/air/logo/oz.png",
+        "count": 8
+      }
+    ],
+    "Promotion": [
+      {
+        "value": "선착순 할인",
+        "count": 8
+      },
+      {
+        "value": "초기예약 할인",
+        "count": 5
+      },
+      {
+        "value": "동반자 할인",
+        "count": 2
+      },
+      {
+        "value": "에어쿠산 라운지 쿠폰(일본)",
+        "count": 3
+      },
+      {
+        "value": "골프공+골프커버",
+        "count": 4
+      },
+      {
+        "value": "기획전",
+        "count": 7
+      },
+      {
+        "value": "타임딜",
+        "count": 8
+      }
+    ],
+    "TourCondition": {
+      "AirSearClass": [
+        {
+          "value": "Economy",
+          "count": 2
+        },
+        {
+          "value": "First",
+          "count": 1
+        },
+        {
+          "value": "Business",
+          "count": 4
+        }
+      ],
+      "AirPortTax": [
+        {
+          "value": "포함",
+          "count": 5
+        },
+        {
+          "value": "불포함",
+          "count": 3
+        }
+      ],
+      "LocalTraffic": [
+        {
+          "value": "모두포함",
+          "count": 4
+        },
+        {
+          "value": "불포함",
+          "count": 2
+        },
+        {
+          "value": "항공",
+          "count": 6
+        },
+        {
+          "value": "차량",
+          "count": 1
+        }
+      ],
+      "MealFee": [
+        {
+          "value": "전일정 포함",
+          "count": 3
+        },
+        {
+          "value": "일부포함",
+          "count": 2
+        },
+        {
+          "value": "불포함",
+          "count": 7
+        }
+      ],
+      "Dolomites": [
+        {
+          "value": "전일정 포함",
+          "count": 3
+        },
+        {
+          "value": "일부포함",
+          "count": 2
+        },
+        {
+          "value": "불포함",
+          "count": 7
+        }
+      ],
+      "EntranceFee": [
+        {
+          "value": " 포함",
+          "count": 3
+        },
+        {
+          "value": "불포함",
+          "count": 2
+        }
+      ],
+      "NeccessaryLocalExpenses": [
+        {
+          "value": "있음",
+          "count": 2
+        },
+        {
+          "value": "없음",
+          "count": 5
+        }
+      ],
+      "AccompaniedByAChaperone": [
+        {
+          "value": "동반",
+          "count": 4
+        },
+        {
+          "value": "미동반",
+          "count": 3
+        },
+        {
+          "value": "조건부 동반",
+          "count": 2
+        }
+      ],
+      "LocalGuide": [
+        {
+          "value": "전일정 포함",
+          "count": 6
+        },
+        {
+          "value": "일부포함",
+          "count": 9
+        },
+        {
+          "value": "불포함",
+          "count": 6
+        }
+      ],
+      "Shopping": [
+        {
+          "value": "4회",
+          "count": 7
+        },
+        {
+          "value": "2회",
+          "count": 7
+        },
+        {
+          "value": "없음",
+          "count": 7
+        }
+      ],
+      "FreeSchedule": [
+        {
+          "value": "전일정",
+          "count": 7
+        },
+        {
+          "value": "일부(하루이상)",
+          "count": 4
+        },
+        {
+          "value": "일부(하루미만)",
+          "count": 4
+        }
+      ],
+      "OptionalTour": [
+        {
+          "value": "있음",
+          "count": 3
+        },
+        {
+          "value": "없음",
+          "count": 6
+        }
+      ]
+    },
+    "TravelPeriod": [
+      {
+        "value": "3박 4일",
+        "count": 3
+      },
+      {
+        "value": "3박 5일",
+        "count": 4
+      },
+      {
+        "value": "4박 6일",
+        "count": 2
+      }
+    ],
+    "DepatureTime": [
+      {
+        "value": "오전 00~12 시",
+        "count": 2
+      },
+      {
+        "value": "오후 12~24 시",
+        "count": 3
+      }
+    ],
+    "DepatureDay": [
+      {
+        "value": "월",
+        "count": 2
+      },
+      {
+        "value": "수",
+        "count": 3
+      },
+      {
+        "value": "금",
+        "count": 1
+      },
+      {
+        "value": "토",
+        "count": 0
+      }
+    ],
+    "Lodgment": [
+      {
+        "value": "★",
+        "count": 3
+      },
+      {
+        "value": "★★★",
+        "count": 2
+      },
+      {
+        "value": "★★★★",
+        "count": 4
+      }
+    ],
+    "ProductBrand": [
+      {
+        "value": "이코노미",
+        "count": 4
+      },
+      {
+        "value": "시그니처",
+        "count": 4
+      },
+      {
+        "value": "프리미엄",
+        "count": 4
+      }
+    ]
+  }
+}

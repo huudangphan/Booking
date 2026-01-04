@@ -1,0 +1,166 @@
+{
+  "Root": {
+    "SubPage": [
+      {
+        "THEMA_NO": "3",
+        "AREA_NO": "NULL",
+        "Item": [
+          {
+            "NO": "12056",
+            "NAME": "2023_허니문박람회",
+            "Image": "/promotion20/12056/1100_12056.jpg",
+            "Sort": "2",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=12056",
+            "BackColor": "#13427f"
+          }
+        ]
+      },
+      {
+        "THEMA_NO": "4",
+        "AREA_NO": "NULL",
+        "Item": [
+          {
+            "NO": "11753",
+            "NAME": "22_인천출발 코타키나발루",
+            "Image": "/promotion20/11753/1100_11753.jpg",
+            "Sort": "0",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=11753",
+            "BackColor": "#323070"
+          },
+          {
+            "NO": "10448",
+            "NAME": "필리핀  자유여행",
+            "Image": "/promotion/10448/1100_10448.jpg",
+            "Sort": "1",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=10448",
+            "BackColor": "#232a31"
+          },
+          {
+            "NO": "11564",
+            "NAME": "하와이기획전",
+            "Image": "/promotion20/11564/1100_11564.jpg",
+            "Sort": "2",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=11564",
+            "BackColor": "#0a1931"
+          },
+          {
+            "NO": "11570",
+            "NAME": "사이판이즈백",
+            "Image": "/promotion20/11570/1100_11570.jpg",
+            "Sort": "3",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=11570",
+            "BackColor": "#331600"
+          },
+          {
+            "NO": "11717",
+            "NAME": "2022 태국 푸켓",
+            "Image": "/promotion20/11717/1100_11717.jpg",
+            "Sort": "4",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=11717",
+            "BackColor": "#13444a"
+          },
+          {
+            "NO": "10927",
+            "NAME": "사이판 월드리조트 그랜드오픈",
+            "Image": "/promotion/10927/1100_10927.jpg",
+            "Sort": "5",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=10927",
+            "BackColor": "#8c1932"
+          },
+          {
+            "NO": "11935",
+            "NAME": "22_일본MZ에어텔기획전",
+            "Image": "/promotion20/11935/1100_11935.jpg",
+            "Sort": "7",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=11935",
+            "BackColor": "#008a9a"
+          }
+        ]
+      },
+      {
+        "THEMA_NO": "4",
+        "AREA_NO": "837",
+        "Item": [
+          {
+            "NO": "7637",
+            "NAME": "제주 KAL호텔",
+            "Image": "/promotion/7637/1100_7637.jpg",
+            "Sort": "1",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=7637",
+            "BackColor": "#977d51"
+          },
+          {
+            "NO": "7478",
+            "NAME": "제주 자유여행",
+            "Image": "/promotion/7478/1100_7478.jpg",
+            "Sort": "2",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=7478",
+            "BackColor": "#13427f"
+          }
+        ]
+      },
+      {
+        "THEMA_NO": "5",
+        "AREA_NO": "NULL",
+        "Item": [
+          {
+            "NO": "8056",
+            "NAME": "필리핀 추천 골프상품",
+            "Image": "/promotion/8056/1100_8056.jpg",
+            "Sort": "1",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=8056",
+            "BackColor": "#266059"
+          },
+          {
+            "NO": "11637",
+            "NAME": "아빠는 골프가 왜 좋아 [21_골프모음]",
+            "Image": "/promotion20/11637/1100_11637.jpg",
+            "Sort": "2",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=11637",
+            "BackColor": "#977d51"
+          },
+          {
+            "NO": "11618",
+            "NAME": "21_치앙마이기획전",
+            "Image": "/promotion/10912/1100_10912.jpg",
+            "Sort": "4",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=11618",
+            "BackColor": "#13427f"
+          },
+          {
+            "NO": "11170",
+            "NAME": "베트남 골프",
+            "Image": "/promotion/11170/1100_11170.jpg",
+            "Sort": "5",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=11170",
+            "BackColor": "#323070"
+          },
+          {
+            "NO": "11877",
+            "NAME": "22_태국골프",
+            "Image": "/promotion20/11877/1100_11877.jpg",
+            "Sort": "6",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=11877",
+            "BackColor": "#232a31"
+          },
+          {
+            "NO": "12206",
+            "NAME": "링티와 함께하는 골프여행",
+            "Image": "/promotion20/11637/1100_11637.jpg",
+            "Sort": "7",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=12206",
+            "BackColor": "#0a1931"
+          },
+          {
+            "NO": "11842",
+            "NAME": "국내골프",
+            "Image": "/promotion20/11842/1100_11842.jpg",
+            "Sort": "7",
+            "URL": "/event/plan/detail.aspx?mloc=07&eidx=11842",
+            "BackColor": "#331600"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "Relation": {
+    "item": [
+      {
+        "LocID": "LOC261",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC261",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC261",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC262",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC262",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC262",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC266",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC289",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC290",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC291",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC358",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC374",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC378",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC378",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC379",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC396",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC398",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC410",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC410",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC410",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC436",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC484",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC485",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC513",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC513",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC513",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC520",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC520",
+        "TheID": "THE130"
+      },
+      {
+        "LocID": "LOC520",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC520",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC530",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC530",
+        "TheID": "THE130"
+      },
+      {
+        "LocID": "LOC530",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC530",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC531",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC533",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC548",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC548",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC549",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC582",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC582",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC582",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC670",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC670",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC671",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC671",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC1164",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1164",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC1749",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1869",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1875",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1889",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1889",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC1889",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC1890",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1890",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC1890",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC1891",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1891",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC1891",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC1919",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1919",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC1919",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC1920",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1920",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC1921",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1921",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC1921",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC1923",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1923",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC1923",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC1924",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1924",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC1924",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC1927",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1928",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1928",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC1943",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1943",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC1943",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC1957",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC1957",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC2024",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2024",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC2024",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC2048",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2048",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC2048",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC2072",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2072",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC2072",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC2095",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2095",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC2095",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC2136",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2136",
+        "TheID": "THE132"
+      },
+      {
+        "LocID": "LOC2144",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2145",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2145",
+        "TheID": "THE131"
+      },
+      {
+        "LocID": "LOC2188",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2202",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2203",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2255",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2256",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2257",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2261",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2262",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2263",
+        "TheID": "THE68"
+      },
+      {
+        "LocID": "LOC2264",
+        "TheID": "THE132"
+      }
+    ]
+  }
+}

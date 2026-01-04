@@ -1,0 +1,60 @@
+{
+  "Modetour": {
+    "Item": [
+      {
+        "Gubun": "해외항공",
+        "Sort": "1",
+        "ROT": "RT",
+        "DLC": "SEL",
+        "ALC": "TPE",
+        "DLCNM": "인천",
+        "ALCNM": "대만",
+        "COUNTRY": "TW",
+        "DTD": "2023.01.24",
+        "DTDTime": "2023.12.31",
+        "ARD": "2023.01.27",
+        "ARDTime": "2023.09.07",
+        "Price": "428800",
+        "SAC": "CI",
+        "SACNM": "중화항공",
+        "BackColor": "#8c1932"
+      },
+      {
+        "Gubun": "해외항공",
+        "Sort": "2",
+        "ROT": "RT",
+        "DLC": "SEL",
+        "ALC": "HAN",
+        "DLCNM": "인천",
+        "ALCNM": "하노이",
+        "COUNTRY": "VN",
+        "DTD": "2023.01.24",
+        "DTDTime": "2023.10.28",
+        "ARD": "2023.01.27",
+        "ARDTime": "2023.02.16",
+        "Price": "358600",
+        "SAC": "QH",
+        "SACNM": "뱀부항공",
+        "BackColor": "#13444a"
+      },
+      {
+        "Gubun": "해외항공",
+        "Sort": "3",
+        "ROT": "RT",
+        "DLC": "SEL",
+        "ALC": "SIN",
+        "DLCNM": "인천",
+        "ALCNM": "싱가포르",
+        "COUNTRY": "SG",
+        "DTD": "2023.01.24",
+        "DTDTime": "2023.10.28",
+        "ARD": "2022.01.27",
+        "ARDTime": "2023.10.28",
+        "Price": "412800",
+        "SAC": "TW",
+        "SACNM": "진에어",
+        "BackColor": "#331600"
+      }
+    ]
+  }
+}

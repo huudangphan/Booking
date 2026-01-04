@@ -1,0 +1,34 @@
+{
+  "Recommend": [
+    {
+      "Date": "2023-04-01",
+      "Category": "Air",
+      "CityName": "Nha Trang",
+      "ProductCode": 67945688
+    },
+    {
+      "Date": "2023-3-20",
+      "Category": "Air",
+      "CityName": "Phu Ket",
+      "ProductCode": 68168140
+    },
+    {
+      "Date": "2023-03-27",
+      "Category": "Air",
+      "CityName": "Busan",
+      "ProductCode": 68168140
+    },
+    {
+      "Date": "2023-04-01",
+      "Category": "Air",
+      "CityName": "Da Nang",
+      "ProductCode": 67945688
+    },
+    {
+      "Date": "2023-03-10",
+      "Category": "Air",
+      "CityName": "Phu Quoc",
+      "ProductCode": 68168140
+    }
+  ]
+}

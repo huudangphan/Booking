@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <RollingBanner>
+    <Item>
+      <Description>아시아나항공</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=10018&amp;eidx2=2871&amp;gubun=I</URL>
+      <Image>/banner/main/m538_10018.jpg</Image>
+      <NewOpen>N</NewOpen>
+      <Sort>1</Sort>
+    </Item>
+    <Item>
+      <Description>카카오톡 플러스친구</Description>
+      <URL>/event/event_17/0201_kakao/mode.aspx?mloc=110101&amp;eidx2=1607</URL>
+      <Image>/banner/main/m538_170201_kakao.jpg</Image>
+      <NewOpen>N</NewOpen>
+      <Sort>2</Sort>
+    </Item>
+  </RollingBanner>
+  <FixedBanner>
+    <Item>
+      <Description>닷컴 띠배너_PC</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12157</URL>
+      <Image>/modetour/2021/main/bg_top_banner.jpg</Image>
+      <BImage>/modetour/2021/main/img_top_banner_230112.jpg</BImage>
+      <NewOpen>N</NewOpen>
+      <Sort>1</Sort>
+    </Item>
+    <Item>
+      <Description>닷컴 띠배너_,MO</Description>
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=12157</URL>
+      <Image>/modemobile/2021/main/img/img_appdown_new_230112.gif</Image>
+      <BImage>
+      </BImage>
+      <NewOpen>N</NewOpen>
+      <Sort>2</Sort>
+    </Item>
+  </FixedBanner>
+  <Guerrilla />
+  <BigSale>
+    <Item NO="11493" NAME="고객 안심 더 좋은 패키지">
+      <URL>/event/plan/detail.aspx?mloc=07&amp;eidx=11493</URL>
+      <Image>/banner/main/m279_11493.jpg</Image>
+      <NewOpen>N</NewOpen>
+      <Sort>1</Sort>
+    </Item>
+  </BigSale>
+</Root>

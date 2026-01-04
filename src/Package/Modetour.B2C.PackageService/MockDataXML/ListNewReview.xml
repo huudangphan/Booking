@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<totalReview>296</totalReview>
+	<satisfactionAverageRate>4</satisfactionAverageRate>
+	<satisfactionScheduleRate>1</satisfactionScheduleRate>
+	<satisfactionHotelRate>1</satisfactionHotelRate>
+	<satisfactionAirlineRate>2</satisfactionAirlineRate>
+	<satisfactionMealRate>2</satisfactionMealRate>
+	<satisfactionTourRate>3</satisfactionTourRate>
+	<satisfactionValueForMoneyRate>1</satisfactionValueForMoneyRate>
+	<listOldReview>
+		<serialNumber>85137</serialNumber>
+		<ptid>6861612</ptid>
+		<id>02|40947385</id>
+		<registerDate>2023-03-09T11:40:19.98</registerDate>
+		<groupName>|[호텔보다 풀빌라!!-3박 5일]방콕 스윗 1박+파타야 풀빌라 2박+요트투어+전통안마 1시간</groupName>
+		<title>일정표 개무시, 옵션 강제(강요x 강제o) 인생 최악의여행</title>
+		<writer>김병갑</writer>
+		<searchNumber>8</searchNumber>
+		<recommend>0</recommend>
+		<image>/eagle/photoimg/55748/Rfile/635911349200877746_S.jpg</image>
+		<satisfactionRate>1</satisfactionRate>
+		<region>아시아|태국|방콕</region>
+		<open>2</open>
+		<picture></picture>
+		<regionPLID>3</regionPLID>
+		<travelSpot>3\85\1373</travelSpot>
+		<itemClassification>P</itemClassification>
+		<position>0</position>
+		<guestRoom>0</guestRoom>
+		<service>0</service>
+		<price>0</price>
+		<content>내용 긴 관계로</content>
+		<groupNumber>66804425</groupNumber>
+		<departureDate>2023-03-05</departureDate>
+		<travelPeriod>3박 5일</travelPeriod>
+		<representativeHotel>에이원 방콕 호텔</representativeHotel>
+		<hotelClass>4.0</hotelClass>
+		<airlineName>티웨이 항공</airlineName>
+	</listOldReview>
+	<listNewReview>
+		<serialNumber>4134</serialNumber>
+		<title>일정표 개무시, 옵션 강제(강요x 강제o) 인생 최악의여행</title>
+		<writer>김모두모두별명</writer>
+		<writerAvatar>https://img.modetour.com/eagle/photoimg/11005/bfile/635538931937188407.png</writerAvatar>
+		<writerLocation>오사카, 일본</writerLocation>
+		<content>솔레아리조트에 있는 카약체험도 재밌었어요. 시간되시는 분들에게 적극 추천하고 싶네요. 솔레아리조트에 숙박 하시는 분은 쿠폰으로 이용할수 있으니 이용을 권장합니다! 첫날부터 마지막까지 친절하게 안내해주신 가이드 조이님께 감사 드립니다.</content>
+		<reviewTravelImages>
+			<locationName>새벽사원</locationName>
+			<imageLink>https://img.modetour.com/eagle/photoimg/11005/bfile/635538931937188407.png</imageLink>
+		</reviewTravelImages>
+		<reviewTravelImages>
+			<locationName>새벽사원</locationName>
+			<imageLink>https://img.modetour.com/eagle/photoimg/11005/bfile/635116574873305589.png</imageLink>
+		</reviewTravelImages>
+		<reviewComments>
+			<serialNumber>186</serialNumber>
+			<writer>ab***fg***</writer>
+			<comment>투명 카약도 있나요? 패러세일링은 얼마에 탈 수 있나요? 알려주세요~~</comment>
+			<createdDate>2023-03-05</createdDate>
+		</reviewComments>
+		<hagTags>#카약아이좋아</hagTags>
+		<hagTags>#막탄에서막탄다</hagTags>
+		<hagTags>#세부시티</hagTags>
+		<totalComment>1</totalComment>
+		<totalLike>120</totalLike>
+		<createdDate>2023-03-05</createdDate>
+	</listNewReview>
+</root>

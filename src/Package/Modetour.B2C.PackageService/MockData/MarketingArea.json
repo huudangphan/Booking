@@ -1,0 +1,56 @@
+{
+  "Root": {
+    "MarketingBanner": {
+      "Item": [
+        {
+          "Description": "이벤트/결제혜택",
+          "URL": "/event/plan/detail.aspx?mloc=07&eidx=12183",
+          "Image": "/modetour/2021/main/m520_12183.png",
+          "NewOpen": "N"
+        },
+        {
+          "Description": "신한은행 환전 이벤트",
+          "URL": "/event/plan/detail.aspx?mloc=07&eidx=12182",
+          "Image": "/promotion20/12182/m520_12182.png",
+          "NewOpen": "N"
+        },
+        {
+          "Description": "KB국민카드",
+          "URL": "/event/plan/detail.aspx?mloc=07&eidx=12184",
+          "Image": "/modetour/2021/main/m520_12184.png",
+          "NewOpen": "N"
+        },
+        {
+          "Description": "웰컴쿠폰",
+          "URL": "/event/plan/detail.aspx?mloc=07&eidx=12004",
+          "Image": "/modetour/2021/main/m520_12004.png",
+          "NewOpen": "N"
+        },
+        {
+          "Description": "카드 무이자",
+          "URL": "/event/plan/detail.aspx?mloc=07&eidx=11643",
+          "Image": "/modetour/2021/main/img10.png",
+          "NewOpen": "N"
+        }
+      ]
+    },
+    "SpecialExhibitionBanner": {
+      "Item": [
+        {
+          "Type": "LEFT",
+          "Description": "PC_신한카드",
+          "URL": "/event/plan/detail.aspx?mloc=07&eidx=12183",
+          "Image": "/promotion20/12183/pc_banner_12183.png",
+          "NewOpen": "N"
+        },
+        {
+          "Type": "RIGHT",
+          "Description": "모바일_신한은행",
+          "URL": "/event/plan/detail.aspx?mloc=07&eidx=12182",
+          "Image": "/promotion20/12182/m_banner_12182.png",
+          "NewOpen": "N"
+        }
+      ]
+    }
+  }
+}
